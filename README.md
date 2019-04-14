@@ -1,5 +1,5 @@
 # id Software archive
-A collection of different media about id software and their games.
+A collection of information about id software and their games.
 
 ## Articles / Interviews
 | Article | Date | Source / Mirror
@@ -29,6 +29,20 @@ A collection of different media about id software and their games.
 - [Markdown](https://github.com/oliverbenns/john-carmack-plan/tree/master/archive)
 - [Ascii](https://github.com/fabiensanglard/carmack/tree/master/plan_files)
 
+## Source code
+| Game | Year of game release 
+| --- | --- |
+| [Catacomb](https://github.com/CatacombGames/Catacomb) | 1990
+| [Commander Keen](https://github.com/keendreams/keen) | 1990
+| [Hovertank 3D](https://github.com/FlatRockSoft/Hovertank3D) | 1991
+| [Wolfenstein 3D](https://github.com/id-Software/wolf3d) | 1992
+| [DOOM](https://github.com/id-Software/DOOM) | 1993
+| [Quake](https://github.com/id-Software/Quake) | 1996
+| [Quake II](https://github.com/id-Software/Quake-2) | 1997
+| [Quake III: Arena](https://github.com/id-Software/Quake-III-Arena) | 1999
+| [DOOM 3](https://github.com/id-Software/DOOM-3) | 2004
+| [DOOM 3 BFG Edition](https://github.com/id-Software/DOOM-3-BFG) | 2012
+
 ## Videos
 | Video | Date   |
 | -------------  | ------------- |
@@ -51,20 +65,25 @@ A collection of different media about id software and their games.
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 3 / 4](https://www.youtube.com/watch?v=fBndl74FBao) | 2004-??-??
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 4 / 4](https://www.youtube.com/watch?v=315GBXAg5pI) | 2004-??-??
 | [John Carmack GDC 2004 Keynote](https://www.youtube.com/watch?v=N0auhzHZe5k) | 2004-??
+| [John Carmack QuakeCon 2006](https://www.youtube.com/watch?v=_dkZ3YLNbqM) | 2006-??
+| [John Romero - Talks About Old Days](https://www.youtube.com/watch?v=PJW1aC47Js4) | 2007 (?), [source](http://www.getlamp.com/cast/20071118romero/index.html)
 | [John Carmack E3 2011](https://www.youtube.com/watch?v=NxFdsEtr-TY) | 2011-06-?? [3]
 | [Quakecon 2013 Welcome and Annual Keynote John Carmack](https://www.youtube.com/watch?v=gqhyet45p1s) | 2013-??
 | [Principles of Lighting and Rendering with John Carmack at QuakeCon 2013](https://www.youtube.com/watch?v=IyUgHPs86XM) | 2013-??
 | [Doom 20th Anniversary Event Video](https://www.youtube.com/watch?v=BdZ1SjcH5xA) | 2013-??
 | [id Software 20th Anniversary Feature](https://www.youtube.com/watch?v=sh9GAviYRkc) | 2013-??
+| [John Carmack - Twenty Years after Doom](https://www.youtube.com/watch?v=Nqr4lwtuUcE) | 2014-04-25 [4]
+| [John Romero - id Software's early days - GDC 2016](https://www.youtube.com/watch?v=E2MIpi8pIvY) | 2016-??
+| [Tim Willits on id, John Carmack and game/level design](https://www.youtube.com/watch?v=WHAlkDdro6s) | ??
 ## Misc
 - [John Carmack's Slashdot posts](https://github.com/fabiensanglard/carmack/tree/master/slash_files)
-
+- [Masters of Doom](https://isbnsearch.org/isbn/0375505245)
 # Thanks
 - id software for creating so many legendary games in such a short time.
-- 
 - [rebelCoder](https://www.youtube.com/user/JurisL85/videos) for archiving/finding and uploading a huge amount of videos to youtube.
 
 # Notes
 [1] - https://web.archive.org/web/20000816025310/http://www.quakecon.org/faq.html#1.<br>
 [2] - https://web.archive.org/web/20010515220310/http://www.quakecon.org/<br>
-[3] - https://en.wikipedia.org/wiki/Electronic_Entertainment_Expo_2011
+[3] - https://en.wikipedia.org/wiki/Electronic_Entertainment_Expo_2011<br>
+[4] - https://people.smu.edu/mjhaveri/2014/04/18/carmack/comment-page-2/
