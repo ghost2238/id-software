@@ -4,9 +4,11 @@ A collection of different media about id software and their games.
 ## Articles / Interviews
 | Article | Date | Source
 | --- | --- | --- |
-| [John Carmack on inlined code](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html) | 2014-09-26
 | [John Carmack interviewed by DR_Bone, Clan Dark Requiem](https://www.bluesnews.com/a/11) | 1997-01-08 | http://www.bluesnews.com/cgi-bin/articles.pl?show=11
 | [Boot Magazine Interviews John Carmack & Brian Hook](https://web.archive.org/web/19980130151941/http://www.bootnet.com/youaskedforit/lip_16_outtakes/lip_16_all.html) | 1997-11-25
+| [Electric Play interviews John Carmack](http://web.archive.org/web/19981201075539/http://www.elecplay.com/feature/quake/carmack.shtml) | 1997 (?) | http://web.archive.org/web/19981201075539/http://www.elecplay.com/feature/quake/carmack.shtml
+| [id Software's owner and lead programmer talks about Quake III Arena](https://web.archive.org/web/20030515172424/http://www.cdmag.com/articles/021/004/jc_interview.html) | 1999-06-30
+| [John Carmack on inlined code](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html) | 2014-09-26
 
 ## Transcripts
 | Transcript | Date
