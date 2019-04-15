@@ -49,6 +49,9 @@ A collection of information about id software and their games.
 | [A Visit to id Software (November 1993)](https://vimeo.com/4022128) | 1993-11-??
 | [Doom 2: Hell On Earth Trailer 1994](https://www.youtube.com/watch?v=p-KIS4Sk76c) | 1994-??
 | [QuakeWorld Launch Event (1996)](https://www.youtube.com/watch?v=LXw6BkZ-gdY)  | 1996-09-19
+| [MacWorld San Francisco 1999](https://www.youtube.com/watch?v=VUfu-xOGr1U&t=4m30s) | 1999-??
+| [John Carmack QuakeCon 2000, Part 1/2](https://www.youtube.com/watch?v=Y5P_mIEeLmA) | 2000-??
+| [John Carmack QuakeCon 2000, Part 2/2](https://www.youtube.com/watch?v=NE74zFoKxAQ) | 2000-??
 | [John Carmack - Interview (2000)](https://www.youtube.com/watch?v=SzWQUlbMhwA) | 2000-08-?? (August 3–6) [1]
 | [John Carmack - Doom 3 Engine Technology Interview, Part 1/4](https://www.youtube.com/watch?v=sWRctnQU2F4) | 2001-08-?? (August 9-12) [2]
 | [John Carmack - Doom 3 Engine Technology Interview, Part 2/4](https://www.youtube.com/watch?v=7YV-RMG_NLM) | 2001-08-?? (August 9-12)
@@ -56,6 +59,7 @@ A collection of information about id software and their games.
 | [John Carmack - Doom 3 Engine Technology Interview, Part 4/4](https://www.youtube.com/watch?v=o5PWHZpxkx4) | 2001-08-?? (August 9-12)
 | [Doom 3 Legacy](https://www.youtube.com/watch?v=rxdA1nED63k) | 2001-??
 | [John Carmack Announcing Doom 3 at MacWorld 2001](https://www.youtube.com/watch?v=Qj3dPyk7hPI) | 2001-??
+| [John Carmack QuakeCon 2002 Keynote](https://www.youtube.com/watch?v=rzY_FGRoccI) | 2002-??
 | [id Software - Doom 3 Team Development Story, Part 1/3](https://www.youtube.com/watch?v=X8xvTJ6msqY) | ?
 | [id Software - Doom 3 Team Development Story, Part 2/3](https://www.youtube.com/watch?v=jH4DVCNWmMU) | ?
 | [id Software - Doom 3 Team Development Story, Part 3/3](https://www.youtube.com/watch?v=bMw24I_D9cY) | ?
@@ -65,16 +69,28 @@ A collection of information about id software and their games.
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 3 / 4](https://www.youtube.com/watch?v=fBndl74FBao) | 2004-??-??
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 4 / 4](https://www.youtube.com/watch?v=315GBXAg5pI) | 2004-??-??
 | [John Carmack GDC 2004 Keynote](https://www.youtube.com/watch?v=N0auhzHZe5k) | 2004-??
+| [John Carmack QuakeCon 2005 Keynote](https://www.youtube.com/watch?v=qePmEhK1q9A) | 2005-??
 | [John Carmack QuakeCon 2006](https://www.youtube.com/watch?v=_dkZ3YLNbqM) | 2006-??
+| [John Carmack QuakeCon 2006 #2](https://www.youtube.com/watch?v=WMALYXn0trw) | 2006-??
+| [John Carmack QuakeCon 2006 Keynote](https://www.youtube.com/watch?v=Fis3AlTaml4) | 2006-??
+| [John Carmack QuakeCon 2007 Keynote](https://www.youtube.com/watch?v=V-8unki76Z8) | 2007-??
 | [John Romero - Talks About Old Days](https://www.youtube.com/watch?v=PJW1aC47Js4) | 2007 (?), [source](http://www.getlamp.com/cast/20071118romero/index.html)
+| [John Carmack QuakeCon 2008 Keynote](https://www.youtube.com/watch?v=wbFHUnTFI6w) | 2008-??
+| [John Carmack Interview QuakeCon 2008](https://www.youtube.com/watch?v=H2Vqt2boumI) | 2008-??
+| [John Carmack QuakeCon 2009 Keynote](https://www.youtube.com/watch?v=-aHRxc3mW_A) | 2009-??
+| [John Carmack QuakeCon 2010 Keynote](https://www.youtube.com/playlist?list=PL6C2682BFF95E8206) | 2010-??
+| [John Carmack QuakeCon 2011 Keynote](https://www.youtube.com/watch?v=4zgYG-_ha28) | 2011-??
+| [John Carmack QuakeCon 2011 Keynote Q&A](https://www.youtube.com/watch?v=00Q9-ftiPVQ) | 2011-??
 | [John Carmack E3 2011](https://www.youtube.com/watch?v=NxFdsEtr-TY) | 2011-06-?? [3]
-| [Quakecon 2013 Welcome and Annual Keynote John Carmack](https://www.youtube.com/watch?v=gqhyet45p1s) | 2013-??
+| [John Carmack QuakeCon 2012 Keynote](https://www.youtube.com/watch?v=wt-iVFxgFWk) | 2012-??
+| [John Carmack Quakecon 2013 Keynote](https://www.youtube.com/watch?v=gqhyet45p1s) | 2013-??
 | [Principles of Lighting and Rendering with John Carmack at QuakeCon 2013](https://www.youtube.com/watch?v=IyUgHPs86XM) | 2013-??
 | [Doom 20th Anniversary Event Video](https://www.youtube.com/watch?v=BdZ1SjcH5xA) | 2013-??
 | [id Software 20th Anniversary Feature](https://www.youtube.com/watch?v=sh9GAviYRkc) | 2013-??
 | [John Carmack - Twenty Years after Doom](https://www.youtube.com/watch?v=Nqr4lwtuUcE) | 2014-04-25 [4]
 | [John Romero - id Software's early days - GDC 2016](https://www.youtube.com/watch?v=E2MIpi8pIvY) | 2016-??
 | [Tim Willits on id, John Carmack and game/level design](https://www.youtube.com/watch?v=WHAlkDdro6s) | ??
+
 ## Misc
 - [John Carmack's Slashdot posts](https://github.com/fabiensanglard/carmack/tree/master/slash_files)
 - [Masters of Doom](https://isbnsearch.org/isbn/0375505245)
