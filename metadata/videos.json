@@ -1,0 +1,127 @@
+[
+  {
+    "title": "A Visit to id Software (November 1993)",
+    "date": "1993-11-??",
+    "dateSources": [],
+    "videoSources": [
+      "https://vimeo.com/4022128"
+    ]
+  },
+  {
+    "title": "Doom 2: Hell On Earth Trailer",
+    "date": "1994-??",
+    "dateSources": [],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=p-KIS4Sk76c"
+    ]
+  },
+  {
+    "title": "QuakeWorld Launch Event",
+    "date": "1996-09-19",
+    "dateSources": [],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=LXw6BkZ-gdY"
+    ]
+  },
+  {
+    "title": "MacWorld San Francisco 1999",
+    "date": "1999-??",
+    "dateSources": [],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=VUfu-xOGr1U&t=4m30s"
+    ]
+  },
+  {
+    "title": "John Carmack QuakeCon 2000, Part 1/2",
+    "date": "2000-??",
+    "dateSources": [],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=Y5P_mIEeLmA"
+    ]
+  },
+  {
+    "title": "John Carmack QuakeCon 2000, Part 2/2",
+    "date": "2000-??",
+    "dateSources": [],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=NE74zFoKxAQ"
+    ]
+  },
+  {
+    "title": "John Carmack - Interview (2000)",
+    "date": "2000-08-??",
+    "dateSources": [
+      "https://web.archive.org/web/20000816025310/http://www.quakecon.org/faq.html#1"
+    ],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=SzWQUlbMhwA"
+    ]
+  },
+  {
+    "title": "John Carmack - Doom 3 Engine Technology Interview, Part 1/4",
+    "date": "2001-08-??",
+    "dateSources": [
+      "https://web.archive.org/web/20010515220310/http://www.quakecon.org/"
+    ],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=sWRctnQU2F4"
+    ]
+  },
+  {
+    "title": "John Carmack - Doom 3 Engine Technology Interview, Part 2/4",
+    "date": "2001-08-??",
+    "dateSources": [],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=7YV-RMG_NLM"
+    ]
+  },
+  {
+    "title": "John Carmack - Doom 3 Engine Technology Interview, Part 3/4",
+    "date": "2001-08-??",
+    "dateSources": [],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=10fP1j7429g"
+    ]
+  },
+  {
+    "title": "John Carmack - Doom 3 Engine Technology Interview, Part 4/4",
+    "date": "2001-08-??",
+    "dateSources": [],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=o5PWHZpxkx4"
+    ]
+  },
+  {
+    "title": "id Software - Doom 3 Team Development Story, Part 1/3",
+    "date": "2004",
+    "dateSources": [
+      "https://archive.org/details/DOOM_3_G4_History_of_Doom"
+    ],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=X8xvTJ6msqY",
+      "https://archive.org/details/DOOM_3_G4_History_of_Doom/doom3part1.avi"
+    ]
+  },
+  {
+    "title": "id Software - Doom 3 Team Development Story, Part 2/3",
+    "date": "2004",
+    "dateSources": [
+      "https://archive.org/details/DOOM_3_G4_History_of_Doom"
+    ],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=jH4DVCNWmMU",
+      "https://archive.org/details/DOOM_3_G4_History_of_Doom/doom3part2.avi"
+    ]
+  },
+  {
+    "title": "id Software - Doom 3 Team Development Story, Part 3/3",
+    "date": "2004",
+    "dateSources": [
+      "https://archive.org/details/DOOM_3_G4_History_of_Doom"
+    ],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=bMw24I_D9cY",
+      "https://archive.org/details/DOOM_3_G4_History_of_Doom/doom3part3.avi"
+    ]
+  }
+]

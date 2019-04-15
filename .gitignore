@@ -1,0 +1,5 @@
+tools/win-editor/.vs/**
+tools/win-editor/bin/**
+tools/win-editor/obj/**
+tools/win-editor/packages/**
+output/*
