@@ -93,7 +93,8 @@ namespace win_editor
             }
             else
             {
-                y = Int32.Parse(fuzzyDate);
+                // Only parse year
+                y = Int32.Parse(fuzzyDate.Substring(0,4));
                 return new DateTime(y, 1, 1);
             }
         }
