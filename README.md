@@ -56,8 +56,8 @@ A collection of information about id software and their games.
 - [Ascii](https://github.com/fabiensanglard/carmack/tree/master/plan_files)
 
 ## Source code
-| Game | Year of game release 
-| --- | --- |
+| Game | Year of game release |
+| --- | --- | 
 | [Catacomb](https://github.com/CatacombGames/Catacomb) | 1990
 | [Commander Keen](https://github.com/keendreams/keen) | 1990
 | [Hovertank 3D](https://github.com/FlatRockSoft/Hovertank3D) | 1991
@@ -68,6 +68,7 @@ A collection of information about id software and their games.
 | [Quake III: Arena](https://github.com/id-Software/Quake-III-Arena) | 1999
 | [DOOM 3](https://github.com/id-Software/DOOM-3) | 2004
 | [DOOM 3 BFG Edition](https://github.com/id-Software/DOOM-3-BFG) | 2012
+
 
 ## Audio
 | Audio | Date |
@@ -80,7 +81,7 @@ A collection of information about id software and their games.
 ## Videos
 | Video | Date |
 | --- | --- | 
-| [ATI Radeon 9700 Promotion - John Carmack](https://www.youtube.com/watch?v=fU3RLKuVOic&t=2m10s) | 
+| [ATI Radeon 9700 Promotion - John Carmack](https://www.youtube.com/watch?v=fU3RLKuVOic&t=2m6s) | 
 | [Tim Willits on id, John Carmack and game/level design](https://www.youtube.com/watch?v=WHAlkDdro6s) | 
 | [Quake 4 PC Games Interview - Todd Hollenshead Video](https://www.youtube.com/watch?v=ox_ozJwKPw4) | 
 | [Wolfenstein 3D - id Software and Apogee interview](https://www.youtube.com/watch?v=HLnDoyzHq2k) | 1992
@@ -100,6 +101,8 @@ A collection of information about id software and their games.
 | [John Carmack - Doom 3 Engine Technology Interview, Part 3/4](https://www.youtube.com/watch?v=10fP1j7429g) | 2001-08-??
 | [John Carmack - Doom 3 Engine Technology Interview, Part 4/4](https://www.youtube.com/watch?v=o5PWHZpxkx4) | 2001-08-??
 | [John Carmack QuakeCon 2002 Keynote](https://www.youtube.com/watch?v=rzY_FGRoccI) | 2002-??
+| [QuakeCon 2002 Doom 3 Interview](https://archive.org/details/QuakeCon_2002_Interview) | 2002-08-??
+| [Todd Hollenshead Interview (QuakeCon 2002)](https://archive.org/details/Todd_Hollenshead_Interview_QuakeCon_2002) | 2002-08-??
 | [John Romero, Tom Hall, Monkeystone Games](https://www.youtube.com/watch?v=Gkqp8Cxo9r0) | 2003?
 | [id Software - Doom 3 Team Development Story, Part 1/3](https://www.youtube.com/watch?v=X8xvTJ6msqY) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
 | [id Software - Doom 3 Team Development Story, Part 2/3](https://www.youtube.com/watch?v=jH4DVCNWmMU) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
@@ -113,7 +116,7 @@ A collection of information about id software and their games.
 | [John Carmack QuakeCon 2006](https://www.youtube.com/watch?v=_dkZ3YLNbqM) | 2006-??
 | [John Carmack QuakeCon 2006 #2](https://www.youtube.com/watch?v=WMALYXn0trw) | 2006-??
 | [John Carmack QuakeCon 2006 Keynote](https://www.youtube.com/watch?v=Fis3AlTaml4) | 2006-??
-| [Inside id software](https://www.youtube.com/watch?v=V-VF-PHMPZc) | 2006-09-13 
+| [Inside id software](https://www.youtube.com/watch?v=V-VF-PHMPZc) | 2006-09-13  [[1]](https://web.archive.org/web/20070427162123/http://www.quakeunity.com/article=13)
 | [John Carmack demonstrates ID Tech 5 at WWDC 2007](https://www.youtube.com/watch?v=HvuTtrkVtns) | 2007-??
 | [John Carmack QuakeCon 2007 Keynote](https://www.youtube.com/watch?v=V-8unki76Z8) | 2007-??
 | [John Romero - Talks About Old Days](https://www.youtube.com/watch?v=PJW1aC47Js4) | 2007 [[1]](http://www.getlamp.com/cast/20071118romero/index.html)

@@ -16,18 +16,7 @@ A collection of information about id software and their games.
 - [Ascii](https://github.com/fabiensanglard/carmack/tree/master/plan_files)
 
 ## Source code
-| Game | Year of game release 
-| --- | --- |
-| [Catacomb](https://github.com/CatacombGames/Catacomb) | 1990
-| [Commander Keen](https://github.com/keendreams/keen) | 1990
-| [Hovertank 3D](https://github.com/FlatRockSoft/Hovertank3D) | 1991
-| [Wolfenstein 3D](https://github.com/id-Software/wolf3d) | 1992
-| [DOOM](https://github.com/id-Software/DOOM) | 1993
-| [Quake](https://github.com/id-Software/Quake) | 1996
-| [Quake II](https://github.com/id-Software/Quake-2) | 1997
-| [Quake III: Arena](https://github.com/id-Software/Quake-III-Arena) | 1999
-| [DOOM 3](https://github.com/id-Software/DOOM-3) | 2004
-| [DOOM 3 BFG Edition](https://github.com/id-Software/DOOM-3-BFG) | 2012
+{SOURCE_TABLE}
 
 ## Audio
 {AUDIO_TABLE}

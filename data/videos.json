@@ -4,7 +4,7 @@
     "date": "",
     "dateSources": [],
     "videoSources": [
-      "https://www.youtube.com/watch?v=fU3RLKuVOic&t=2m10s"
+      "https://www.youtube.com/watch?v=fU3RLKuVOic&t=2m6s"
     ]
   },
   {
@@ -164,6 +164,22 @@
     ]
   },
   {
+    "title": "QuakeCon 2002 Doom 3 Interview",
+    "date": "2002-08-??",
+    "dateSources": [],
+    "videoSources": [
+      "https://archive.org/details/QuakeCon_2002_Interview"
+    ]
+  },
+  {
+    "title": "Todd Hollenshead Interview (QuakeCon 2002)",
+    "date": "2002-08-??",
+    "dateSources": [],
+    "videoSources": [
+      "https://archive.org/details/Todd_Hollenshead_Interview_QuakeCon_2002"
+    ]
+  },
+  {
     "title": "John Romero, Tom Hall, Monkeystone Games",
     "date": "2003?",
     "dateSources": [],
@@ -279,7 +295,9 @@
   {
     "title": "Inside id software",
     "date": "2006-09-13 ",
-    "dateSources": [],
+    "dateSources": [
+      "https://web.archive.org/web/20070427162123/http://www.quakeunity.com/article=13"
+    ],
     "videoSources": [
       "https://www.youtube.com/watch?v=V-VF-PHMPZc"
     ]

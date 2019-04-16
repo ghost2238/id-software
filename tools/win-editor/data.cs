@@ -25,6 +25,17 @@ namespace win_editor
                 return d;
             }
         }
+        [JsonIgnoreAttribute]
+        public string dateHTMLLinks
+        {
+            get
+            {
+                string d = date;
+                if (dateSources.Count > 0)
+                    d += " " + HTML.LinksString(dateSources);
+                return d;
+            }
+        }
 
         public string title;
         public string date;
@@ -50,6 +61,17 @@ namespace win_editor
                 return d;
             }
         }
+        [JsonIgnoreAttribute]
+        public string dateHTMLLinks
+        {
+            get
+            {
+                string d = date;
+                if (dateSources.Count > 0)
+                    d += " " + HTML.LinksString(dateSources);
+                return d;
+            }
+        }
 
         public string title;
         public string date;
@@ -68,6 +90,16 @@ namespace win_editor
         public string publisher;
         public string date;
         public List<string> sources = new List<string>();
+    }
+
+    class Source
+    {
+        [JsonIgnoreAttribute]
+        public DateTime editorDate => Data.fuzzyDateToDateTime(year);
+
+        public string game;
+        public string url;
+        public string year;
     }
 
     public class Data
@@ -100,7 +132,7 @@ namespace win_editor
         }
 
         public readonly static string BaseDir = Directory.GetCurrentDirectory() + "../../../../../";
-        public readonly static string MetaDir = BaseDir + "metadata/";
+        public readonly static string MetaDir = BaseDir + "data/";
         public readonly static string OutputDir = BaseDir + "output/";
         public readonly static string TemplateDir = BaseDir + "templates/";
 

@@ -30,14 +30,32 @@
         {
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.txtArtPublisher = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.btnArtSourceRemove = new System.Windows.Forms.Button();
+            this.btnArtSourceAdd = new System.Windows.Forms.Button();
+            this.txtArtSource = new System.Windows.Forms.TextBox();
+            this.lstArticleSources = new System.Windows.Forms.ListBox();
+            this.btnRemoveArticle = new System.Windows.Forms.Button();
+            this.btnAddArticle = new System.Windows.Forms.Button();
+            this.txtArtDate = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.txtArtTitle = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
             this.lstArticles = new System.Windows.Forms.ListView();
             this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader7 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.tabPage3 = new System.Windows.Forms.TabPage();
             this.btnRemoveVideo = new System.Windows.Forms.Button();
             this.btnAddVideo = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.btnVidSourceRemove = new System.Windows.Forms.Button();
+            this.btnVidSourceAdd = new System.Windows.Forms.Button();
             this.txtSource = new System.Windows.Forms.TextBox();
             this.lstSources = new System.Windows.Forms.ListBox();
             this.rdbVideoDate = new System.Windows.Forms.RadioButton();
@@ -54,32 +72,15 @@
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.saveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.btnVidSourceRemove = new System.Windows.Forms.Button();
-            this.btnVidSourceAdd = new System.Windows.Forms.Button();
-            this.label3 = new System.Windows.Forms.Label();
             this.toolsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.createMarkdownToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.btnRemoveArticle = new System.Windows.Forms.Button();
-            this.btnAddArticle = new System.Windows.Forms.Button();
-            this.txtArtDate = new System.Windows.Forms.TextBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.txtArtTitle = new System.Windows.Forms.TextBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.btnArtSourceRemove = new System.Windows.Forms.Button();
-            this.btnArtSourceAdd = new System.Windows.Forms.Button();
-            this.txtArtSource = new System.Windows.Forms.TextBox();
-            this.lstArticleSources = new System.Windows.Forms.ListBox();
-            this.txtArtPublisher = new System.Windows.Forms.TextBox();
-            this.label7 = new System.Windows.Forms.Label();
-            this.columnHeader7 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.createHTMLToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
+            this.groupBox2.SuspendLayout();
             this.tabPage3.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
-            this.groupBox2.SuspendLayout();
             this.SuspendLayout();
             // 
             // tabControl1
@@ -115,6 +116,145 @@
             this.tabPage1.Text = "Articles";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
+            // txtArtPublisher
+            // 
+            this.txtArtPublisher.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.txtArtPublisher.Location = new System.Drawing.Point(62, 318);
+            this.txtArtPublisher.Name = "txtArtPublisher";
+            this.txtArtPublisher.Size = new System.Drawing.Size(161, 20);
+            this.txtArtPublisher.TabIndex = 18;
+            this.txtArtPublisher.TextChanged += new System.EventHandler(this.txtArtPublisher_TextChanged);
+            // 
+            // label7
+            // 
+            this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(6, 322);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(50, 13);
+            this.label7.TabIndex = 17;
+            this.label7.Text = "Publisher";
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox2.Controls.Add(this.label6);
+            this.groupBox2.Controls.Add(this.btnArtSourceRemove);
+            this.groupBox2.Controls.Add(this.btnArtSourceAdd);
+            this.groupBox2.Controls.Add(this.txtArtSource);
+            this.groupBox2.Controls.Add(this.lstArticleSources);
+            this.groupBox2.Location = new System.Drawing.Point(345, 216);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(367, 135);
+            this.groupBox2.TabIndex = 16;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "Sources";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(6, 106);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(41, 13);
+            this.label6.TabIndex = 15;
+            this.label6.Text = "Source";
+            // 
+            // btnArtSourceRemove
+            // 
+            this.btnArtSourceRemove.Location = new System.Drawing.Point(87, 73);
+            this.btnArtSourceRemove.Name = "btnArtSourceRemove";
+            this.btnArtSourceRemove.Size = new System.Drawing.Size(75, 23);
+            this.btnArtSourceRemove.TabIndex = 14;
+            this.btnArtSourceRemove.Text = "Remove";
+            this.btnArtSourceRemove.UseVisualStyleBackColor = true;
+            this.btnArtSourceRemove.Click += new System.EventHandler(this.btnArtSourceRemove_Click);
+            // 
+            // btnArtSourceAdd
+            // 
+            this.btnArtSourceAdd.Location = new System.Drawing.Point(6, 73);
+            this.btnArtSourceAdd.Name = "btnArtSourceAdd";
+            this.btnArtSourceAdd.Size = new System.Drawing.Size(75, 23);
+            this.btnArtSourceAdd.TabIndex = 13;
+            this.btnArtSourceAdd.Text = "Add";
+            this.btnArtSourceAdd.UseVisualStyleBackColor = true;
+            this.btnArtSourceAdd.Click += new System.EventHandler(this.btnArtSourceAdd_Click);
+            // 
+            // txtArtSource
+            // 
+            this.txtArtSource.Location = new System.Drawing.Point(53, 102);
+            this.txtArtSource.Name = "txtArtSource";
+            this.txtArtSource.Size = new System.Drawing.Size(308, 20);
+            this.txtArtSource.TabIndex = 11;
+            // 
+            // lstArticleSources
+            // 
+            this.lstArticleSources.FormattingEnabled = true;
+            this.lstArticleSources.Location = new System.Drawing.Point(6, 24);
+            this.lstArticleSources.Name = "lstArticleSources";
+            this.lstArticleSources.Size = new System.Drawing.Size(355, 43);
+            this.lstArticleSources.TabIndex = 9;
+            this.lstArticleSources.SelectedIndexChanged += new System.EventHandler(this.lstArticleSources_SelectedIndexChanged);
+            // 
+            // btnRemoveArticle
+            // 
+            this.btnRemoveArticle.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.btnRemoveArticle.Location = new System.Drawing.Point(87, 216);
+            this.btnRemoveArticle.Name = "btnRemoveArticle";
+            this.btnRemoveArticle.Size = new System.Drawing.Size(75, 23);
+            this.btnRemoveArticle.TabIndex = 15;
+            this.btnRemoveArticle.Text = "Remove";
+            this.btnRemoveArticle.UseVisualStyleBackColor = true;
+            this.btnRemoveArticle.Click += new System.EventHandler(this.btnRemoveArticle_Click);
+            // 
+            // btnAddArticle
+            // 
+            this.btnAddArticle.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.btnAddArticle.Location = new System.Drawing.Point(6, 216);
+            this.btnAddArticle.Name = "btnAddArticle";
+            this.btnAddArticle.Size = new System.Drawing.Size(75, 23);
+            this.btnAddArticle.TabIndex = 14;
+            this.btnAddArticle.Text = "Add";
+            this.btnAddArticle.UseVisualStyleBackColor = true;
+            this.btnAddArticle.Click += new System.EventHandler(this.btnAddArticle_Click);
+            // 
+            // txtArtDate
+            // 
+            this.txtArtDate.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.txtArtDate.Location = new System.Drawing.Point(62, 291);
+            this.txtArtDate.Name = "txtArtDate";
+            this.txtArtDate.Size = new System.Drawing.Size(98, 20);
+            this.txtArtDate.TabIndex = 13;
+            this.txtArtDate.TextChanged += new System.EventHandler(this.txtArtDate_TextChanged);
+            // 
+            // label4
+            // 
+            this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(6, 295);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(30, 13);
+            this.label4.TabIndex = 12;
+            this.label4.Text = "Date";
+            // 
+            // txtArtTitle
+            // 
+            this.txtArtTitle.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.txtArtTitle.Location = new System.Drawing.Point(39, 260);
+            this.txtArtTitle.Name = "txtArtTitle";
+            this.txtArtTitle.Size = new System.Drawing.Size(300, 20);
+            this.txtArtTitle.TabIndex = 11;
+            this.txtArtTitle.TextChanged += new System.EventHandler(this.txtArtTitle_TextChanged);
+            // 
+            // label5
+            // 
+            this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(6, 263);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(27, 13);
+            this.label5.TabIndex = 10;
+            this.label5.Text = "Title";
+            // 
             // lstArticles
             // 
             this.lstArticles.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
@@ -144,6 +284,11 @@
             // 
             this.columnHeader2.Text = "Date";
             this.columnHeader2.Width = 85;
+            // 
+            // columnHeader7
+            // 
+            this.columnHeader7.Text = "Publisher";
+            this.columnHeader7.Width = 120;
             // 
             // columnHeader3
             // 
@@ -206,6 +351,35 @@
             this.groupBox1.TabIndex = 7;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Sources";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(53, 106);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(41, 13);
+            this.label3.TabIndex = 15;
+            this.label3.Text = "Source";
+            // 
+            // btnVidSourceRemove
+            // 
+            this.btnVidSourceRemove.Location = new System.Drawing.Point(175, 74);
+            this.btnVidSourceRemove.Name = "btnVidSourceRemove";
+            this.btnVidSourceRemove.Size = new System.Drawing.Size(75, 23);
+            this.btnVidSourceRemove.TabIndex = 14;
+            this.btnVidSourceRemove.Text = "Remove";
+            this.btnVidSourceRemove.UseVisualStyleBackColor = true;
+            this.btnVidSourceRemove.Click += new System.EventHandler(this.btnVidSourceRemove_Click);
+            // 
+            // btnVidSourceAdd
+            // 
+            this.btnVidSourceAdd.Location = new System.Drawing.Point(94, 74);
+            this.btnVidSourceAdd.Name = "btnVidSourceAdd";
+            this.btnVidSourceAdd.Size = new System.Drawing.Size(75, 23);
+            this.btnVidSourceAdd.TabIndex = 13;
+            this.btnVidSourceAdd.Text = "Add";
+            this.btnVidSourceAdd.UseVisualStyleBackColor = true;
+            this.btnVidSourceAdd.Click += new System.EventHandler(this.btnVidSourceAdd_Click);
             // 
             // txtSource
             // 
@@ -341,49 +515,21 @@
             // saveToolStripMenuItem
             // 
             this.saveToolStripMenuItem.Name = "saveToolStripMenuItem";
-            this.saveToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.saveToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
             this.saveToolStripMenuItem.Text = "Save";
             this.saveToolStripMenuItem.Click += new System.EventHandler(this.saveToolStripMenuItem_Click);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
             this.exitToolStripMenuItem.Text = "Exit";
-            // 
-            // btnVidSourceRemove
-            // 
-            this.btnVidSourceRemove.Location = new System.Drawing.Point(175, 74);
-            this.btnVidSourceRemove.Name = "btnVidSourceRemove";
-            this.btnVidSourceRemove.Size = new System.Drawing.Size(75, 23);
-            this.btnVidSourceRemove.TabIndex = 14;
-            this.btnVidSourceRemove.Text = "Remove";
-            this.btnVidSourceRemove.UseVisualStyleBackColor = true;
-            this.btnVidSourceRemove.Click += new System.EventHandler(this.btnVidSourceRemove_Click);
-            // 
-            // btnVidSourceAdd
-            // 
-            this.btnVidSourceAdd.Location = new System.Drawing.Point(94, 74);
-            this.btnVidSourceAdd.Name = "btnVidSourceAdd";
-            this.btnVidSourceAdd.Size = new System.Drawing.Size(75, 23);
-            this.btnVidSourceAdd.TabIndex = 13;
-            this.btnVidSourceAdd.Text = "Add";
-            this.btnVidSourceAdd.UseVisualStyleBackColor = true;
-            this.btnVidSourceAdd.Click += new System.EventHandler(this.btnVidSourceAdd_Click);
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(53, 106);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(41, 13);
-            this.label3.TabIndex = 15;
-            this.label3.Text = "Source";
             // 
             // toolsToolStripMenuItem
             // 
             this.toolsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.createMarkdownToolStripMenuItem});
+            this.createMarkdownToolStripMenuItem,
+            this.createHTMLToolStripMenuItem});
             this.toolsToolStripMenuItem.Name = "toolsToolStripMenuItem";
             this.toolsToolStripMenuItem.Size = new System.Drawing.Size(47, 20);
             this.toolsToolStripMenuItem.Text = "Tools";
@@ -395,149 +541,12 @@
             this.createMarkdownToolStripMenuItem.Text = "Create markdown";
             this.createMarkdownToolStripMenuItem.Click += new System.EventHandler(this.createMarkdownToolStripMenuItem_Click);
             // 
-            // btnRemoveArticle
+            // createHTMLToolStripMenuItem
             // 
-            this.btnRemoveArticle.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.btnRemoveArticle.Location = new System.Drawing.Point(87, 216);
-            this.btnRemoveArticle.Name = "btnRemoveArticle";
-            this.btnRemoveArticle.Size = new System.Drawing.Size(75, 23);
-            this.btnRemoveArticle.TabIndex = 15;
-            this.btnRemoveArticle.Text = "Remove";
-            this.btnRemoveArticle.UseVisualStyleBackColor = true;
-            this.btnRemoveArticle.Click += new System.EventHandler(this.btnRemoveArticle_Click);
-            // 
-            // btnAddArticle
-            // 
-            this.btnAddArticle.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.btnAddArticle.Location = new System.Drawing.Point(6, 216);
-            this.btnAddArticle.Name = "btnAddArticle";
-            this.btnAddArticle.Size = new System.Drawing.Size(75, 23);
-            this.btnAddArticle.TabIndex = 14;
-            this.btnAddArticle.Text = "Add";
-            this.btnAddArticle.UseVisualStyleBackColor = true;
-            this.btnAddArticle.Click += new System.EventHandler(this.btnAddArticle_Click);
-            // 
-            // txtArtDate
-            // 
-            this.txtArtDate.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.txtArtDate.Location = new System.Drawing.Point(62, 291);
-            this.txtArtDate.Name = "txtArtDate";
-            this.txtArtDate.Size = new System.Drawing.Size(98, 20);
-            this.txtArtDate.TabIndex = 13;
-            this.txtArtDate.TextChanged += new System.EventHandler(this.txtArtDate_TextChanged);
-            // 
-            // label4
-            // 
-            this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(6, 295);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(30, 13);
-            this.label4.TabIndex = 12;
-            this.label4.Text = "Date";
-            // 
-            // txtArtTitle
-            // 
-            this.txtArtTitle.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.txtArtTitle.Location = new System.Drawing.Point(39, 260);
-            this.txtArtTitle.Name = "txtArtTitle";
-            this.txtArtTitle.Size = new System.Drawing.Size(300, 20);
-            this.txtArtTitle.TabIndex = 11;
-            this.txtArtTitle.TextChanged += new System.EventHandler(this.txtArtTitle_TextChanged);
-            // 
-            // label5
-            // 
-            this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(6, 263);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(27, 13);
-            this.label5.TabIndex = 10;
-            this.label5.Text = "Title";
-            // 
-            // groupBox2
-            // 
-            this.groupBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox2.Controls.Add(this.label6);
-            this.groupBox2.Controls.Add(this.btnArtSourceRemove);
-            this.groupBox2.Controls.Add(this.btnArtSourceAdd);
-            this.groupBox2.Controls.Add(this.txtArtSource);
-            this.groupBox2.Controls.Add(this.lstArticleSources);
-            this.groupBox2.Location = new System.Drawing.Point(345, 216);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(367, 135);
-            this.groupBox2.TabIndex = 16;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Sources";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(6, 106);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(41, 13);
-            this.label6.TabIndex = 15;
-            this.label6.Text = "Source";
-            // 
-            // btnArtSourceRemove
-            // 
-            this.btnArtSourceRemove.Location = new System.Drawing.Point(87, 73);
-            this.btnArtSourceRemove.Name = "btnArtSourceRemove";
-            this.btnArtSourceRemove.Size = new System.Drawing.Size(75, 23);
-            this.btnArtSourceRemove.TabIndex = 14;
-            this.btnArtSourceRemove.Text = "Remove";
-            this.btnArtSourceRemove.UseVisualStyleBackColor = true;
-            this.btnArtSourceRemove.Click += new System.EventHandler(this.btnArtSourceRemove_Click);
-            // 
-            // btnArtSourceAdd
-            // 
-            this.btnArtSourceAdd.Location = new System.Drawing.Point(6, 73);
-            this.btnArtSourceAdd.Name = "btnArtSourceAdd";
-            this.btnArtSourceAdd.Size = new System.Drawing.Size(75, 23);
-            this.btnArtSourceAdd.TabIndex = 13;
-            this.btnArtSourceAdd.Text = "Add";
-            this.btnArtSourceAdd.UseVisualStyleBackColor = true;
-            this.btnArtSourceAdd.Click += new System.EventHandler(this.btnArtSourceAdd_Click);
-            // 
-            // txtArtSource
-            // 
-            this.txtArtSource.Location = new System.Drawing.Point(53, 102);
-            this.txtArtSource.Name = "txtArtSource";
-            this.txtArtSource.Size = new System.Drawing.Size(308, 20);
-            this.txtArtSource.TabIndex = 11;
-            // 
-            // lstArticleSources
-            // 
-            this.lstArticleSources.FormattingEnabled = true;
-            this.lstArticleSources.Location = new System.Drawing.Point(6, 24);
-            this.lstArticleSources.Name = "lstArticleSources";
-            this.lstArticleSources.Size = new System.Drawing.Size(355, 43);
-            this.lstArticleSources.TabIndex = 9;
-            this.lstArticleSources.SelectedIndexChanged += new System.EventHandler(this.lstArticleSources_SelectedIndexChanged);
-            // 
-            // txtArtPublisher
-            // 
-            this.txtArtPublisher.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.txtArtPublisher.Location = new System.Drawing.Point(62, 318);
-            this.txtArtPublisher.Name = "txtArtPublisher";
-            this.txtArtPublisher.Size = new System.Drawing.Size(161, 20);
-            this.txtArtPublisher.TabIndex = 18;
-            this.txtArtPublisher.TextChanged += new System.EventHandler(this.txtArtPublisher_TextChanged);
-            // 
-            // label7
-            // 
-            this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(6, 322);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(50, 13);
-            this.label7.TabIndex = 17;
-            this.label7.Text = "Publisher";
-            // 
-            // columnHeader7
-            // 
-            this.columnHeader7.Text = "Publisher";
-            this.columnHeader7.Width = 120;
+            this.createHTMLToolStripMenuItem.Name = "createHTMLToolStripMenuItem";
+            this.createHTMLToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.createHTMLToolStripMenuItem.Text = "Create HTML";
+            this.createHTMLToolStripMenuItem.Click += new System.EventHandler(this.createHTMLToolStripMenuItem_Click);
             // 
             // frmEditor
             // 
@@ -553,14 +562,14 @@
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
             this.tabPage3.ResumeLayout(false);
             this.tabPage3.PerformLayout();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
-            this.groupBox2.ResumeLayout(false);
-            this.groupBox2.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -614,6 +623,7 @@
         private System.Windows.Forms.TextBox txtArtPublisher;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.ColumnHeader columnHeader7;
+        private System.Windows.Forms.ToolStripMenuItem createHTMLToolStripMenuItem;
     }
 }
 

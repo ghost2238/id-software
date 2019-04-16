@@ -25,6 +25,7 @@ namespace win_editor
         List<Article> articles;
         List<Audio> audio;
         List<Video> videos;
+        List<Source> source;
 
 
         private void frmEditor_Load(object sender, EventArgs e)
@@ -32,7 +33,8 @@ namespace win_editor
             articles = Data.LoadJson<Article>("articles.json");
             audio = Data.LoadJson<Audio>("audio.json");
             videos = Data.LoadJson<Video>("videos.json");
-            
+            source = Data.LoadJson<Source>("source.json");
+
             RefreshTables();
         }
 
@@ -40,6 +42,7 @@ namespace win_editor
         {
             articles = articles.OrderBy(x => x.editorDate).ToList();
             audio = audio.OrderBy(x => x.editorDate).ToList();
+            source = source.OrderBy(x => x.editorDate).ToList();
             videos = videos.OrderBy(x => x.editorDate).ToList();
             lstVideos.Items.Clear();
             lstArticles.Items.Clear();
@@ -220,6 +223,7 @@ namespace win_editor
         {
             Data.SaveJson("articles.json", articles.OrderBy(x => x.editorDate).ToList());
             Data.SaveJson("audio.json", audio.OrderBy(x => x.editorDate).ToList());
+            Data.SaveJson("source.json", source.OrderBy(x => x.editorDate).ToList());
             Data.SaveJson("videos.json", videos.OrderBy(x => x.editorDate).ToList());
             RefreshTables();
         }
@@ -278,12 +282,55 @@ namespace win_editor
                 table.Row(Markdown.Link(a.title, a.primarySource), a.dateMarkdownLinks);
             template = template.Replace("{AUDIO_TABLE}", table.ToString());
 
+            table = new MarkdownTable("Game", "Year of game release");
+            foreach (var s in source)
+                table.Row(Markdown.Link(s.game, s.url), s.year);
+            template = template.Replace("{SOURCE_TABLE}", table.ToString());
+
             File.WriteAllText(Data.BaseDir + "/README.md", template);
+        }
+
+        private void createHTMLToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var css = File.ReadAllText(Data.TemplateDir + "/style.css");
+            var template = File.ReadAllText(Data.TemplateDir + "/index.html");
+
+            var artCol = new HTMLTableColumn("Article / Interview", "width: 55%");
+            var dateCol = new HTMLTableColumn("Date");
+            var pubCol = new HTMLTableColumn("Publisher");
+            var srcCol = new HTMLTableColumn("Sources / Mirrors");
+            var table = new HTMLTable(artCol, dateCol, pubCol, srcCol);
+            foreach (var a in articles)
+                table.Row(HTML.Link(a.title, a.primarySource), a.date, a.publisher ?? "", HTML.LinksString(a.sources));
+            template = template.Replace("<!--ARTICLES_TABLE-->", table.ToString());
+
+            
+
+            table = new HTMLTable(new HTMLTableColumn("Video", "width: 80%"), dateCol); 
+            foreach (var v in videos)
+                table.Row(HTML.Link(v.title, v.primarySource), v.dateHTMLLinks);
+
+            template = template.Replace("<!--VIDEOS_TABLE-->", table.ToString());
+
+            table = new HTMLTable(new HTMLTableColumn("Game", "width: 80%"), new HTMLTableColumn("Year"));
+            foreach (var s in source)
+                table.Row(HTML.Link(s.game, s.url), s.year);
+            template = template.Replace("<!--SOURCE_TABLE-->", table.ToString());
+
+            table = new HTMLTable(new HTMLTableColumn("Audio", "width: 80%"), dateCol);
+            foreach (var a in audio)
+                table.Row(HTML.Link(a.title, a.primarySource), a.dateHTMLLinks);
+            template = template.Replace("<!--AUDIO_TABLE-->", table.ToString());
+
+            File.WriteAllText(Data.OutputDir + "/index.html", template);
+            File.WriteAllText(Data.OutputDir + "/style.css", css);
         }
 
         private void lstArticleSources_SelectedIndexChanged(object sender, EventArgs e)
         {
             txtArtSource.Text = (string)lstArticleSources.SelectedItem;
         }
+
+
     }
 }
