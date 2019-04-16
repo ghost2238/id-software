@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "win-editor", "win-editor.csproj", "{DE0FF3C2-06B8-4456-A0AC-B108CE32A8B4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "common", "..\common\common.csproj", "{C5CAE85D-1500-4B28-B8D8-78BCA11DC82C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "common", "common.csproj", "{C5CAE85D-1500-4B28-B8D8-78BCA11DC82C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DE0FF3C2-06B8-4456-A0AC-B108CE32A8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DE0FF3C2-06B8-4456-A0AC-B108CE32A8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DE0FF3C2-06B8-4456-A0AC-B108CE32A8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DE0FF3C2-06B8-4456-A0AC-B108CE32A8B4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C5CAE85D-1500-4B28-B8D8-78BCA11DC82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C5CAE85D-1500-4B28-B8D8-78BCA11DC82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5CAE85D-1500-4B28-B8D8-78BCA11DC82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6C1258C1-CE5A-4E72-BD00-72E7747D7BC8}
+		SolutionGuid = {A644A1BB-D734-4436-A3F0-E4A5B8770F5D}
 	EndGlobalSection
 EndGlobal

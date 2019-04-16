@@ -1,4 +1,4 @@
-﻿namespace win_editor
+﻿namespace DataEditor
 {
     partial class frmEditor
     {
@@ -515,15 +515,16 @@
             // saveToolStripMenuItem
             // 
             this.saveToolStripMenuItem.Name = "saveToolStripMenuItem";
-            this.saveToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
+            this.saveToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.saveToolStripMenuItem.Text = "Save";
             this.saveToolStripMenuItem.Click += new System.EventHandler(this.saveToolStripMenuItem_Click);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.exitToolStripMenuItem.Text = "Exit";
+            this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
             // toolsToolStripMenuItem
             // 
@@ -537,14 +538,14 @@
             // createMarkdownToolStripMenuItem
             // 
             this.createMarkdownToolStripMenuItem.Name = "createMarkdownToolStripMenuItem";
-            this.createMarkdownToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.createMarkdownToolStripMenuItem.Size = new System.Drawing.Size(168, 22);
             this.createMarkdownToolStripMenuItem.Text = "Create markdown";
             this.createMarkdownToolStripMenuItem.Click += new System.EventHandler(this.createMarkdownToolStripMenuItem_Click);
             // 
             // createHTMLToolStripMenuItem
             // 
             this.createHTMLToolStripMenuItem.Name = "createHTMLToolStripMenuItem";
-            this.createHTMLToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.createHTMLToolStripMenuItem.Size = new System.Drawing.Size(168, 22);
             this.createHTMLToolStripMenuItem.Text = "Create HTML";
             this.createHTMLToolStripMenuItem.Click += new System.EventHandler(this.createHTMLToolStripMenuItem_Click);
             // 

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace win_editor
+namespace Common
 {
-    class HTML
+    public class HTML
     {
         public static string Link(string text, string url)
             => $"<a href=\"{url}\">{text}</a>";
@@ -21,7 +21,7 @@ namespace win_editor
         }
     }
 
-    class HTMLTableColumn
+    public class HTMLTableColumn
     {
         public string text;
         public string style;
@@ -29,7 +29,7 @@ namespace win_editor
         public HTMLTableColumn(string text, string style="") { this.text = text; this.style = style; }
     }
 
-    class HTMLTable
+    public class HTMLTable
     {
         private HTMLTableColumn[] columns;
         private List<string[]> rows;

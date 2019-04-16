@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Common;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -9,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace win_editor
+namespace DataEditor
 {
     public partial class frmEditor : Form
     {
@@ -27,9 +28,9 @@ namespace win_editor
         List<Video> videos;
         List<Source> source;
 
-
         private void frmEditor_Load(object sender, EventArgs e)
         {
+            Config.Load();
             articles = Data.LoadJson<Article>("articles.json");
             audio = Data.LoadJson<Audio>("audio.json");
             videos = Data.LoadJson<Video>("videos.json");
@@ -262,7 +263,7 @@ namespace win_editor
             lstSources.Items.Remove(lstSources.SelectedItem);
         }
 
-        private void createMarkdownToolStripMenuItem_Click(object sender, EventArgs e)
+        private void CreateMainMarkdown()
         {
             var template = File.ReadAllText(Data.TemplateDir + "/github.md");
 
@@ -288,6 +289,42 @@ namespace win_editor
             template = template.Replace("{SOURCE_TABLE}", table.ToString());
 
             File.WriteAllText(Data.BaseDir + "/README.md", template);
+        }
+
+        private void CreateJohnCarmackMarkdown()
+        {
+            var template = File.ReadAllText(Data.TemplateDir + "/johncarmack.md");
+            var carmack = videos.Where(x => x.HasJohnCarmack);
+            void _table(string tag, IEnumerable<Video> videos)
+                => template = Markdown.VideoTableTemplate(template, tag, videos);
+
+            _table("{ALL_TABLE}", carmack);
+            _table("{KEYNOTES_TABLE}", carmack.Where(x => x.title.Contains("Keynote")));
+            _table("{QUAKECON_TABLE}", carmack.Where(x => x.title.ToLower().Contains("quakecon")));
+            _table("{DOOM_TABLE}", carmack.Where(x => x.title.ToLower().Contains("doom")));
+            _table("{QUAKE_TABLE}", carmack.Where(x => x.title.ToLower().Contains("quake")));
+            File.WriteAllText(Data.BaseDir + "/JohnCarmack.md", template);
+        }
+
+        private void CreateJohnRomeroMarkdown()
+        {
+            var template = File.ReadAllText(Data.TemplateDir + "/johnromero.md");
+            var romero = videos.Where(x => x.HasJohnRomero);
+
+            void _table(string tag, IEnumerable<Video> videos)
+                => template = Markdown.VideoTableTemplate(template, tag, videos);
+
+            _table("{ALL_TABLE}", romero);
+            _table("{DOOM_TABLE}", romero.Where(x => x.title.ToLower().Contains("doom")));
+
+            File.WriteAllText(Data.BaseDir + "/JohnRomero.md", template);
+        }
+
+        private void createMarkdownToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CreateMainMarkdown();
+            CreateJohnCarmackMarkdown();
+            CreateJohnRomeroMarkdown();
         }
 
         private void createHTMLToolStripMenuItem_Click(object sender, EventArgs e)
@@ -331,6 +368,9 @@ namespace win_editor
             txtArtSource.Text = (string)lstArticleSources.SelectedItem;
         }
 
-
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Environment.Exit(0);
+        }
     }
 }

@@ -2,4 +2,14 @@ tools/win-editor/.vs/**
 tools/win-editor/bin/**
 tools/win-editor/obj/**
 tools/win-editor/packages/**
+tools/config.cfg
+tools/mirror/.vs/**
+tools/mirror/bin/**
+tools/mirror/obj/**
+tools/mirror/packages/**
+tools/mirror/*.user
+tools/common/.vs/**
+tools/common/bin/**
+tools/common/obj/**
+tools/common/packages/**
 output/*

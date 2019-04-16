@@ -3,12 +3,13 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace win_editor
+namespace Common
 {
-    class Audio
+    public class Audio
     {
         [JsonIgnoreAttribute]
         public DateTime editorDate => Data.fuzzyDateToDateTime(date);
@@ -44,7 +45,7 @@ namespace win_editor
         public List<string> audioSources = new List<string>();
     }
 
-    class Video
+    public class Video
     {
         [JsonIgnoreAttribute]
         public DateTime editorDate => Data.fuzzyDateToDateTime(date);
@@ -73,13 +74,29 @@ namespace win_editor
             }
         }
 
+        [JsonIgnoreAttribute]
+        public bool FileExists => filename != null && File.Exists(Diskfile);
+        [JsonIgnoreAttribute]
+        public string Diskfile => Config.VideoPath + "\\" + filename;
+        [JsonIgnoreAttribute]
+        public byte[] Diskbytes => File.ReadAllBytes(Diskfile);
+        [JsonIgnoreAttribute]
+        public bool ValidateHash => Data.StreamSHA1(Diskfile) == sha1;
+        [JsonIgnoreAttribute]
+        public bool HasJohnCarmack => tags.Contains("John Carmack");
+        [JsonIgnoreAttribute]
+        public bool HasJohnRomero => tags.Contains("John Romero");
+
+        public string filename;
+        public string sha1;
         public string title;
         public string date;
+        public List<string> tags = new List<string>();
         public List<string> dateSources = new List<string>();
         public List<string> videoSources = new List<string>();
     }
 
-    class Article
+    public class Article
     {
         [JsonIgnoreAttribute]
         public DateTime editorDate => Data.fuzzyDateToDateTime(date);
@@ -92,7 +109,7 @@ namespace win_editor
         public List<string> sources = new List<string>();
     }
 
-    class Source
+    public class Source
     {
         [JsonIgnoreAttribute]
         public DateTime editorDate => Data.fuzzyDateToDateTime(year);
@@ -102,8 +119,15 @@ namespace win_editor
         public string year;
     }
 
+    public static class DataExt
+    {
+        public static void Save(this List<Video> videos) => Data.SaveJson<Video>("videos.json", videos);
+        public static void Save(this List<Audio> audio) => Data.SaveJson<Audio>("audio.json", audio);
+    }
+
     public class Data
     {
+        
         public static DateTime fuzzyDateToDateTime(string fuzzyDate)
         {
             int y = 0;
@@ -131,10 +155,12 @@ namespace win_editor
             }
         }
 
-        public readonly static string BaseDir = Directory.GetCurrentDirectory() + "../../../../../";
+        public readonly static string BaseDir = Config.BaseDirectory;
         public readonly static string MetaDir = BaseDir + "data/";
         public readonly static string OutputDir = BaseDir + "output/";
         public readonly static string TemplateDir = BaseDir + "templates/";
+
+        public static List<Video> LoadVideos() => LoadJson<Video>("videos.json");
 
         public static List<T> LoadJson<T>(string jsonFile)
         {
@@ -148,5 +174,21 @@ namespace win_editor
             System.IO.File.WriteAllText(MetaDir + jsonFile, text);
         }
 
+        // We use SHA1 for speed, we don't care about security.
+        // SHA256 is pretty slow for all the video files
+        public static string StreamSHA1(string file)
+        {
+            SHA1 hashAlg = new SHA1Managed();
+            string hashString = string.Empty;
+            using (var fs = new BufferedStream(File.OpenRead(file), 1200000))
+            {
+                SHA1Managed sha = new SHA1Managed();
+                byte[] hash = sha.ComputeHash(fs);
+
+                foreach (byte x in hash)
+                    hashString += String.Format("{0:x2}", x);
+            }
+            return hashString;
+        }
     }
 }

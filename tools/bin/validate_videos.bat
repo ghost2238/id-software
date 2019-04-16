@@ -1,0 +1,1 @@
+mirror.exe -v

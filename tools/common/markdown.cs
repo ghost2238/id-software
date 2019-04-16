@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace win_editor
+namespace Common
 {
-    class MarkdownTable
+    public class MarkdownTable
     {
         private string[] columns;
         private List<string[]> rows;
@@ -39,7 +39,7 @@ namespace win_editor
         }
     }
 
-    class Markdown
+    public class Markdown
     {
         public static string Link(string text, string url)
             => $"[{text}]({url})";
@@ -51,6 +51,15 @@ namespace win_editor
             for (var i = 0; i < links.Count; i++)
                 l.Add(Markdown.Link($"[{i + 1}]", links[i]));
            return string.Join(" ", l);
+        }
+
+        public static string VideoTableTemplate(string template, string replace, IEnumerable<Video> videos)
+        {
+            var table = new MarkdownTable("Video", "Date");
+            foreach (var v in videos)
+                table.Row(Markdown.Link(v.title, v.primarySource), v.dateMarkdownLinks);
+
+            return template.Replace(replace, table.ToString());
         }
     }
 }
