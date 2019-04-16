@@ -43,5 +43,14 @@ namespace win_editor
     {
         public static string Link(string text, string url)
             => $"[{text}]({url})";
+
+        // [1] [2] ...
+        public static string LinksString(List<string> links)
+        {
+            var l = new List<string>();
+            for (var i = 0; i < links.Count; i++)
+                l.Add(Markdown.Link($"[{i + 1}]", links[i]));
+           return string.Join(" ", l);
+        }
     }
 }

@@ -303,14 +303,6 @@
     ]
   },
   {
-    "title": "John Carmack Interview: GPU Race, Intel Graphics, Ray Tracing and Voxels and more",
-    "date": "2011-??",
-    "dateSources": [],
-    "videoSources": [
-      "https://www.youtube.com/watch?v=hapCuhAs1nA"
-    ]
-  },
-  {
     "title": "John Carmack QuakeCon 2011 Keynote",
     "date": "2011-??",
     "dateSources": [],
@@ -342,6 +334,14 @@
     ],
     "videoSources": [
       "https://www.youtube.com/watch?v=NxFdsEtr-TY"
+    ]
+  },
+  {
+    "title": "John Carmack Interview: GPU Race, Intel Graphics, Ray Tracing and Voxels and more (pcper.com)",
+    "date": "2011-08-12",
+    "dateSources": [],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=hapCuhAs1nA"
     ]
   },
   {
@@ -400,6 +400,16 @@
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=E2MIpi8pIvY"
+    ]
+  },
+  {
+    "title": "John Carmack receives the BAFTA Fellowship at BAFTA Games Awards 2016",
+    "date": "2016-04-07",
+    "dateSources": [
+      "http://www.bafta.org/games/awards/games-awards-winners-2016"
+    ],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=fyjJrF2gJ34"
     ]
   }
 ]

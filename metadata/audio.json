@@ -1,0 +1,32 @@
+[
+  {
+    "title": "John Carmack at CPL 1998",
+    "date": "1998-07-23",
+    "dateSources": [
+      "https://archive.org/details/john_carmack_cpl_1998"
+    ],
+    "audioSources": [
+      "https://archive.org/details/john_carmack_cpl_1998"
+    ]
+  },
+  {
+    "title": "Quakecon 2008 Interview by 1up.com",
+    "date": "2008-08-01",
+    "dateSources": [
+      "https://archive.org/details/JohnCarmackAtQuakecon2008"
+    ],
+    "audioSources": [
+      "https://archive.org/details/JohnCarmackAtQuakecon2008"
+    ]
+  },
+  {
+    "title": "Quakecon 2011 Interview by pcper.com",
+    "date": "2011-08-12",
+    "dateSources": [
+      "https://archive.org/details/JohnCarmackAtQuakecon2011/John_Carmack_-_Quakecon_2011_Interview_by_pcper.com.mp3"
+    ],
+    "audioSources": [
+      "https://archive.org/details/JohnCarmackAtQuakecon2011/John_Carmack_-_Quakecon_2011_Interview_by_pcper.com.mp3"
+    ]
+  }
+]

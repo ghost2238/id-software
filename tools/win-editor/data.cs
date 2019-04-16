@@ -8,6 +8,31 @@ using System.Threading.Tasks;
 
 namespace win_editor
 {
+    class Audio
+    {
+        [JsonIgnoreAttribute]
+        public DateTime editorDate => Data.fuzzyDateToDateTime(date);
+        [JsonIgnoreAttribute]
+        public string primarySource => audioSources.Count > 0 ? audioSources.First() : "";
+        [JsonIgnoreAttribute]
+        public string dateMarkdownLinks
+        {
+            get
+            {
+                string d = date;
+                if (dateSources.Count > 0)
+                    d += " " + Markdown.LinksString(dateSources);
+                return d;
+            }
+        }
+
+        public string title;
+        public string date;
+
+        public List<string> dateSources = new List<string>();
+        public List<string> audioSources = new List<string>();
+    }
+
     class Video
     {
         [JsonIgnoreAttribute]
@@ -21,12 +46,7 @@ namespace win_editor
             {
                 string d = date;
                 if (dateSources.Count > 0)
-                {
-                    var links = new List<string>();
-                    for (var i = 0; i < dateSources.Count; i++)
-                        links.Add(Markdown.Link($"[{i + 1}]", dateSources[i]));
-                    d += " " + string.Join(" ", links);
-                }
+                    d += " " + Markdown.LinksString(dateSources);
                 return d;
             }
         }
@@ -39,9 +59,15 @@ namespace win_editor
 
     class Article
     {
-        string title;
-        string date;
-        List<string> sources;
+        [JsonIgnoreAttribute]
+        public DateTime editorDate => Data.fuzzyDateToDateTime(date);
+        [JsonIgnoreAttribute]
+        public string primarySource => sources.Count > 0 ? sources.First() : "";
+
+        public string title;
+        public string publisher;
+        public string date;
+        public List<string> sources = new List<string>();
     }
 
     public class Data
@@ -75,6 +101,7 @@ namespace win_editor
         public readonly static string BaseDir = Directory.GetCurrentDirectory() + "../../../../../";
         public readonly static string MetaDir = BaseDir + "metadata/";
         public readonly static string OutputDir = BaseDir + "output/";
+        public readonly static string TemplateDir = BaseDir + "templates/";
 
         public static List<T> LoadJson<T>(string jsonFile)
         {
