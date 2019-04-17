@@ -16,6 +16,7 @@
 | [id Software - Doom 3 Team Development Story, Part 1/3](https://www.youtube.com/watch?v=X8xvTJ6msqY) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
 | [id Software - Doom 3 Team Development Story, Part 2/3](https://www.youtube.com/watch?v=jH4DVCNWmMU) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
 | [id Software - Doom 3 Team Development Story, Part 3/3](https://www.youtube.com/watch?v=bMw24I_D9cY) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
+| [1UP's Cross Country Tour: id Software Office Tour](https://www.youtube.com/watch?v=n-SwU2iJ_1k) | 2010-09-06
 | [Rage Tim Willits interview (uncut)](https://www.youtube.com/watch?v=-OIc6a_7hsA) | 2012-10-18
 
 

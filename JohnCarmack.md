@@ -37,7 +37,6 @@ This page contains information and media related to John Carmack.
 | [John Carmack Interview QuakeCon 2008](https://www.youtube.com/watch?v=H2Vqt2boumI) | 2008-??
 | [John Carmack QuakeCon 2009 Keynote](https://www.youtube.com/watch?v=-aHRxc3mW_A) | 2009-??
 | [John Carmack QuakeCon 2010 Keynote](https://www.youtube.com/playlist?list=PL6C2682BFF95E8206) | 2010-??
-| [1UP's Cross Country Tour: id Software Office Tour](https://www.youtube.com/watch?v=n-SwU2iJ_1k) | 2010-09-06
 | [John Carmack QuakeCon 2011 Keynote](https://www.youtube.com/watch?v=4zgYG-_ha28) | 2011-??
 | [John Carmack QuakeCon 2011 Keynote Q&A](https://www.youtube.com/watch?v=00Q9-ftiPVQ) | 2011-??
 | [John Carmack E3 2011](https://www.youtube.com/watch?v=NxFdsEtr-TY) | 2011-06-?? [[1]](https://en.wikipedia.org/wiki/Electronic_Entertainment_Expo_2011)
