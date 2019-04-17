@@ -407,7 +407,9 @@
     "sha1": null,
     "title": "John Carmack DOOM 3 Keynote - Quakecon 2004, Part 1 / 4",
     "date": "2004-??-??",
-    "tags": [],
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=drYVU3gekFI"
