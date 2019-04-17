@@ -87,6 +87,7 @@ namespace Common
         [JsonIgnoreAttribute]
         public bool HasJohnRomero => tags.Contains("John Romero");
 
+        public string description;
         public string filename;
         public string sha1;
         public string title;

@@ -33,10 +33,12 @@
 | --- | --- | 
 | [Quake 4 PC Games Interview - Todd Hollenshead Video](https://www.youtube.com/watch?v=ox_ozJwKPw4) | 
 | [Doom 3 Legacy](https://www.youtube.com/watch?v=rxdA1nED63k) | 2001-??
+| [QuakeCon 2002 Doom 3 Interview](https://archive.org/details/QuakeCon_2002_Interview) | 2002-08-??
 | [Todd Hollenshead Interview (QuakeCon 2002)](https://archive.org/details/Todd_Hollenshead_Interview_QuakeCon_2002) | 2002-08-??
 | [id Software - Doom 3 Team Development Story, Part 1/3](https://www.youtube.com/watch?v=X8xvTJ6msqY) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
 | [id Software - Doom 3 Team Development Story, Part 2/3](https://www.youtube.com/watch?v=jH4DVCNWmMU) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
 | [id Software - Doom 3 Team Development Story, Part 3/3](https://www.youtube.com/watch?v=bMw24I_D9cY) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
+
 
 # Misc
 - [Masters of Doom](https://isbnsearch.org/isbn/0375505245)

@@ -1,4 +1,4 @@
-# Various id software employees
+# Various id Software employees
 
 ## Tom Hall
 {TOM}

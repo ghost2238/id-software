@@ -177,7 +177,7 @@
     "videoSources": [
       "https://www.youtube.com/watch?v=sWRctnQU2F4"
     ],
-	"tags": ["John Carmack"]
+	"tags": ["John Carmack", "Sam Parker", "GameSpot"]
   },
   {
     "filename": "John Carmack - Doom 3 Engine Technology Interview [Part 2_4]-7YV-RMG_NLM.mkv",
@@ -188,7 +188,7 @@
     "videoSources": [
       "https://www.youtube.com/watch?v=7YV-RMG_NLM"
     ],
-	"tags": ["John Carmack"]
+	"tags": ["John Carmack", "Sam Parker", "GameSpot"]
   },
   {
     "filename": "John Carmack - Doom 3 Engine Technology Interview [Part 3_4]-10fP1j7429g.mkv",
@@ -199,7 +199,7 @@
     "videoSources": [
       "https://www.youtube.com/watch?v=10fP1j7429g"
     ],
-	"tags": ["John Carmack"]
+	"tags": ["John Carmack", "Sam Parker", "GameSpot"]
   },
   {
     "filename": "John Carmack - Doom 3 Engine Technology Interview [Part 4_4]-o5PWHZpxkx4.mkv",
@@ -210,7 +210,7 @@
     "videoSources": [
       "https://www.youtube.com/watch?v=o5PWHZpxkx4"
     ],
-	"tags": ["John Carmack"]
+	"tags": ["John Carmack", "Sam Parker", "GameSpot"]
   },
   {
     "filename": "QuakeCon 2002 - John Carmack Keynote-rzY_FGRoccI.webm",
@@ -232,7 +232,7 @@
     "videoSources": [
       "https://archive.org/details/QuakeCon_2002_Interview"
     ],
-	"tags": ["John Carmack"]
+	"tags": ["Sam Parker", "GameSpot", "Todd Hollenshead", "Christian Antkow"]
   },
   {
     "filename": "Todd Hollenshead Interview (QuakeCon 2002)-Todd_Hollenshead_Interview_QuakeCon_2002.ogg",
@@ -400,13 +400,15 @@
     "filename": "Inside id software-V-VF-PHMPZc.mkv",
     "sha1": "f2b4197361381cd7fa88fee935d5f42fdb35dd07",
     "title": "Inside id software",
+	"description": "At the time I visited id Software in April of 2000, plans for moving to new offices were already in the works. One of the pictures which I took even shows the basic floor plan for their new office which would be located only a few minutes drive away in a two-story modern office complex. The move to id's current offices took place on June 9th 2000. id's Todd Hollenshead, Christian Antkow, and Graeme Devine all made .plan updates that day relaying the news of the move to the public [...]",
     "date": "2006-09-13 ",
     "dateSources": [
       "https://web.archive.org/web/20070427162123/http://www.quakeunity.com/article=13"
     ],
     "videoSources": [
       "https://www.youtube.com/watch?v=V-VF-PHMPZc"
-    ]
+    ],
+	"tags": ["Office", "PlanetQuake4.net"]
   },
   {
     "filename": null,
@@ -516,7 +518,7 @@
     "videoSources": [
       "https://www.youtube.com/watch?v=n-SwU2iJ_1k"
     ],
-	"tags": ["John Carmack"]
+	"tags": ["Office", "Tim Willits", "Robert A. Duffy"]
   },
   {
     "filename": "QuakeCon 2011 - John Carmack Keynote-4zgYG-_ha28.mp4",
