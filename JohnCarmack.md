@@ -41,12 +41,14 @@ This page contains information and media related to John Carmack.
 | [1UP's Cross Country Tour: id Software Office Tour](https://www.youtube.com/watch?v=n-SwU2iJ_1k) | 2010-09-06
 | [John Carmack QuakeCon 2011 Keynote](https://www.youtube.com/watch?v=4zgYG-_ha28) | 2011-??
 | [John Carmack QuakeCon 2011 Keynote Q&A](https://www.youtube.com/watch?v=00Q9-ftiPVQ) | 2011-??
+| [John Carmack E3 2011](https://www.youtube.com/watch?v=NxFdsEtr-TY) | 2011-06-?? [[1]](https://en.wikipedia.org/wiki/Electronic_Entertainment_Expo_2011)
 | [QuakeCon 2011: 20 Years of id Software](https://www.youtube.com/watch?v=qEyxxpNQFIk) | 2011-08-09
 | [John Carmack Interview: GPU Race, Intel Graphics, Ray Tracing and Voxels and more (pcper.com)](https://www.youtube.com/watch?v=hapCuhAs1nA) | 2011-08-12
 | [John Carmack QuakeCon 2012 Keynote](https://www.youtube.com/watch?v=wt-iVFxgFWk) | 2012-??
 | [John Carmack Quakecon 2013 Keynote](https://www.youtube.com/watch?v=gqhyet45p1s) | 2013-??
 | [Principles of Lighting and Rendering with John Carmack at QuakeCon 2013](https://www.youtube.com/watch?v=IyUgHPs86XM) | 2013-??
 | [id Software 20th Anniversary Feature](https://www.youtube.com/watch?v=sh9GAviYRkc) | 2013-??
+| [John Carmack - Twenty Years after Doom](https://www.youtube.com/watch?v=Nqr4lwtuUcE) | 2014-04-25 [[1]](https://people.smu.edu/mjhaveri/2014/04/18/carmack/comment-page-2/)
 | [John Carmack receives the BAFTA Fellowship at BAFTA Games Awards 2016](https://www.youtube.com/watch?v=fyjJrF2gJ34) | 2016-04-07 [[1]](http://www.bafta.org/games/awards/games-awards-winners-2016)
 
 
@@ -113,6 +115,7 @@ This page contains information and media related to John Carmack.
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 2 / 4](https://www.youtube.com/watch?v=nXBDD6TT8Uw) | 2004-??-??
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 3 / 4](https://www.youtube.com/watch?v=fBndl74FBao) | 2004-??-??
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 4 / 4](https://www.youtube.com/watch?v=315GBXAg5pI) | 2004-??-??
+| [John Carmack - Twenty Years after Doom](https://www.youtube.com/watch?v=Nqr4lwtuUcE) | 2014-04-25 [[1]](https://people.smu.edu/mjhaveri/2014/04/18/carmack/comment-page-2/)
 
 
 ### Quake

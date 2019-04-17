@@ -19,7 +19,7 @@
     "videoSources": [
       "https://www.youtube.com/watch?v=WHAlkDdro6s"
     ],
-	"tags": ["John Carmack"]
+	"tags": ["John Carmack", "Tim Willits"]
   },
   {
     "filename": "Quake 4 PC Games Interview - Todd Hollenshead Video-ox_ozJwKPw4.mp4",
@@ -29,7 +29,8 @@
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=ox_ozJwKPw4"
-    ]
+    ],
+	"tags": ["Todd Hollenshead"]
   },
   {
     "filename": "Wolfenstein 3D - id Software and Apogee interview in 1992-HLnDoyzHq2k.mp4",
@@ -51,7 +52,7 @@
     "videoSources": [
       "https://www.youtube.com/watch?v=ib0ASwFrdCw"
     ],
-	"tags": ["John Romero"]
+	"tags": ["John Romero", "Tom Hall"]
   },
   {
     "filename": "A Visit to id Software-4022128.m4v",
@@ -73,7 +74,7 @@
     "videoSources": [
       "https://www.youtube.com/watch?v=p-KIS4Sk76c"
     ],
-	"tags": ["John Romero"]
+	"tags": ["John Romero", "Jay Wilbur", "American McGee", "Shawn Green", "Doom"]
   },
   {
     "filename": "id Software Interview Quake 1996-wBTCR4jTzkc.mkv",
@@ -83,7 +84,8 @@
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=wBTCR4jTzkc"
-    ]
+    ],
+	"tags": ["Jay Wilbur﻿"]
   },
   {
     "filename": "QuakeWorld Launch Event - 1996-LXw6BkZ-gdY.mp4",
@@ -105,7 +107,7 @@
     "videoSources": [
       "https://www.youtube.com/watch?v=VUfu-xOGr1U&t=4m30s"
     ],
-	"tags": ["John Carmack"]
+	"tags": ["John Carmack", "Steve Jobs"]
   },
   {
     "filename": "John Carmack Quakecon 2000 - part 1-Y5P_mIEeLmA.mp4",
@@ -151,7 +153,7 @@
     "videoSources": [
       "https://www.youtube.com/watch?v=rxdA1nED63k"
     ],
-	"tags": ["John Carmack"]
+	"tags": ["John Carmack", "Todd Hollenshead", "Kevin Cloud", "Tim Willits", "Fred Nilsson", "Robert A. Duffy", "Trent Reznor", "Fountainhead", "Doom"]
   },
   {
     "filename": "John Carmack Announcing Doom 3 at MacWorld 2001-Qj3dPyk7hPI.mp4",
@@ -240,7 +242,8 @@
     "dateSources": [],
     "videoSources": [
       "https://archive.org/details/Todd_Hollenshead_Interview_QuakeCon_2002"
-    ]
+    ],
+	"tags": ["Todd Hollenshead"]
   },
   {
     "filename": "John Romero, Tom Hall, Monkeystone Games-Gkqp8Cxo9r0.mp4",
@@ -251,7 +254,7 @@
     "videoSources": [
       "https://www.youtube.com/watch?v=Gkqp8Cxo9r0"
     ],
-	"tags": ["John Romero"]
+	"tags": ["John Romero", "Tom Hall"]
   },
   {
     "filename": "id Software - Doom 3 Team Development Story [Part 1_3]-X8xvTJ6msqY.mkv",
@@ -265,7 +268,7 @@
       "https://www.youtube.com/watch?v=X8xvTJ6msqY",
       "https://archive.org/details/DOOM_3_G4_History_of_Doom/doom3part1.avi"
     ],
-	"tags": ["John Carmack", "John Romero"]
+	"tags": ["John Carmack", "Tim Willits", "Kevin Cloud", "Robert A. Duffy", "Jim Black", "Todd Hollenshead", "Steven L. Kent", "Dan Morris", "Fatal1ty", "Doom"]
   },
   {
     "filename": "id Software - Doom 3 Team Development Story [Part 2_3]-jH4DVCNWmMU.mkv",
@@ -279,7 +282,7 @@
       "https://www.youtube.com/watch?v=jH4DVCNWmMU",
       "https://archive.org/details/DOOM_3_G4_History_of_Doom/doom3part2.avi"
     ],
-	"tags": ["John Carmack", "John Romero"]
+	"tags": ["John Carmack", "Tim Willits", "Kevin Cloud", "Robert A. Duffy", "Jim Black", "Todd Hollenshead", "Steven L. Kent", "Dan Morris", "Fatal1ty", "Doom"]
   },
   {
     "filename": "id Software - Doom 3 Team Development Story [Part 3_3]-bMw24I_D9cY.mkv",
@@ -293,7 +296,7 @@
       "https://www.youtube.com/watch?v=bMw24I_D9cY",
       "https://archive.org/details/DOOM_3_G4_History_of_Doom/doom3part3.avi"
     ],
-	"tags": ["John Carmack", "John Romero"]
+	"tags": ["John Carmack", "Tim Willits", "Kevin Cloud", "Robert A. Duffy", "Jim Black", "Todd Hollenshead", "Steven L. Kent", "Dan Morris", "Fatal1ty", "Doom"]
   },
   {
     "filename": null,
@@ -544,8 +547,10 @@
     "date": "2011-??",
     "dateSources": [],
     "videoSources": [
-      "https://www.youtube.com/watch?v=2q_aRu6Jvu8"
-    ]
+      "https://www.youtube.com/watch?v=2q_aRu6Jvu8",
+	  "https://www.youtube.com/watch?v=NnkCujnYNSo"
+    ],
+	"tags": ["John Romero", "Tom Hall"]
   },
   {
     "filename": null,
@@ -557,7 +562,8 @@
     ],
     "videoSources": [
       "https://www.youtube.com/watch?v=NxFdsEtr-TY"
-    ]
+    ], 
+	"tags": ["John Carmack"]
   },
   {
     "filename": null,
@@ -600,7 +606,8 @@
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=-OIc6a_7hsA"
-    ]
+    ],
+	"tags": ["Tim Willits", "Rage"]
   },
   {
     "filename": null,
@@ -632,7 +639,8 @@
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=BdZ1SjcH5xA"
-    ]
+    ],
+	"tags": ["Doom"]
   },
   {
     "filename": null,
@@ -655,7 +663,8 @@
     ],
     "videoSources": [
       "https://www.youtube.com/watch?v=Nqr4lwtuUcE"
-    ]
+    ],
+	"tags": ["John Carmack", "Doom"]
   },
   {
     "filename": null,
@@ -666,7 +675,7 @@
     "videoSources": [
       "https://www.youtube.com/watch?v=E2MIpi8pIvY"
     ],
-	"tags": ["John Romero"]
+	"tags": ["John Romero", "GDC"]
   },
   {
     "filename": null,
@@ -690,6 +699,6 @@
     "videoSources": [
       "https://www.youtube.com/watch?v=eBU34NZhW7I"
     ],
-	"tags": ["John Romero"]
+	"tags": ["John Romero", "Doom"]
   }
 ]

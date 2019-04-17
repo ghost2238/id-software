@@ -308,6 +308,20 @@ namespace DataEditor
             File.WriteAllText(Data.BaseDir + "/JohnCarmack.md", template);
         }
 
+        private void CreateMiscMarkdown()
+        {
+            var template = File.ReadAllText(Data.TemplateDir + "/misc.md");
+            void _table(string tag, IEnumerable<Video> videos)
+                => template = Markdown.VideoTableTemplate(template, tag, videos);
+
+            _table("{TOM}", videos.Where(x => x.tags.Contains("Tom Hall")));
+            _table("{TIM}", videos.Where(x => x.tags.Contains("Tim Willits")));
+            _table("{CLOUD}", videos.Where(x => x.tags.Contains("Kevin Cloud")));
+            _table("{TODD}", videos.Where(x => x.tags.Contains("Todd Hollenshead")));
+
+            File.WriteAllText(Data.BaseDir + "/Misc.md", template);
+        }
+
         private void CreateJohnRomeroMarkdown()
         {
             var template = File.ReadAllText(Data.TemplateDir + "/johnromero.md");
@@ -327,6 +341,7 @@ namespace DataEditor
             CreateMainMarkdown();
             CreateJohnCarmackMarkdown();
             CreateJohnRomeroMarkdown();
+            CreateMiscMarkdown();
         }
 
         private void createHTMLToolStripMenuItem_Click(object sender, EventArgs e)
