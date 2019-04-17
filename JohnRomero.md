@@ -11,7 +11,8 @@
 | [Doom 2: Hell On Earth Trailer](https://www.youtube.com/watch?v=p-KIS4Sk76c) | 1994-??
 | [John Romero, Tom Hall, Monkeystone Games](https://www.youtube.com/watch?v=Gkqp8Cxo9r0) | 2003?
 | [John Romero - Talks About Old Days](https://www.youtube.com/watch?v=PJW1aC47Js4) | 2007 [[1]](http://www.getlamp.com/cast/20071118romero/index.html)
-| [John Romero & Tom Hall - GDC 2011 (Doom Post Mortem)](https://www.youtube.com/watch?v=2q_aRu6Jvu8) | 2011-??
+| [Matt Chat 54: Quake with John Romero](https://www.youtube.com/watch?v=Pq__3XNvvHI) | 2010-??
+| [John Romero & Tom Hall - GDC 2011 (Doom Post Mortem)](https://www.youtube.com/watch?v=2q_aRu6Jvu8) | 2011-03
 | [John Romero - id Software's early days - GDC 2016](https://www.youtube.com/watch?v=E2MIpi8pIvY) | 2016-??
 | [DOOM’s Development: A Year of Madness](https://www.youtube.com/watch?v=eBU34NZhW7I) | 2018-06-27
 
@@ -20,7 +21,7 @@
 | Video | Date |
 | --- | --- | 
 | [Doom 2: Hell On Earth Trailer](https://www.youtube.com/watch?v=p-KIS4Sk76c) | 1994-??
-| [John Romero & Tom Hall - GDC 2011 (Doom Post Mortem)](https://www.youtube.com/watch?v=2q_aRu6Jvu8) | 2011-??
+| [John Romero & Tom Hall - GDC 2011 (Doom Post Mortem)](https://www.youtube.com/watch?v=2q_aRu6Jvu8) | 2011-03
 | [DOOM’s Development: A Year of Madness](https://www.youtube.com/watch?v=eBU34NZhW7I) | 2018-06-27
 
 

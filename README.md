@@ -81,9 +81,6 @@ A collection of information about id software and their games.
 ## Videos
 | Video | Date |
 | --- | --- | 
-| [ATI Radeon 9700 Promotion - John Carmack](https://www.youtube.com/watch?v=fU3RLKuVOic&t=2m6s) | 
-| [Tim Willits on id, John Carmack and game/level design](https://www.youtube.com/watch?v=WHAlkDdro6s) | 
-| [Quake 4 PC Games Interview - Todd Hollenshead Video](https://www.youtube.com/watch?v=ox_ozJwKPw4) | 
 | [Wolfenstein 3D - id Software and Apogee interview](https://www.youtube.com/watch?v=HLnDoyzHq2k) | 1992
 | [id Software - Answering machine - June 1992](https://www.youtube.com/watch?v=ib0ASwFrdCw) | 1992-06-??
 | [A Visit to id Software (November 1993)](https://vimeo.com/4022128) | 1993-11-??
@@ -100,6 +97,7 @@ A collection of information about id software and their games.
 | [John Carmack - Doom 3 Engine Technology Interview, Part 2/4](https://www.youtube.com/watch?v=7YV-RMG_NLM) | 2001-08-??
 | [John Carmack - Doom 3 Engine Technology Interview, Part 3/4](https://www.youtube.com/watch?v=10fP1j7429g) | 2001-08-??
 | [John Carmack - Doom 3 Engine Technology Interview, Part 4/4](https://www.youtube.com/watch?v=o5PWHZpxkx4) | 2001-08-??
+| [ATI Radeon 9700 Promotion - John Carmack](https://www.youtube.com/watch?v=fU3RLKuVOic&t=2m6s) | 2002?
 | [John Carmack QuakeCon 2002 Keynote](https://www.youtube.com/watch?v=rzY_FGRoccI) | 2002-??
 | [QuakeCon 2002 Doom 3 Interview](https://archive.org/details/QuakeCon_2002_Interview) | 2002-08-??
 | [Todd Hollenshead Interview (QuakeCon 2002)](https://archive.org/details/Todd_Hollenshead_Interview_QuakeCon_2002) | 2002-08-??
@@ -113,32 +111,34 @@ A collection of information about id software and their games.
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 4 / 4](https://www.youtube.com/watch?v=315GBXAg5pI) | 2004-??-??
 | [John Carmack GDC 2004 Keynote](https://www.youtube.com/watch?v=N0auhzHZe5k) | 2004-??
 | [John Carmack QuakeCon 2005 Keynote](https://www.youtube.com/watch?v=qePmEhK1q9A) | 2005-??
+| [Quake 4 PC Games Interview - Todd Hollenshead Video](https://www.youtube.com/watch?v=ox_ozJwKPw4) | 2005-05-17 [[1]](https://www.ign.com/videos/2005/05/17/quake-4-pc-games-interview-todd-hollenshead-video-interview)
 | [John Carmack QuakeCon 2006](https://www.youtube.com/watch?v=_dkZ3YLNbqM) | 2006-??
 | [John Carmack QuakeCon 2006 #2](https://www.youtube.com/watch?v=WMALYXn0trw) | 2006-??
 | [John Carmack QuakeCon 2006 Keynote](https://www.youtube.com/watch?v=Fis3AlTaml4) | 2006-??
 | [Inside id software](https://www.youtube.com/watch?v=V-VF-PHMPZc) | 2006-09-13  [[1]](https://web.archive.org/web/20070427162123/http://www.quakeunity.com/article=13)
-| [John Carmack demonstrates ID Tech 5 at WWDC 2007](https://www.youtube.com/watch?v=HvuTtrkVtns) | 2007-??
 | [John Carmack QuakeCon 2007 Keynote](https://www.youtube.com/watch?v=V-8unki76Z8) | 2007-??
 | [John Romero - Talks About Old Days](https://www.youtube.com/watch?v=PJW1aC47Js4) | 2007 [[1]](http://www.getlamp.com/cast/20071118romero/index.html)
 | [G4tv.com - Id Software interview](https://www.youtube.com/watch?v=aCrnEmIWvf0) | 2007?
+| [John Carmack demonstrates ID Tech 5 at WWDC 2007](https://www.youtube.com/watch?v=HvuTtrkVtns) | 2007-06-11 [[1]](https://www.youtube.com/watch?v=y1B2c3ZD9fk&t=11m15s)
+| [Tim Willits on id, John Carmack and game/level design](https://www.youtube.com/watch?v=WHAlkDdro6s) | 2007-10-29 [[1]](https://www.youtube.com/watch?v=R8teXxWXn_M)
 | [John Carmack QuakeCon 2008 Keynote](https://www.youtube.com/watch?v=wbFHUnTFI6w) | 2008-??
 | [John Carmack Interview QuakeCon 2008](https://www.youtube.com/watch?v=H2Vqt2boumI) | 2008-??
-| [John Carmack QuakeCon 2009 Keynote](https://www.youtube.com/watch?v=-aHRxc3mW_A) | 2009-??
-| [John Carmack QuakeCon 2010 Keynote](https://www.youtube.com/playlist?list=PL6C2682BFF95E8206) | 2010-??
+| [John Carmack QuakeCon 2009 Keynote](https://www.youtube.com/watch?v=-aHRxc3mW_A) | 2009-08-14 [[1]](https://archive.org/details/qcon09_carmack_keynote_low)
 | [Matt Chat 54: Quake with John Romero](https://www.youtube.com/watch?v=Pq__3XNvvHI) | 2010-??
+| [John Carmack QuakeCon 2010 Keynote](https://www.youtube.com/playlist?list=PL6C2682BFF95E8206) | 2010-08-13 [[1]](https://www.pcper.com/reviews/Shows-and-Expos/Quakecon-2010-Day-1-Coverage?aid=977)
 | [1UP's Cross Country Tour: id Software Office Tour](https://www.youtube.com/watch?v=n-SwU2iJ_1k) | 2010-09-06
-| [John Carmack QuakeCon 2011 Keynote](https://www.youtube.com/watch?v=4zgYG-_ha28) | 2011-??
-| [John Carmack QuakeCon 2011 Keynote Q&A](https://www.youtube.com/watch?v=00Q9-ftiPVQ) | 2011-??
-| [John Romero & Tom Hall - GDC 2011 (Doom Post Mortem)](https://www.youtube.com/watch?v=2q_aRu6Jvu8) | 2011-??
+| [John Romero & Tom Hall - GDC 2011 (Doom Post Mortem)](https://www.youtube.com/watch?v=2q_aRu6Jvu8) | 2011-03
 | [John Carmack E3 2011](https://www.youtube.com/watch?v=NxFdsEtr-TY) | 2011-06-?? [[1]](https://en.wikipedia.org/wiki/Electronic_Entertainment_Expo_2011)
+| [John Carmack QuakeCon 2011 Keynote](https://www.youtube.com/watch?v=4zgYG-_ha28) | 2011-08-06
+| [John Carmack QuakeCon 2011 Keynote Q&A](https://www.youtube.com/watch?v=00Q9-ftiPVQ) | 2011-08-06
 | [QuakeCon 2011: 20 Years of id Software](https://www.youtube.com/watch?v=qEyxxpNQFIk) | 2011-08-09
 | [John Carmack Interview: GPU Race, Intel Graphics, Ray Tracing and Voxels and more (pcper.com)](https://www.youtube.com/watch?v=hapCuhAs1nA) | 2011-08-12
-| [John Carmack QuakeCon 2012 Keynote](https://www.youtube.com/watch?v=wt-iVFxgFWk) | 2012-??
+| [John Carmack QuakeCon 2012 Keynote](https://www.youtube.com/watch?v=wt-iVFxgFWk) | 2012-08-03
 | [Rage Tim Willits interview (uncut)](https://www.youtube.com/watch?v=-OIc6a_7hsA) | 2012-10-18
-| [John Carmack Quakecon 2013 Keynote](https://www.youtube.com/watch?v=gqhyet45p1s) | 2013-??
-| [Principles of Lighting and Rendering with John Carmack at QuakeCon 2013](https://www.youtube.com/watch?v=IyUgHPs86XM) | 2013-??
 | [Doom 20th Anniversary Event Video](https://www.youtube.com/watch?v=BdZ1SjcH5xA) | 2013-??
 | [id Software 20th Anniversary Feature](https://www.youtube.com/watch?v=sh9GAviYRkc) | 2013-??
+| [John Carmack Quakecon 2013 Keynote](https://www.youtube.com/watch?v=gqhyet45p1s) | 2013-08-02 [[1]](https://www.pcper.com/reviews/Editorial/John-Carmack-Keynote-Quakecon-2013)
+| [Principles of Lighting and Rendering with John Carmack at QuakeCon 2013](https://www.youtube.com/watch?v=IyUgHPs86XM) | 2013-08-02 [[1]](https://www.youtube.com/watch?v=VUxcVzpeFqc)
 | [John Carmack - Twenty Years after Doom](https://www.youtube.com/watch?v=Nqr4lwtuUcE) | 2014-04-25 [[1]](https://people.smu.edu/mjhaveri/2014/04/18/carmack/comment-page-2/)
 | [John Romero - id Software's early days - GDC 2016](https://www.youtube.com/watch?v=E2MIpi8pIvY) | 2016-??
 | [John Carmack receives the BAFTA Fellowship at BAFTA Games Awards 2016](https://www.youtube.com/watch?v=fyjJrF2gJ34) | 2016-04-07 [[1]](http://www.bafta.org/games/awards/games-awards-winners-2016)

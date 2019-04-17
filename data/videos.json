@@ -1,706 +1,972 @@
 [
   {
-    "filename": "ATI Radeon 9700 Promotion - John Carmack-fU3RLKuVOic.mkv",
-    "sha1": "746019f1438ac91e3135212f4f6a3cfe62d98ec6",
-    "title": "ATI Radeon 9700 Promotion - John Carmack",
-    "date": "",
-    "dateSources": [],
-    "videoSources": [
-      "https://www.youtube.com/watch?v=fU3RLKuVOic&t=2m6s"
-    ],
-	"tags": ["John Carmack"]
-  },
-  {
-    "filename": "Tim Willits on id, John Carmack and game_level design-WHAlkDdro6s.mp4",
-    "sha1": "7d9ba8dfc623441e7cae9cd25e9c10c16ff34ebc",
-    "title": "Tim Willits on id, John Carmack and game/level design",
-    "date": "",
-    "dateSources": [],
-    "videoSources": [
-      "https://www.youtube.com/watch?v=WHAlkDdro6s"
-    ],
-	"tags": ["John Carmack", "Tim Willits"]
-  },
-  {
-    "filename": "Quake 4 PC Games Interview - Todd Hollenshead Video-ox_ozJwKPw4.mp4",
-    "sha1": "e869043b8134321fcd4071d1e4176b16d7ce6e1d",
-    "title": "Quake 4 PC Games Interview - Todd Hollenshead Video",
-    "date": "",
-    "dateSources": [],
-    "videoSources": [
-      "https://www.youtube.com/watch?v=ox_ozJwKPw4"
-    ],
-	"tags": ["Todd Hollenshead"]
-  },
-  {
+    "description": null,
     "filename": "Wolfenstein 3D - id Software and Apogee interview in 1992-HLnDoyzHq2k.mp4",
     "sha1": "109aeca23e917e71b750873c9d46ebe8732b41eb",
     "title": "Wolfenstein 3D - id Software and Apogee interview",
     "date": "1992",
+    "tags": [
+      "John Romero"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=HLnDoyzHq2k"
-    ],
-	"tags": ["John Romero"]
+    ]
   },
   {
+    "description": null,
     "filename": "id Software - Answering machine - June 1992-ib0ASwFrdCw.mp4",
     "sha1": "d677b4698c8ff358592f7b12f79a38f2ee86e367",
     "title": "id Software - Answering machine - June 1992",
     "date": "1992-06-??",
+    "tags": [
+      "John Romero",
+      "Tom Hall"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=ib0ASwFrdCw"
-    ],
-	"tags": ["John Romero", "Tom Hall"]
+    ]
   },
   {
+    "description": null,
     "filename": "A Visit to id Software-4022128.m4v",
     "sha1": "8b096027fe045ccb7df21f5bd226c9f214e2708c",
     "title": "A Visit to id Software (November 1993)",
     "date": "1993-11-??",
+    "tags": [
+      "John Romero"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://vimeo.com/4022128"
-    ],
-	"tags": ["John Romero"]
+    ]
   },
   {
+    "description": null,
     "filename": "Doom 2 - Hell On Earth Trailer 1994-p-KIS4Sk76c.mkv",
     "sha1": "7bd744d5019d5ce54c69c03cf692487816dbec2f",
     "title": "Doom 2: Hell On Earth Trailer",
     "date": "1994-??",
+    "tags": [
+      "John Romero",
+      "Jay Wilbur",
+      "American McGee",
+      "Shawn Green",
+      "Doom"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=p-KIS4Sk76c"
-    ],
-	"tags": ["John Romero", "Jay Wilbur", "American McGee", "Shawn Green", "Doom"]
+    ]
   },
   {
+    "description": null,
     "filename": "id Software Interview Quake 1996-wBTCR4jTzkc.mkv",
     "sha1": "596967fb43abf852c42bbfaa076a6ac0190978ca",
     "title": "id Software Interview Quake 1996",
     "date": "1996",
+    "tags": [
+      "Jay Wilbur﻿"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=wBTCR4jTzkc"
-    ],
-	"tags": ["Jay Wilbur﻿"]
+    ]
   },
   {
+    "description": null,
     "filename": "QuakeWorld Launch Event - 1996-LXw6BkZ-gdY.mp4",
     "sha1": "0d1069aae8730bdab083a739f1fa0eced7501174",
     "title": "QuakeWorld Launch Event",
     "date": "1996-09-19",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=LXw6BkZ-gdY"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": "Poma Ads - MacWorld San Francisco (1999) 6_7-VUfu-xOGr1U.mp4",
     "sha1": "502802eab634ed143a34133413263e2bbdc7c431",
     "title": "MacWorld San Francisco 1999",
     "date": "1999-??",
+    "tags": [
+      "John Carmack",
+      "Steve Jobs"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=VUfu-xOGr1U&t=4m30s"
-    ],
-	"tags": ["John Carmack", "Steve Jobs"]
+    ]
   },
   {
+    "description": null,
     "filename": "John Carmack Quakecon 2000 - part 1-Y5P_mIEeLmA.mp4",
     "sha1": "19ed951504be40c0977cf786ff957193c39cbd4c",
     "title": "John Carmack QuakeCon 2000, Part 1/2",
     "date": "2000-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=Y5P_mIEeLmA"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": "John Carmack Quakecon 2000 - part 2-NE74zFoKxAQ.mp4",
     "sha1": "f50fcc4cb2ccbdf85cf08674f580fb9e6389a23f",
     "title": "John Carmack QuakeCon 2000, Part 2/2",
     "date": "2000-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=NE74zFoKxAQ"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": "John Carmack - Interview (2000)-SzWQUlbMhwA.mp4",
     "sha1": "2503e9c4f246cd9e67fd33432ba552dc197aee1b",
     "title": "John Carmack - Interview (2000)",
     "date": "2000-08-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [
       "https://web.archive.org/web/20000816025310/http://www.quakecon.org/faq.html#1"
     ],
     "videoSources": [
       "https://www.youtube.com/watch?v=SzWQUlbMhwA"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": "Doom3 Legacy-rxdA1nED63k.mkv",
     "sha1": "0467005caec87a0fb780e7d56f5ebc56913c87b5",
     "title": "Doom 3 Legacy",
     "date": "2001-??",
+    "tags": [
+      "John Carmack",
+      "Todd Hollenshead",
+      "Kevin Cloud",
+      "Tim Willits",
+      "Fred Nilsson",
+      "Robert A. Duffy",
+      "Trent Reznor",
+      "Fountainhead",
+      "Doom"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=rxdA1nED63k"
-    ],
-	"tags": ["John Carmack", "Todd Hollenshead", "Kevin Cloud", "Tim Willits", "Fred Nilsson", "Robert A. Duffy", "Trent Reznor", "Fountainhead", "Doom"]
+    ]
   },
   {
+    "description": null,
     "filename": "John Carmack Announcing Doom 3 at MacWorld 2001-Qj3dPyk7hPI.mp4",
     "sha1": "f73ba03afe590b747753c959e731101b1e0d30b5",
     "title": "John Carmack Announcing Doom 3 at MacWorld 2001",
     "date": "2001-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=Qj3dPyk7hPI"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": "John Carmack - Doom 3 Engine Technology Interview [Part 1_4]-sWRctnQU2F4.mkv",
     "sha1": "39f1fb291122a9ef4491ed825bd49e78af77d601",
     "title": "John Carmack - Doom 3 Engine Technology Interview, Part 1/4",
     "date": "2001-08-??",
+    "tags": [
+      "John Carmack",
+      "Sam Parker",
+      "GameSpot"
+    ],
     "dateSources": [
       "https://web.archive.org/web/20010515220310/http://www.quakecon.org/"
     ],
     "videoSources": [
       "https://www.youtube.com/watch?v=sWRctnQU2F4"
-    ],
-	"tags": ["John Carmack", "Sam Parker", "GameSpot"]
+    ]
   },
   {
+    "description": null,
     "filename": "John Carmack - Doom 3 Engine Technology Interview [Part 2_4]-7YV-RMG_NLM.mkv",
     "sha1": "92cf22eab46cea7093f473582434ddadbe40aafe",
     "title": "John Carmack - Doom 3 Engine Technology Interview, Part 2/4",
     "date": "2001-08-??",
+    "tags": [
+      "John Carmack",
+      "Sam Parker",
+      "GameSpot"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=7YV-RMG_NLM"
-    ],
-	"tags": ["John Carmack", "Sam Parker", "GameSpot"]
+    ]
   },
   {
+    "description": null,
     "filename": "John Carmack - Doom 3 Engine Technology Interview [Part 3_4]-10fP1j7429g.mkv",
     "sha1": "807fef8097feaba19b0d270fdc4a2889db12ae02",
     "title": "John Carmack - Doom 3 Engine Technology Interview, Part 3/4",
     "date": "2001-08-??",
+    "tags": [
+      "John Carmack",
+      "Sam Parker",
+      "GameSpot"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=10fP1j7429g"
-    ],
-	"tags": ["John Carmack", "Sam Parker", "GameSpot"]
+    ]
   },
   {
+    "description": null,
     "filename": "John Carmack - Doom 3 Engine Technology Interview [Part 4_4]-o5PWHZpxkx4.mkv",
     "sha1": "f27c683dfb5fd3736a8b4cba2cfce5f7d16298c5",
     "title": "John Carmack - Doom 3 Engine Technology Interview, Part 4/4",
     "date": "2001-08-??",
+    "tags": [
+      "John Carmack",
+      "Sam Parker",
+      "GameSpot"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=o5PWHZpxkx4"
-    ],
-	"tags": ["John Carmack", "Sam Parker", "GameSpot"]
+    ]
   },
   {
+    "description": null,
+    "filename": "ATI Radeon 9700 Promotion - John Carmack-fU3RLKuVOic.mkv",
+    "sha1": "746019f1438ac91e3135212f4f6a3cfe62d98ec6",
+    "title": "ATI Radeon 9700 Promotion - John Carmack",
+    "date": "2002?",
+    "tags": [
+      "John Carmack"
+    ],
+    "dateSources": [],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=fU3RLKuVOic&t=2m6s"
+    ]
+  },
+  {
+    "description": null,
     "filename": "QuakeCon 2002 - John Carmack Keynote-rzY_FGRoccI.webm",
     "sha1": "d9de1e857d3154bc2e318f6661f597c0c403eb3c",
     "title": "John Carmack QuakeCon 2002 Keynote",
     "date": "2002-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=rzY_FGRoccI"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": "QuakeCon 2002 Doom 3 Interview-QuakeCon_2002_Interview.ogg",
     "sha1": "ca481ef506dc4e5c3b9602c0063dd2333f536b19",
     "title": "QuakeCon 2002 Doom 3 Interview",
     "date": "2002-08-??",
+    "tags": [
+      "Sam Parker",
+      "GameSpot",
+      "Todd Hollenshead",
+      "Christian Antkow"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://archive.org/details/QuakeCon_2002_Interview"
-    ],
-	"tags": ["Sam Parker", "GameSpot", "Todd Hollenshead", "Christian Antkow"]
+    ]
   },
   {
+    "description": null,
     "filename": "Todd Hollenshead Interview (QuakeCon 2002)-Todd_Hollenshead_Interview_QuakeCon_2002.ogg",
     "sha1": "fa10bbeb02b0a29a3152dd5e7f7b02aa4869752f",
     "title": "Todd Hollenshead Interview (QuakeCon 2002)",
     "date": "2002-08-??",
+    "tags": [
+      "Todd Hollenshead"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://archive.org/details/Todd_Hollenshead_Interview_QuakeCon_2002"
-    ],
-	"tags": ["Todd Hollenshead"]
+    ]
   },
   {
+    "description": null,
     "filename": "John Romero, Tom Hall, Monkeystone Games-Gkqp8Cxo9r0.mp4",
     "sha1": "7bce7da0f899c36c32eaa1a905641ff5e74b230a",
     "title": "John Romero, Tom Hall, Monkeystone Games",
     "date": "2003?",
+    "tags": [
+      "John Romero",
+      "Tom Hall"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=Gkqp8Cxo9r0"
-    ],
-	"tags": ["John Romero", "Tom Hall"]
+    ]
   },
   {
+    "description": null,
     "filename": "id Software - Doom 3 Team Development Story [Part 1_3]-X8xvTJ6msqY.mkv",
     "sha1": "9a7c1ade0d70e3d2dcc7665c97adc8bf9aa46e32",
     "title": "id Software - Doom 3 Team Development Story, Part 1/3",
     "date": "2004",
+    "tags": [
+      "John Carmack",
+      "Tim Willits",
+      "Kevin Cloud",
+      "Robert A. Duffy",
+      "Jim Black",
+      "Todd Hollenshead",
+      "Steven L. Kent",
+      "Dan Morris",
+      "Fatal1ty",
+      "Doom"
+    ],
     "dateSources": [
       "https://archive.org/details/DOOM_3_G4_History_of_Doom"
     ],
     "videoSources": [
       "https://www.youtube.com/watch?v=X8xvTJ6msqY",
       "https://archive.org/details/DOOM_3_G4_History_of_Doom/doom3part1.avi"
-    ],
-	"tags": ["John Carmack", "Tim Willits", "Kevin Cloud", "Robert A. Duffy", "Jim Black", "Todd Hollenshead", "Steven L. Kent", "Dan Morris", "Fatal1ty", "Doom"]
+    ]
   },
   {
+    "description": null,
     "filename": "id Software - Doom 3 Team Development Story [Part 2_3]-jH4DVCNWmMU.mkv",
     "sha1": "6ec51e5d17cfdd5a378c20a3638231055e03bfc1",
     "title": "id Software - Doom 3 Team Development Story, Part 2/3",
     "date": "2004",
+    "tags": [
+      "John Carmack",
+      "Tim Willits",
+      "Kevin Cloud",
+      "Robert A. Duffy",
+      "Jim Black",
+      "Todd Hollenshead",
+      "Steven L. Kent",
+      "Dan Morris",
+      "Fatal1ty",
+      "Doom"
+    ],
     "dateSources": [
       "https://archive.org/details/DOOM_3_G4_History_of_Doom"
     ],
     "videoSources": [
       "https://www.youtube.com/watch?v=jH4DVCNWmMU",
       "https://archive.org/details/DOOM_3_G4_History_of_Doom/doom3part2.avi"
-    ],
-	"tags": ["John Carmack", "Tim Willits", "Kevin Cloud", "Robert A. Duffy", "Jim Black", "Todd Hollenshead", "Steven L. Kent", "Dan Morris", "Fatal1ty", "Doom"]
+    ]
   },
   {
+    "description": null,
     "filename": "id Software - Doom 3 Team Development Story [Part 3_3]-bMw24I_D9cY.mkv",
     "sha1": "6b4470cf683572133527084ce0654c04d8635b2f",
     "title": "id Software - Doom 3 Team Development Story, Part 3/3",
     "date": "2004",
+    "tags": [
+      "John Carmack",
+      "Tim Willits",
+      "Kevin Cloud",
+      "Robert A. Duffy",
+      "Jim Black",
+      "Todd Hollenshead",
+      "Steven L. Kent",
+      "Dan Morris",
+      "Fatal1ty",
+      "Doom"
+    ],
     "dateSources": [
       "https://archive.org/details/DOOM_3_G4_History_of_Doom"
     ],
     "videoSources": [
       "https://www.youtube.com/watch?v=bMw24I_D9cY",
       "https://archive.org/details/DOOM_3_G4_History_of_Doom/doom3part3.avi"
-    ],
-	"tags": ["John Carmack", "Tim Willits", "Kevin Cloud", "Robert A. Duffy", "Jim Black", "Todd Hollenshead", "Steven L. Kent", "Dan Morris", "Fatal1ty", "Doom"]
+    ]
   },
   {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "John Carmack DOOM 3 Keynote - Quakecon 2004, Part 1 / 4",
     "date": "2004-??-??",
+    "tags": [],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=drYVU3gekFI"
     ]
   },
   {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "John Carmack DOOM 3 Keynote - Quakecon 2004, Part 2 / 4",
     "date": "2004-??-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=nXBDD6TT8Uw"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "John Carmack DOOM 3 Keynote - Quakecon 2004, Part 3 / 4",
     "date": "2004-??-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=fBndl74FBao"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "John Carmack DOOM 3 Keynote - Quakecon 2004, Part 4 / 4",
     "date": "2004-??-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=315GBXAg5pI"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": "John Carmack Keynote - GDC 2004-N0auhzHZe5k.mp4",
     "sha1": "350bf9986666b4a0e0e0b0d07e29eba38a1c8fbb",
     "title": "John Carmack GDC 2004 Keynote",
     "date": "2004-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=N0auhzHZe5k"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": "QuakeCon 2005 - John Carmack Keynote Speech-qePmEhK1q9A.mp4",
     "sha1": "90c004b17b53729689d0ac1771d5295907bbf56c",
     "title": "John Carmack QuakeCon 2005 Keynote",
     "date": "2005-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=qePmEhK1q9A"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
+    "filename": "Quake 4 PC Games Interview - Todd Hollenshead Video-ox_ozJwKPw4.mp4",
+    "sha1": "e869043b8134321fcd4071d1e4176b16d7ce6e1d",
+    "title": "Quake 4 PC Games Interview - Todd Hollenshead Video",
+    "date": "2005-05-17",
+    "tags": [
+      "Todd Hollenshead"
+    ],
+    "dateSources": [
+      "https://www.ign.com/videos/2005/05/17/quake-4-pc-games-interview-todd-hollenshead-video-interview"
+    ],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=ox_ozJwKPw4"
+    ]
+  },
+  {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "John Carmack QuakeCon 2006",
     "date": "2006-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=_dkZ3YLNbqM"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "John Carmack QuakeCon 2006 #2",
     "date": "2006-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=WMALYXn0trw"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": "QuakeCon 2006 - John Carmack Keynote-Fis3AlTaml4.mp4",
     "sha1": "529da8c6e2c3765eec6c226bc4a66ff7f496f87d",
     "title": "John Carmack QuakeCon 2006 Keynote",
     "date": "2006-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=Fis3AlTaml4"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": "At the time I visited id Software in April of 2000, plans for moving to new offices were already in the works. One of the pictures which I took even shows the basic floor plan for their new office which would be located only a few minutes drive away in a two-story modern office complex. The move to id's current offices took place on June 9th 2000. id's Todd Hollenshead, Christian Antkow, and Graeme Devine all made .plan updates that day relaying the news of the move to the public [...]",
     "filename": "Inside id software-V-VF-PHMPZc.mkv",
     "sha1": "f2b4197361381cd7fa88fee935d5f42fdb35dd07",
     "title": "Inside id software",
-	"description": "At the time I visited id Software in April of 2000, plans for moving to new offices were already in the works. One of the pictures which I took even shows the basic floor plan for their new office which would be located only a few minutes drive away in a two-story modern office complex. The move to id's current offices took place on June 9th 2000. id's Todd Hollenshead, Christian Antkow, and Graeme Devine all made .plan updates that day relaying the news of the move to the public [...]",
     "date": "2006-09-13 ",
+    "tags": [
+      "Office",
+      "PlanetQuake4.net"
+    ],
     "dateSources": [
       "https://web.archive.org/web/20070427162123/http://www.quakeunity.com/article=13"
     ],
     "videoSources": [
-      "https://www.youtube.com/watch?v=V-VF-PHMPZc"
-    ],
-	"tags": ["Office", "PlanetQuake4.net"]
+      "https://www.youtube.com/watch?v=V-VF-PHMPZc",
+      "https://www.youtube.com/watch?v=uIVYmqK-fhw"
+    ]
   },
   {
-    "filename": null,
-    "sha1": null,
-    "title": "John Carmack demonstrates ID Tech 5 at WWDC 2007",
-    "date": "2007-??",
-    "dateSources": [],
-    "videoSources": [
-      "https://www.youtube.com/watch?v=HvuTtrkVtns"
-    ],
-	"tags": ["John Carmack"]
-  },
-  {
+    "description": null,
     "filename": "QuakeCon 2007 - John Carmack Keynote-V-8unki76Z8.mp4",
     "sha1": "898ca360e5f40f5119e2dfae388d680851088375",
     "title": "John Carmack QuakeCon 2007 Keynote",
     "date": "2007-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=V-8unki76Z8"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "John Romero - Talks About Old Days",
     "date": "2007",
+    "tags": [
+      "John Romero"
+    ],
     "dateSources": [
       "http://www.getlamp.com/cast/20071118romero/index.html"
     ],
     "videoSources": [
       "https://www.youtube.com/watch?v=PJW1aC47Js4"
-    ],
-	"tags": ["John Romero"]
+    ]
   },
   {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "G4tv.com - Id Software interview",
     "date": "2007?",
+    "tags": [],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=aCrnEmIWvf0"
     ]
   },
   {
+    "description": null,
+    "filename": null,
+    "sha1": null,
+    "title": "John Carmack demonstrates ID Tech 5 at WWDC 2007",
+    "date": "2007-06-11",
+    "tags": [
+      "John Carmack"
+    ],
+    "dateSources": [
+      "https://www.youtube.com/watch?v=y1B2c3ZD9fk&t=11m15s"
+    ],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=HvuTtrkVtns",
+      "https://www.youtube.com/watch?v=y1B2c3ZD9fk&t=11m15s"
+    ]
+  },
+  {
+    "description": null,
+    "filename": "Tim Willits on id, John Carmack and game_level design-WHAlkDdro6s.mp4",
+    "sha1": "7d9ba8dfc623441e7cae9cd25e9c10c16ff34ebc",
+    "title": "Tim Willits on id, John Carmack and game/level design",
+    "date": "2007-10-29",
+    "tags": [
+      "John Carmack",
+      "Tim Willits",
+      "Warren Spector"
+    ],
+    "dateSources": [
+      "https://www.youtube.com/watch?v=R8teXxWXn_M"
+    ],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=WHAlkDdro6s",
+      "https://www.youtube.com/watch?v=R8teXxWXn_M"
+    ]
+  },
+  {
+    "description": null,
     "filename": "QuakeCon 2008 - John Carmack Keynote-wbFHUnTFI6w.mp4",
     "sha1": "133db9f83b59def483ca3b517908cc71267a007e",
     "title": "John Carmack QuakeCon 2008 Keynote",
     "date": "2008-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=wbFHUnTFI6w"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "John Carmack Interview QuakeCon 2008",
     "date": "2008-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=H2Vqt2boumI"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": "QuakeCon 2009 - John Carmack Keynote--aHRxc3mW_A.mp4",
     "sha1": "8cd2155e0296b539b9a0275646f5e85ac0e5f926",
     "title": "John Carmack QuakeCon 2009 Keynote",
-    "date": "2009-??",
-    "dateSources": [],
+    "date": "2009-08-14",
+    "tags": [
+      "John Carmack"
+    ],
+    "dateSources": [
+      "https://archive.org/details/qcon09_carmack_keynote_low"
+    ],
     "videoSources": [
       "https://www.youtube.com/watch?v=-aHRxc3mW_A"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
-    "filename": null,
-    "sha1": null,
-    "title": "John Carmack QuakeCon 2010 Keynote",
-    "date": "2010-??",
-    "dateSources": [],
-    "videoSources": [
-      "https://www.youtube.com/playlist?list=PL6C2682BFF95E8206"
-    ],
-	"tags": ["John Carmack"]
-  },
-  {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "Matt Chat 54: Quake with John Romero",
     "date": "2010-??",
+    "tags": [
+      "John Romero"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=Pq__3XNvvHI"
     ]
   },
   {
+    "description": null,
+    "filename": null,
+    "sha1": null,
+    "title": "John Carmack QuakeCon 2010 Keynote",
+    "date": "2010-08-13",
+    "tags": [
+      "John Carmack"
+    ],
+    "dateSources": [
+      "https://www.pcper.com/reviews/Shows-and-Expos/Quakecon-2010-Day-1-Coverage?aid=977"
+    ],
+    "videoSources": [
+      "https://www.youtube.com/playlist?list=PL6C2682BFF95E8206"
+    ]
+  },
+  {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "1UP's Cross Country Tour: id Software Office Tour",
     "date": "2010-09-06",
+    "tags": [
+      "Office",
+      "Tim Willits",
+      "Robert A. Duffy"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=n-SwU2iJ_1k"
-    ],
-	"tags": ["Office", "Tim Willits", "Robert A. Duffy"]
+    ]
   },
   {
-    "filename": "QuakeCon 2011 - John Carmack Keynote-4zgYG-_ha28.mp4",
-    "sha1": "d81e36efab140f0cc8a0a5e9bb82b46f3f315b7c",
-    "title": "John Carmack QuakeCon 2011 Keynote",
-    "date": "2011-??",
-    "dateSources": [],
-    "videoSources": [
-      "https://www.youtube.com/watch?v=4zgYG-_ha28"
-    ],
-	"tags": ["John Carmack"]
-  },
-  {
-    "filename": null,
-    "sha1": null,
-    "title": "John Carmack QuakeCon 2011 Keynote Q&A",
-    "date": "2011-??",
-    "dateSources": [],
-    "videoSources": [
-      "https://www.youtube.com/watch?v=00Q9-ftiPVQ"
-    ],
-	"tags": ["John Carmack"]
-  },
-  {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "John Romero & Tom Hall - GDC 2011 (Doom Post Mortem)",
-    "date": "2011-??",
+    "date": "2011-03",
+    "tags": [
+      "John Romero",
+      "Tom Hall"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=2q_aRu6Jvu8",
-	  "https://www.youtube.com/watch?v=NnkCujnYNSo"
-    ],
-	"tags": ["John Romero", "Tom Hall"]
+      "https://www.youtube.com/watch?v=NnkCujnYNSo"
+    ]
   },
   {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "John Carmack E3 2011",
     "date": "2011-06-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [
       "https://en.wikipedia.org/wiki/Electronic_Entertainment_Expo_2011"
     ],
     "videoSources": [
       "https://www.youtube.com/watch?v=NxFdsEtr-TY"
-    ], 
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
+    "filename": "QuakeCon 2011 - John Carmack Keynote-4zgYG-_ha28.mp4",
+    "sha1": "d81e36efab140f0cc8a0a5e9bb82b46f3f315b7c",
+    "title": "John Carmack QuakeCon 2011 Keynote",
+    "date": "2011-08-06",
+    "tags": [
+      "John Carmack"
+    ],
+    "dateSources": [],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=4zgYG-_ha28"
+    ]
+  },
+  {
+    "description": null,
+    "filename": null,
+    "sha1": null,
+    "title": "John Carmack QuakeCon 2011 Keynote Q&A",
+    "date": "2011-08-06",
+    "tags": [
+      "John Carmack"
+    ],
+    "dateSources": [],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=00Q9-ftiPVQ"
+    ]
+  },
+  {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "QuakeCon 2011: 20 Years of id Software",
     "date": "2011-08-09",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=qEyxxpNQFIk"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "John Carmack Interview: GPU Race, Intel Graphics, Ray Tracing and Voxels and more (pcper.com)",
     "date": "2011-08-12",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=hapCuhAs1nA"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "John Carmack QuakeCon 2012 Keynote",
-    "date": "2012-??",
+    "date": "2012-08-03",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=wt-iVFxgFWk"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "Rage Tim Willits interview (uncut)",
     "date": "2012-10-18",
+    "tags": [
+      "Tim Willits",
+      "Rage"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=-OIc6a_7hsA"
-    ],
-	"tags": ["Tim Willits", "Rage"]
+    ]
   },
   {
-    "filename": null,
-    "sha1": null,
-    "title": "John Carmack Quakecon 2013 Keynote",
-    "date": "2013-??",
-    "dateSources": [],
-    "videoSources": [
-      "https://www.youtube.com/watch?v=gqhyet45p1s"
-    ],
-	"tags": ["John Carmack"]
-  },
-  {
-    "filename": null,
-    "sha1": null,
-    "title": "Principles of Lighting and Rendering with John Carmack at QuakeCon 2013",
-    "date": "2013-??",
-    "dateSources": [],
-    "videoSources": [
-      "https://www.youtube.com/watch?v=IyUgHPs86XM"
-    ],
-	"tags": ["John Carmack"]
-  },
-  {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "Doom 20th Anniversary Event Video",
     "date": "2013-??",
+    "tags": [
+      "Doom"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=BdZ1SjcH5xA"
-    ],
-	"tags": ["Doom"]
+    ]
   },
   {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "id Software 20th Anniversary Feature",
     "date": "2013-??",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=sh9GAviYRkc"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
+    "filename": null,
+    "sha1": null,
+    "title": "John Carmack Quakecon 2013 Keynote",
+    "date": "2013-08-02",
+    "tags": [
+      "John Carmack"
+    ],
+    "dateSources": [
+      "https://www.pcper.com/reviews/Editorial/John-Carmack-Keynote-Quakecon-2013"
+    ],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=gqhyet45p1s",
+      "https://www.youtube.com/watch?v=Uooh0Y9fC_M"
+    ]
+  },
+  {
+    "description": null,
+    "filename": null,
+    "sha1": null,
+    "title": "Principles of Lighting and Rendering with John Carmack at QuakeCon 2013",
+    "date": "2013-08-02",
+    "tags": [
+      "John Carmack"
+    ],
+    "dateSources": [
+      "https://www.youtube.com/watch?v=VUxcVzpeFqc"
+    ],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=IyUgHPs86XM",
+      "https://www.youtube.com/watch?v=VUxcVzpeFqc"
+    ]
+  },
+  {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "John Carmack - Twenty Years after Doom",
     "date": "2014-04-25",
+    "tags": [
+      "John Carmack",
+      "Doom"
+    ],
     "dateSources": [
       "https://people.smu.edu/mjhaveri/2014/04/18/carmack/comment-page-2/"
     ],
     "videoSources": [
       "https://www.youtube.com/watch?v=Nqr4lwtuUcE"
-    ],
-	"tags": ["John Carmack", "Doom"]
+    ]
   },
   {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "John Romero - id Software's early days - GDC 2016",
     "date": "2016-??",
+    "tags": [
+      "John Romero",
+      "GDC"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=E2MIpi8pIvY"
-    ],
-	"tags": ["John Romero", "GDC"]
+    ]
   },
   {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "John Carmack receives the BAFTA Fellowship at BAFTA Games Awards 2016",
     "date": "2016-04-07",
+    "tags": [
+      "John Carmack"
+    ],
     "dateSources": [
       "http://www.bafta.org/games/awards/games-awards-winners-2016"
     ],
     "videoSources": [
       "https://www.youtube.com/watch?v=fyjJrF2gJ34"
-    ],
-	"tags": ["John Carmack"]
+    ]
   },
   {
+    "description": null,
     "filename": null,
     "sha1": null,
     "title": "DOOM’s Development: A Year of Madness",
     "date": "2018-06-27",
+    "tags": [
+      "John Romero",
+      "Doom"
+    ],
     "dateSources": [],
     "videoSources": [
       "https://www.youtube.com/watch?v=eBU34NZhW7I"
-    ],
-	"tags": ["John Romero", "Doom"]
+    ]
   }
 ]
