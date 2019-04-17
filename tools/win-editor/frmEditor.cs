@@ -298,11 +298,13 @@ namespace DataEditor
             void _table(string tag, IEnumerable<Video> videos)
                 => template = Markdown.VideoTableTemplate(template, tag, videos);
 
+            var quake = carmack.Where(x => x.title.Contains("MacWorld San Francisco 1999") || x.title.Contains("QuakeWorld Launch Event"));
+
             _table("{ALL_TABLE}", carmack);
             _table("{KEYNOTES_TABLE}", carmack.Where(x => x.title.Contains("Keynote")));
             _table("{QUAKECON_TABLE}", carmack.Where(x => x.title.ToLower().Contains("quakecon")));
             _table("{DOOM_TABLE}", carmack.Where(x => x.title.ToLower().Contains("doom")));
-            _table("{QUAKE_TABLE}", carmack.Where(x => x.title.ToLower().Contains("quake")));
+            _table("{QUAKE_TABLE}", quake);
             File.WriteAllText(Data.BaseDir + "/JohnCarmack.md", template);
         }
 
