@@ -22,6 +22,7 @@ This page contains information and media related to John Carmack.
 | [id Software - Doom 3 Team Development Story, Part 1/3](https://www.youtube.com/watch?v=X8xvTJ6msqY) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
 | [id Software - Doom 3 Team Development Story, Part 2/3](https://www.youtube.com/watch?v=jH4DVCNWmMU) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
 | [id Software - Doom 3 Team Development Story, Part 3/3](https://www.youtube.com/watch?v=bMw24I_D9cY) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
+| [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 1 / 4](https://www.youtube.com/watch?v=drYVU3gekFI) | 2004-??-??
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 2 / 4](https://www.youtube.com/watch?v=nXBDD6TT8Uw) | 2004-??-??
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 3 / 4](https://www.youtube.com/watch?v=fBndl74FBao) | 2004-??-??
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 4 / 4](https://www.youtube.com/watch?v=315GBXAg5pI) | 2004-??-??
@@ -54,6 +55,7 @@ This page contains information and media related to John Carmack.
 | Video | Date |
 | --- | --- | 
 | [John Carmack QuakeCon 2002 Keynote](https://www.youtube.com/watch?v=rzY_FGRoccI) | 2002-??
+| [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 1 / 4](https://www.youtube.com/watch?v=drYVU3gekFI) | 2004-??-??
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 2 / 4](https://www.youtube.com/watch?v=nXBDD6TT8Uw) | 2004-??-??
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 3 / 4](https://www.youtube.com/watch?v=fBndl74FBao) | 2004-??-??
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 4 / 4](https://www.youtube.com/watch?v=315GBXAg5pI) | 2004-??-??
@@ -76,6 +78,7 @@ This page contains information and media related to John Carmack.
 | [John Carmack QuakeCon 2000, Part 1/2](https://www.youtube.com/watch?v=Y5P_mIEeLmA) | 2000-??
 | [John Carmack QuakeCon 2000, Part 2/2](https://www.youtube.com/watch?v=NE74zFoKxAQ) | 2000-??
 | [John Carmack QuakeCon 2002 Keynote](https://www.youtube.com/watch?v=rzY_FGRoccI) | 2002-??
+| [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 1 / 4](https://www.youtube.com/watch?v=drYVU3gekFI) | 2004-??-??
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 2 / 4](https://www.youtube.com/watch?v=nXBDD6TT8Uw) | 2004-??-??
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 3 / 4](https://www.youtube.com/watch?v=fBndl74FBao) | 2004-??-??
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 4 / 4](https://www.youtube.com/watch?v=315GBXAg5pI) | 2004-??-??
@@ -108,6 +111,7 @@ This page contains information and media related to John Carmack.
 | [id Software - Doom 3 Team Development Story, Part 1/3](https://www.youtube.com/watch?v=X8xvTJ6msqY) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
 | [id Software - Doom 3 Team Development Story, Part 2/3](https://www.youtube.com/watch?v=jH4DVCNWmMU) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
 | [id Software - Doom 3 Team Development Story, Part 3/3](https://www.youtube.com/watch?v=bMw24I_D9cY) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
+| [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 1 / 4](https://www.youtube.com/watch?v=drYVU3gekFI) | 2004-??-??
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 2 / 4](https://www.youtube.com/watch?v=nXBDD6TT8Uw) | 2004-??-??
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 3 / 4](https://www.youtube.com/watch?v=fBndl74FBao) | 2004-??-??
 | [John Carmack DOOM 3 Keynote - Quakecon 2004, Part 4 / 4](https://www.youtube.com/watch?v=315GBXAg5pI) | 2004-??-??
