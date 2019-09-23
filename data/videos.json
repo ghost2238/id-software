@@ -185,6 +185,48 @@
   },
   {
     "description": null,
+    "filename": null,
+    "sha1": null,
+    "title": "John Carmack inducted into hall of fame 1/3",
+    "date": "2001-03-22",
+    "tags": [],
+    "dateSources": [
+      "https://www.gamespot.com/articles/carmack-to-enter-hall-of-fame/1100-2681890/"
+    ],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=SwHTLVJozzE"
+    ]
+  },
+  {
+    "description": null,
+    "filename": null,
+    "sha1": null,
+    "title": "John Carmack inducted into hall of fame 2/3",
+    "date": "2001-03-22",
+    "tags": [],
+    "dateSources": [
+      "https://www.gamespot.com/articles/carmack-to-enter-hall-of-fame/1100-2681890/"
+    ],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=lP_lN2bOR00"
+    ]
+  },
+  {
+    "description": null,
+    "filename": null,
+    "sha1": null,
+    "title": "John Carmack inducted into hall of fame 3/3",
+    "date": "2001-03-22",
+    "tags": [],
+    "dateSources": [
+      "https://www.gamespot.com/articles/carmack-to-enter-hall-of-fame/1100-2681890/"
+    ],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=ZSdLapPmmvo"
+    ]
+  },
+  {
+    "description": null,
     "filename": "John Carmack - Doom 3 Engine Technology Interview [Part 1_4]-sWRctnQU2F4.mkv",
     "sha1": "39f1fb291122a9ef4491ed825bd49e78af77d601",
     "title": "John Carmack - Doom 3 Engine Technology Interview, Part 1/4",
