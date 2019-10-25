@@ -8,10 +8,11 @@ A collection of information about id software and their games.
 | The company moves from Shreveport, Louisiana to Madison, Wisconsin. | 1991-09-?? | 
 | The company moves from Madison, Wisconsin to Mesquite, Dallas, Texas. | 1992-04-01 | 
 | [Co-founder/co-owner John Romero announces his departure from id](https://github.com/oliverbenns/john-carmack-plan/blob/master/archive/1996-08-08.md) | 1996-08-08 | [[1]](https://github.com/oliverbenns/john-carmack-plan/blob/master/archive/1996-08-08.md)
-| [Internal strife at id leeds to the dismissal of Paul Steed.](https://github.com/oliverbenns/john-carmack-plan/blob/master/archive/2000-06-01.md) | 2000-06-01 | [[1]](https://github.com/oliverbenns/john-carmack-plan/blob/master/archive/2000-06-01.md) [[2]](http://www.gamasutra.com/view/news/93909/Steed_Fired.php)
+| [Internal strife at id leads to the dismissal of Paul Steed.](https://github.com/oliverbenns/john-carmack-plan/blob/master/archive/2000-06-01.md) | 2000-06-01 | [[1]](https://github.com/oliverbenns/john-carmack-plan/blob/master/archive/2000-06-01.md) [[2]](http://www.gamasutra.com/view/news/93909/Steed_Fired.php)
 | [id moves to a new office](https://web.archive.org/web/20070427162123/http://www.quakeunity.com/article=13) | 2000-06-09 | [[1]](https://web.archive.org/web/20070427162123/http://www.quakeunity.com/article=13)
 | [ZeniMax Media Inc. announces that it has acquired id Software.](https://web.archive.org/web/20140708225827/https://www.zenimax.com/press/ZeniMax_Media_Acquires_id_Software) | 2009-06-24 | [[1]](https://web.archive.org/web/20140708225827/https://www.zenimax.com/press/ZeniMax_Media_Acquires_id_Software)
 | [John Carmack resigns from id.](https://www.polygon.com/2013/11/22/5134500/id-software-founder-john-carmack-resigns) | 2013-11-22 | [[1]](https://www.polygon.com/2013/11/22/5134500/id-software-founder-john-carmack-resigns)
+| [Tim Willits resigns from id.](https://twitter.com/TimWillits/status/1151870022421241857) | 2019-07-18 | [[1]](https://twitter.com/TimWillits/status/1151870022421241857) [[2]](https://www.pcgamer.com/tim-willits-is-leaving-id-software/)
 
 
 ## Articles / Interviews
