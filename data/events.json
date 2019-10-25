@@ -1,34 +1,44 @@
 [
 	{
-		"event": "Company founded in Shreveport, Louisiana."
-		"date", "1991-02-01"
+		"title": "Company founded in Shreveport, Louisiana.",
+		"date": "1991-02-01"
 	},
 	{
-		"event": "The company moves from Shreveport, Louisiana to Madison, Wisconsin."
-		"date", "1991-09-??"
+		"title": "The company moves from Shreveport, Louisiana to Madison, Wisconsin.",
+		"date": "1991-09-??"
 	},
 	{
-		"event": "The company moves from Madison, Wisconsin to Mesquite, Dallas, Texas."
-		"date", "1992-04-01"
+		"title": "The company moves from Madison, Wisconsin to Mesquite, Dallas, Texas.",
+		"date": "1992-04-01"
 	},
 	{
-		"event": "Co-founder/co-owner John Romero announces his departure from id"
-		"date", "1996-08-08",
+		"title": "Co-founder/co-owner John Romero announces his departure from id",
+		"date": "1996-08-08",
 		"sources": ["https://github.com/oliverbenns/john-carmack-plan/blob/master/archive/1996-08-08.md"]
 	},
 	{
-		"event": "Internal strife at id leeds to the dismissal of Paul Steed."
-		"date", "2000-06-01",
+		"title": "Internal strife at id leeds to the dismissal of Paul Steed.",
+		"date": "2000-06-01",
 		"sources": ["https://github.com/oliverbenns/john-carmack-plan/blob/master/archive/2000-06-01.md", "http://www.gamasutra.com/view/news/93909/Steed_Fired.php"]
 	},
 	{
-		"event": "id moves to a new office"
-		"date", "2000-06-09",
+		"title": "id moves to a new office",
+		"date": "2000-06-09",
 		"sources": ["https://web.archive.org/web/20070427162123/http://www.quakeunity.com/article=13"]
 	},
 	{
-		"event": "ZeniMax Media Inc. announces that it has acquired id Software.",
+		"title": "ZeniMax Media Inc. announces that it has acquired id Software.",
 		"date": "2009-06-24",
 		"sources": ["https://web.archive.org/web/20140708225827/https://www.zenimax.com/press/ZeniMax_Media_Acquires_id_Software"]
+	},
+	{
+		"title": "John Carmack resigns from id.",
+		"date": "2013-11-22",
+		"sources": ["https://www.polygon.com/2013/11/22/5134500/id-software-founder-john-carmack-resigns"]
+	},
+	{
+		"title": "Tim Willits resigns from id.",
+		"date": "2019-07-18",
+		"sources": ["https://twitter.com/TimWillits/status/1151870022421241857", "https://www.pcgamer.com/tim-willits-is-leaving-id-software/"]
 	}
 ]

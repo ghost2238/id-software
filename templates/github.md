@@ -1,6 +1,9 @@
 # id Software archive
 A collection of information about id software and their games.
 
+## Timeline
+{EVENTS_TABLE}
+
 ## Articles / Interviews
 {ARTICLES_TABLE}
 

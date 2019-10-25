@@ -1,5 +1,21 @@
 [
   {
+  "title": "The Egos at Id",
+	"publisher": "Wired Magazine",
+	"date": "1996-08-01",
+	"sources": [
+      "https://www.wired.com/1996/08/id/"
+    ]
+  },
+  {
+    "title": "Braindrain at id. Mood 'Dark and Gloomy'",
+    "publisher": "Wired Magazine",
+    "date": "1997-01-18",
+    "sources": [
+        "https://www.wired.com/1997/01/braindrain-at-id-mood-dark-and-gloomy/"
+      ]
+  },
+  {
     "title": "Electric Play interviews John Carmack",
     "publisher": "Electric Play",
     "date": "1997",

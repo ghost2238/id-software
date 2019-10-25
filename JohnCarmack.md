@@ -13,6 +13,9 @@ This page contains information and media related to John Carmack.
 | [John Carmack - Interview (2000)](https://www.youtube.com/watch?v=SzWQUlbMhwA) | 2000-08-?? [[1]](https://web.archive.org/web/20000816025310/http://www.quakecon.org/faq.html#1)
 | [Doom 3 Legacy](https://www.youtube.com/watch?v=rxdA1nED63k) | 2001-??
 | [John Carmack Announcing Doom 3 at MacWorld 2001](https://www.youtube.com/watch?v=Qj3dPyk7hPI) | 2001-??
+| [John Carmack inducted into hall of fame 1/3](https://www.youtube.com/watch?v=SwHTLVJozzE) | 2001-03-22 [[1]](https://www.gamespot.com/articles/carmack-to-enter-hall-of-fame/1100-2681890/)
+| [John Carmack inducted into hall of fame 2/3](https://www.youtube.com/watch?v=lP_lN2bOR00) | 2001-03-22 [[1]](https://www.gamespot.com/articles/carmack-to-enter-hall-of-fame/1100-2681890/)
+| [John Carmack inducted into hall of fame 3/3](https://www.youtube.com/watch?v=ZSdLapPmmvo) | 2001-03-22 [[1]](https://www.gamespot.com/articles/carmack-to-enter-hall-of-fame/1100-2681890/)
 | [John Carmack - Doom 3 Engine Technology Interview, Part 1/4](https://www.youtube.com/watch?v=sWRctnQU2F4) | 2001-08-?? [[1]](https://web.archive.org/web/20010515220310/http://www.quakecon.org/)
 | [John Carmack - Doom 3 Engine Technology Interview, Part 2/4](https://www.youtube.com/watch?v=7YV-RMG_NLM) | 2001-08-??
 | [John Carmack - Doom 3 Engine Technology Interview, Part 3/4](https://www.youtube.com/watch?v=10fP1j7429g) | 2001-08-??

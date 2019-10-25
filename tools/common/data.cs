@@ -97,6 +97,36 @@ namespace Common
         public List<string> videoSources = new List<string>();
     }
 
+    public class Event
+    {
+        [JsonIgnoreAttribute]
+        public DateTime editorDate => Data.fuzzyDateToDateTime(date);
+        [JsonIgnoreAttribute]
+        public string primarySource => sources.Count > 0 ? sources.First() : "";
+
+        public string title;
+        public string date;
+        public List<string> sources = new List<string>();
+        public string linkOrTitle
+        {
+            get
+            {
+                if (sources.Count == 0)
+                    return title;
+                return Markdown.Link(title, primarySource);
+            }
+        }
+        public string sourceLinks
+        {
+            get
+            {
+                if (sources.Count > 0)
+                    return Markdown.LinksString(sources);
+                return "";
+            }
+        }
+    }
+
     public class Article
     {
         [JsonIgnoreAttribute]

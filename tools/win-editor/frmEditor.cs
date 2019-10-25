@@ -27,6 +27,7 @@ namespace DataEditor
         List<Audio> audio;
         List<Video> videos;
         List<Source> source;
+        List<Event> events;
 
         private void frmEditor_Load(object sender, EventArgs e)
         {
@@ -35,6 +36,7 @@ namespace DataEditor
             audio = Data.LoadJson<Audio>("audio.json");
             videos = Data.LoadJson<Video>("videos.json");
             source = Data.LoadJson<Source>("source.json");
+            events = Data.LoadJson<Event>("events.json");
 
             RefreshTables();
         }
@@ -271,6 +273,11 @@ namespace DataEditor
             foreach (var a in articles)
                 table.Row(Markdown.Link(a.title, a.primarySource), a.date, a.publisher ?? "", Markdown.LinksString(a.sources));
             template = template.Replace("{ARTICLES_TABLE}", table.ToString());
+
+            table = new MarkdownTable("Event", "Date", "Sources");
+            foreach (var e in events)
+                table.Row(e.linkOrTitle, e.date, e.sourceLinks);
+            template = template.Replace("{EVENTS_TABLE}", table.ToString());
 
             table = new MarkdownTable("Video", "Date");
             foreach (var v in videos)
