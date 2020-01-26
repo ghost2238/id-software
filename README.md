@@ -7,7 +7,7 @@ A collection of information about id software and their games.
 | Company founded in Shreveport, Louisiana. | 1991-02-01 | 
 | The company moves from Shreveport, Louisiana to Madison, Wisconsin. | 1991-09-?? | 
 | The company moves from Madison, Wisconsin to Mesquite, Dallas, Texas. | 1992-04-01 | 
-| [Co-founder/co-owner John Romero announces his departure from id](https://github.com/oliverbenns/john-carmack-plan/blob/master/archive/1996-08-08.md) | 1996-08-08 | [[1]](https://github.com/oliverbenns/john-carmack-plan/blob/master/archive/1996-08-08.md)
+| [Co-founder/co-owner John Romero leaves id](https://github.com/oliverbenns/john-carmack-plan/blob/master/archive/1996-08-08.md) | 1996-08-08 | [[1]](https://github.com/oliverbenns/john-carmack-plan/blob/master/archive/1996-08-08.md)
 | [Internal strife at id leads to the dismissal of Paul Steed.](https://github.com/oliverbenns/john-carmack-plan/blob/master/archive/2000-06-01.md) | 2000-06-01 | [[1]](https://github.com/oliverbenns/john-carmack-plan/blob/master/archive/2000-06-01.md) [[2]](http://www.gamasutra.com/view/news/93909/Steed_Fired.php)
 | [id moves to a new office](https://web.archive.org/web/20070427162123/http://www.quakeunity.com/article=13) | 2000-06-09 | [[1]](https://web.archive.org/web/20070427162123/http://www.quakeunity.com/article=13)
 | [ZeniMax Media Inc. announces that it has acquired id Software.](https://web.archive.org/web/20140708225827/https://www.zenimax.com/press/ZeniMax_Media_Acquires_id_Software) | 2009-06-24 | [[1]](https://web.archive.org/web/20140708225827/https://www.zenimax.com/press/ZeniMax_Media_Acquires_id_Software)
@@ -19,9 +19,9 @@ A collection of information about id software and their games.
 | Article / Interview | Date | Publisher | Sources / Mirrors |
 | --- | --- | --- | --- | 
 | [The Egos at Id](https://www.wired.com/1996/08/id/) | 1996-08-01 | Wired Magazine | [[1]](https://www.wired.com/1996/08/id/)
+| [Braindrain at id. Mood 'Dark and Gloomy'](https://www.wired.com/1997/01/braindrain-at-id-mood-dark-and-gloomy/) | 1997-01-18 | Wired Magazine | [[1]](https://www.wired.com/1997/01/braindrain-at-id-mood-dark-and-gloomy/)
 | [Electric Play interviews John Carmack](http://web.archive.org/web/19981201075539/http://www.elecplay.com/feature/quake/carmack.shtml) | 1997 | Electric Play | [[1]](http://web.archive.org/web/19981201075539/http://www.elecplay.com/feature/quake/carmack.shtml)
 | [John Carmack interviewed by DR_Bone, Clan Dark Requiem](http://www.bluesnews.com/cgi-bin/articles.pl?show=11) | 1997-01-08 | Blues News | [[1]](http://www.bluesnews.com/cgi-bin/articles.pl?show=11) [[2]](https://www.bluesnews.com/a/11)
-| [Braindrain at id. Mood 'Dark and Gloomy'](https://www.wired.com/1997/01/braindrain-at-id-mood-dark-and-gloomy/) | 1997-01-18 | Wired Magazine | [[1]](https://www.wired.com/1997/01/braindrain-at-id-mood-dark-and-gloomy/)
 | [Boot Magazine Interviews John Carmack & Brian Hook](https://web.archive.org/web/19980130151941/http://www.bootnet.com/youaskedforit/lip_16_outtakes/lip_16_all.html) | 1997-11-25 | Boot Net | [[1]](https://web.archive.org/web/19980130151941/http://www.bootnet.com/youaskedforit/lip_16_outtakes/lip_16_all.html)
 | [id Software's owner and lead programmer talks about Quake III Arena](https://web.archive.org/web/20030515172424/http://www.cdmag.com/articles/021/004/jc_interview.html) | 1999-06-30 | Computer Games Online | [[1]](https://web.archive.org/web/20030515172424/http://www.cdmag.com/articles/021/004/jc_interview.html)
 | [John Carmack responds to questions from Firing Squad](https://www.quakehaus.com/news/7368/chat-mit-john-carmack/) | 1999-09-28 | Firing Squad | [[1]](https://www.quakehaus.com/news/7368/chat-mit-john-carmack/) [[2]](https://github.com/fabiensanglard/carmack/blob/master/interview_files/johnc_interview_19990928_00.txt)
@@ -91,6 +91,7 @@ A collection of information about id software and their games.
 | --- | --- | 
 | [John Carmack at CPL 1998](https://archive.org/details/john_carmack_cpl_1998) | 1998-07-23 [[1]](https://archive.org/details/john_carmack_cpl_1998)
 | [Quakecon 2008 Interview by 1up.com](https://archive.org/details/JohnCarmackAtQuakecon2008) | 2008-08-01 [[1]](https://archive.org/details/JohnCarmackAtQuakecon2008)
+| [John Romero, full 2 hour interview from Matt Chat](https://www.youtube.com/watch?v=_-JPbXj-wJg) | 2010-02-27 [[1]](https://www.youtube.com/watch?v=fyZlghk3Jds)
 | [Quakecon 2011 Interview by pcper.com](https://archive.org/details/JohnCarmackAtQuakecon2011/John_Carmack_-_Quakecon_2011_Interview_by_pcper.com.mp3) | 2011-08-12 [[1]](https://archive.org/details/JohnCarmackAtQuakecon2011/John_Carmack_-_Quakecon_2011_Interview_by_pcper.com.mp3)
 
 
@@ -162,6 +163,7 @@ A collection of information about id software and their games.
 | [John Romero - id Software's early days - GDC 2016](https://www.youtube.com/watch?v=E2MIpi8pIvY) | 2016-??
 | [John Carmack receives the BAFTA Fellowship at BAFTA Games Awards 2016](https://www.youtube.com/watch?v=fyjJrF2gJ34) | 2016-04-07 [[1]](http://www.bafta.org/games/awards/games-awards-winners-2016)
 | [DOOM’s Development: A Year of Madness](https://www.youtube.com/watch?v=eBU34NZhW7I) | 2018-06-27
+| [Joe Rogan Experience #1342 - John Carmack](https://www.youtube.com/watch?v=udlMSe5-zP8) | 2019-08-28
 
 
 ## Misc

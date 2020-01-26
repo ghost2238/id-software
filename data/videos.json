@@ -1012,5 +1012,19 @@
     "videoSources": [
       "https://www.youtube.com/watch?v=eBU34NZhW7I"
     ]
+  },
+  {
+    "description": null,
+    "filename": null,
+    "sha1": null,
+    "title": "Joe Rogan Experience #1342 - John Carmack",
+    "date": "2019-08-28",
+    "tags": [
+      "John Carmack"
+    ],
+    "dateSources": [],
+    "videoSources": [
+      "https://www.youtube.com/watch?v=udlMSe5-zP8"
+    ]
   }
 ]

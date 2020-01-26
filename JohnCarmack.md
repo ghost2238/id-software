@@ -52,6 +52,7 @@ This page contains information and media related to John Carmack.
 | [Principles of Lighting and Rendering with John Carmack at QuakeCon 2013](https://www.youtube.com/watch?v=IyUgHPs86XM) | 2013-08-02 [[1]](https://www.youtube.com/watch?v=VUxcVzpeFqc)
 | [John Carmack - Twenty Years after Doom](https://www.youtube.com/watch?v=Nqr4lwtuUcE) | 2014-04-25 [[1]](https://people.smu.edu/mjhaveri/2014/04/18/carmack/comment-page-2/)
 | [John Carmack receives the BAFTA Fellowship at BAFTA Games Awards 2016](https://www.youtube.com/watch?v=fyjJrF2gJ34) | 2016-04-07 [[1]](http://www.bafta.org/games/awards/games-awards-winners-2016)
+| [Joe Rogan Experience #1342 - John Carmack](https://www.youtube.com/watch?v=udlMSe5-zP8) | 2019-08-28
 
 
 ### Keynotes
