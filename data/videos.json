@@ -90,6 +90,37 @@
   },
   {
     "description": null,
+    "filename": null,
+    "sha1": null,
+    "title": "Legends of Game Design - John Romero, Chris Roberts, and Nolan Bushnell",
+    "date": "1997-04-27",
+    "tags": [
+      "John Romero",
+      "Chris Roberts",
+      "Nolan Bushnell"
+    ],
+    "dateSources":["https://archive.org/details/vimeo-148496155"],
+    "videoSources":[
+      "https://www.youtube.com/watch?v=7M5RXKI_iaI",
+      "https://archive.org/details/vimeo-148496155"
+    ]
+  },
+  {
+    "description": null,
+    "filename": "brianhookquake3.ogv",
+    "sha1": null,
+    "title": "The Quake 3 Rendering Engine - GDC 1999 - Brian Hook",
+    "date": "1999-??",
+    "tags": [
+      "Brian Hook"
+    ],
+    "dateSources": ["https://archive.org/details/1999-gdc-brianhookquake3"],
+    "videoSources":[
+      "https://archive.org/details/1999-gdc-brianhookquake3"
+    ]
+  },
+  {
+    "description": null,
     "filename": "Poma Ads - MacWorld San Francisco (1999) 6_7-VUfu-xOGr1U.mp4",
     "sha1": "502802eab634ed143a34133413263e2bbdc7c431",
     "title": "MacWorld San Francisco 1999",
@@ -144,7 +175,7 @@
       "https://web.archive.org/web/20000816025310/http://www.quakecon.org/faq.html#1"
     ],
     "videoSources": [
-      "https://www.youtube.com/watch?v=SzWQUlbMhwA"
+      "https://www.youtube.com/watch?v=6FiYN7cuqaE"
     ]
   },
   {
@@ -302,7 +333,7 @@
     ],
     "dateSources": [],
     "videoSources": [
-      "https://www.youtube.com/watch?v=fU3RLKuVOic&t=2m6s"
+      "https://www.youtube.com/watch?v=IU4cbxxnL0c&t=2m6s"
     ]
   },
   {
@@ -358,11 +389,12 @@
     "date": "2003?",
     "tags": [
       "John Romero",
-      "Tom Hall"
+      "Tom Hall",
+      "Stevie Case"
     ],
     "dateSources": [],
     "videoSources": [
-      "https://www.youtube.com/watch?v=Gkqp8Cxo9r0"
+      "https://www.youtube.com/watch?v=oCc_xUrCG0w"
     ]
   },
   {
@@ -447,56 +479,14 @@
     "description": null,
     "filename": null,
     "sha1": null,
-    "title": "John Carmack DOOM 3 Keynote - Quakecon 2004, Part 1 / 4",
+    "title": "John Carmack DOOM 3 Keynote - Quakecon 2004",
     "date": "2004-??-??",
     "tags": [
       "John Carmack"
     ],
     "dateSources": [],
     "videoSources": [
-      "https://www.youtube.com/watch?v=drYVU3gekFI"
-    ]
-  },
-  {
-    "description": null,
-    "filename": null,
-    "sha1": null,
-    "title": "John Carmack DOOM 3 Keynote - Quakecon 2004, Part 2 / 4",
-    "date": "2004-??-??",
-    "tags": [
-      "John Carmack"
-    ],
-    "dateSources": [],
-    "videoSources": [
-      "https://www.youtube.com/watch?v=nXBDD6TT8Uw"
-    ]
-  },
-  {
-    "description": null,
-    "filename": null,
-    "sha1": null,
-    "title": "John Carmack DOOM 3 Keynote - Quakecon 2004, Part 3 / 4",
-    "date": "2004-??-??",
-    "tags": [
-      "John Carmack"
-    ],
-    "dateSources": [],
-    "videoSources": [
-      "https://www.youtube.com/watch?v=fBndl74FBao"
-    ]
-  },
-  {
-    "description": null,
-    "filename": null,
-    "sha1": null,
-    "title": "John Carmack DOOM 3 Keynote - Quakecon 2004, Part 4 / 4",
-    "date": "2004-??-??",
-    "tags": [
-      "John Carmack"
-    ],
-    "dateSources": [],
-    "videoSources": [
-      "https://www.youtube.com/watch?v=315GBXAg5pI"
+      "https://www.youtube.com/watch?v=OOVUZZr655o"
     ]
   },
   {
@@ -510,7 +500,7 @@
     ],
     "dateSources": [],
     "videoSources": [
-      "https://www.youtube.com/watch?v=N0auhzHZe5k"
+      "https://www.youtube.com/watch?v=MusKnL2GbQE"
     ]
   },
   {
@@ -554,21 +544,7 @@
     ],
     "dateSources": [],
     "videoSources": [
-      "https://www.youtube.com/watch?v=_dkZ3YLNbqM"
-    ]
-  },
-  {
-    "description": null,
-    "filename": null,
-    "sha1": null,
-    "title": "John Carmack QuakeCon 2006 #2",
-    "date": "2006-??",
-    "tags": [
-      "John Carmack"
-    ],
-    "dateSources": [],
-    "videoSources": [
-      "https://www.youtube.com/watch?v=WMALYXn0trw"
+      "https://www.youtube.com/watch?v=Fis3AlTaml4"
     ]
   },
   {
@@ -630,7 +606,7 @@
       "http://www.getlamp.com/cast/20071118romero/index.html"
     ],
     "videoSources": [
-      "https://www.youtube.com/watch?v=PJW1aC47Js4"
+      "https://www.youtube.com/watch?v=3K0AAYc0eOI"
     ]
   },
   {
@@ -677,7 +653,6 @@
       "https://www.youtube.com/watch?v=R8teXxWXn_M"
     ],
     "videoSources": [
-      "https://www.youtube.com/watch?v=WHAlkDdro6s",
       "https://www.youtube.com/watch?v=R8teXxWXn_M"
     ]
   },
@@ -706,7 +681,7 @@
     ],
     "dateSources": [],
     "videoSources": [
-      "https://www.youtube.com/watch?v=H2Vqt2boumI"
+      "https://www.youtube.com/watch?v=Fs0nvunkqnQ"
     ]
   },
   {
@@ -783,7 +758,6 @@
     ],
     "dateSources": [],
     "videoSources": [
-      "https://www.youtube.com/watch?v=2q_aRu6Jvu8",
       "https://www.youtube.com/watch?v=NnkCujnYNSo"
     ]
   },
@@ -899,7 +873,7 @@
     ],
     "dateSources": [],
     "videoSources": [
-      "https://www.youtube.com/watch?v=BdZ1SjcH5xA"
+      "https://www.youtube.com/watch?v=5k5wGkacxEk"
     ]
   },
   {
@@ -913,7 +887,7 @@
     ],
     "dateSources": [],
     "videoSources": [
-      "https://www.youtube.com/watch?v=sh9GAviYRkc"
+      "https://www.youtube.com/watch?v=IoLaA-CVmTE"
     ]
   },
   {
@@ -929,7 +903,6 @@
       "https://www.pcper.com/reviews/Editorial/John-Carmack-Keynote-Quakecon-2013"
     ],
     "videoSources": [
-      "https://www.youtube.com/watch?v=gqhyet45p1s",
       "https://www.youtube.com/watch?v=Uooh0Y9fC_M"
     ]
   },
@@ -946,7 +919,6 @@
       "https://www.youtube.com/watch?v=VUxcVzpeFqc"
     ],
     "videoSources": [
-      "https://www.youtube.com/watch?v=IyUgHPs86XM",
       "https://www.youtube.com/watch?v=VUxcVzpeFqc"
     ]
   },
@@ -964,7 +936,7 @@
       "https://people.smu.edu/mjhaveri/2014/04/18/carmack/comment-page-2/"
     ],
     "videoSources": [
-      "https://www.youtube.com/watch?v=Nqr4lwtuUcE"
+      "https://www.youtube.com/watch?v=EaN4wUii0T0"
     ]
   },
   {
@@ -996,6 +968,21 @@
     ],
     "videoSources": [
       "https://www.youtube.com/watch?v=fyjJrF2gJ34"
+    ]
+  },
+  {
+    "description": null,
+    "filename": null,
+    "sha1": null,
+    "title": "Quake Rocket Jumping Interview",
+    "date": "2018-02-28",
+    "tags": [
+      "John Romero",
+      "Quake"
+    ],
+    "dateSources": ["https://vimeo.com/257928368"],
+    "videoSources": [
+      "https://vimeo.com/257928368"
     ]
   },
   {

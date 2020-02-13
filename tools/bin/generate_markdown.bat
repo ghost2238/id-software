@@ -1,1 +1,1 @@
-cli.exe --markdown
+cli.exe markdown

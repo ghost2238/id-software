@@ -1,0 +1,2928 @@
+ATTENTION: THIS DOCUMENT IS VERY OUTDATED AND KEPT HERE ONLY FOR HISTORICAL
+           PURPOSES.
+
+================================================================ build 400 ==
+                   _          ///////  /////  //      //   //   ___  ____
+  __ _ _   _  __ _| | _____     /    //   // //      //  //    / _ \| ___|
+ / _` | | | |/ _` | |/ / _ \   /    //   // //      ////      | (_) |___ \
+| (_| | |_| | (_| |   <  __/  /    /////// //      //  //      \__, |___) |
+ \__, |\__,_|\__,_|_|\_\___| /    //   // /////// //   //        /_/|____/
+    |_|
+================================================================= 10/22/95 ==
+ "it should be renamed to liesdamnitlies" - dave taylor (id software)
+ "nothing in here is anywhere near true"  - american mcgee (id software)
+ "oh god. a log. again." - john romero (id software)
+=============================================================================
+
+
+ ------------------
+[table of contents:]
+ ------------------
+
+[0] intro
+   [0.1] the doom-editing mailing list
+   [0.2] on version numbers
+   [0.3] quaketalk by mail, finger, www and ftp
+   [0.4] a real quake faq
+   [0.5] disclaimer
+   [0.6] and what else is new?
+
+[1] magazine articles and the like
+[2] irc, mail and usenet posting quotes
+[3] peoples' .plan
+
+[4] quake on the net
+   [4.1] screenshots
+   [4.2] demos, previews and betas
+   [4.3] quake www sites
+
+[5] unconfirmed rumors
+
+[6] outro
+   [6.1] credits
+   [6.2] version history
+
+
+
+ ----------
+[0 - intro:]
+ ----------
+
+   quaketalk is an unofficial newsletter dedicated to _quake_, a new fantasy
+role playing/action game being made by id software, the company that
+brought you the megaselling hits 'doom' and 'doom 2 - hell on earth' and 
+not to forget wolfenstein 3d. while very little is known about the game 
+yet and id representatives themselves repeatedly say they're only in a 
+conceptual stage (tentative release date, end of '95), i have made an 
+effort to publish whatever quotes and facts (if they can be called that), 
+i found. thus, bear in mind that everything here could be a 
+total lie, like american mcgee likes to put it.
+
+   feel free to spread this file in any form you like. post it to netnews.
+send it to friends, upload it to a bbs or to other networks such as
+compuserve and aol. do not, however, alter quaketalk in any way and,
+in particular, do not remove my email adress or the credits towards
+the end of this newsletter. if you spread quaketalk to other nets, please
+drop me a note saying where you uploaded it to.
+
+   i'll gladly include info about quake that i may have missed, as long as
+it has some factual basis, e.g. a magazine article, or a posting made by id
+maybe. if you have a private email, please check with the sender before
+you have it published here. please remember to add the source and date of
+the material you're sending too.
+
+   my prefered email address is jschuur@ftp.cdrom.com. please use this
+one, as it is more stable than my previous one at my university in
+germany.
+
+
+ ------------------------------------
+[0.1 - the doom-editing mailing list:]
+ ------------------------------------
+
+   you'll see several references to the doom editing mailing list. this is
+a mailing list on 'advanced doom editing' that john romero from id is on.
+this is _not_ a quake discussion forum. we discuss all aspects of doom
+editing (.exe hacks, wads, be it levels, music, sound, editor/utility writing
+e.g.) if you would like to join, send mail to majordomo@nvg.unit.no with the
+following in the body of the mail:
+
+   subscribe doom-editing <your_email_adress>
+
+   remeber, this is not a newbie forum. we like to keep the noise down a
+bit, so please don't post unless it's of an advanced nature.
+
+
+ -------------------------
+[0.2 - on version numbers:]
+ -------------------------
+
+   quaketalk is updated whenever i get new facts on quake. i'll increase
+the version number according to how much the new stuff is. future versions
+may include other segments on quake, maybe not just direct quotes from id
+people. i'm open for suggestions, if there's something you want to see here,
+let me know.
+ 
+   updates since the last copy will carry a '->' in the first column. check
+out the version history at the end too. readers of the html version of qt
+will find it very helpful in tracking down recent changes.
+
+   as of version 3.63, i'll be using a new naming convention. the name
+new title will be 'quaketalk '95, build xxx' where xxx is the version
+number. pretty funny, huh?
+
+
+ ------------------------------------------
+[0.3 - quaketalk by mail, finger, ftp, www:]
+ ------------------------------------------
+
+   in the past there was a fingerable address to receive the latest copy
+of quaketalk. 'finger quaketalk@doomgate.cs.buffalo.edu' should work again
+soon. the latest copy is also available via www from the following url:
+
+   http://doomgate.cs.buffalo.edu/games/quake/
+
+   josh michaels has done a fine job htmlizing the new qt for me and
+i'm looking forward on cooperating on the quake section at doomgate with
+him.
+
+->    his html copy of quaketalk is available at:
+
+->    http://www.prairienet.org/joshm/qtalk/
+
+   the mailing list i started earlier this year has been terminated since
+it grew too big and was never used anyway. i don't want to run an
+alt.games.quake type of mailing list just yet since most of it will be
+speculation. i know not everyone gets alt.games.quake, but trust me, you're
+not missing anything. i will consider emailing the latest copies of quaketalk
+out to interested persons later, but for now, check the quake and doom
+newsgroups or try the following ftp site:
+
+   ftp://ftp.cdrom.com/pub/idgames/docs/faqs/qtalk???.txt
+
+   where ??? stands for the version number.
+
+
+ -----------------------
+[0.4 - a real quake faq:]
+ -----------------------
+
+   originally, i expected that hank leukart and i would have completed
+an actual faq by now. i do not consider quaketalk a real faq even though 
+many refer to it as such. i didn't want to bring the faq out without id's
+cooperation, and we have agreed with id to wait a few more months until
+they are ready to revael many more cool details about quake.
+
+   a few people have already shown interest in helping me with the
+faq. i appreciate the help offers, but right now we cannot say what type
+of additional help we need (well, aside from lots of info from id ;)
+and if you haven't already gotten in touch with us to work on the faq,
+please don't do so now. it's hard to maintain a real faq with too many
+authors. this doesn't go for people submitting information on quake
+they found on the net of course. please continue to send that in.
+
+->    i've started posting a mini quake faq that should answer the most
+-> common questions about the game on a weekly basis to the relevant
+-> rec.games.computer.doom.* newgroups and alt.games.quake. the file is
+-> also available via ftp at:
+
+->    ftp://ftp.mantis.co.uk/pub/doom/periodic/quakefaq
+
+
+ -----------------
+[0.5 - disclaimer:]
+ -----------------
+
+   i should clarify that although i maintain id's ftp site, i am _not_
+an official member of id and do _not_ claim to run an 'official' newsletter
+on quake. i merely gathere all the interesting tidbits on the net on
+quake and put them in .txt form. everything i know about quake is in here,
+so don't mail me for more details ;)
+
+
+ ---------------------------
+[0.6 - and what else is new?]
+ ---------------------------
+
+  i've been a bit quiet for a while. i finally have access to
+alt.games.quake, so i'll be posting this there on a semi-regular basis 
+too.
+
+   some of you seemed to think id promosed to announce lots of cool new
+quake info in april. well, april came and went by and guess what? no
+official new info. face it everyone, id is busy working on the game
+and doesn't want to speculate until things have gotten more stabler.
+
+
+
+ ------------------------------------
+[1 - magazine articles and the like:]
+ ------------------------------------
+
+
+from the july '94 issue of computer gaming world (taken from the original
+quake faq):
+
+shakin' and quakin'
+
+"what is the next huge leap?  they wouldn't say much, still in the idea 
+ phase and reluctant to build expectations too early, but they did tell
+ me thisthe name is quake, the game engine is completely brand new, and
+ the 3d world will be so complete and characters will have depth, rather than
+ being flat sprites.  the current setting (notice i didn't say the evil
+ s-word, "story") is a fantasy world where the player becomes a thor-like
+ being weilding a giant hammer, which he can throw at or bludgeon anything
+ that moves.  the world will have some real physics, so that characters will
+ tumble when when they fall from heights, and be knocked flat on their
+ backs.  as romero was describing the multiplayer quake of his imagination,
+ he was literally hopping out of his seat and pantomiming the violent drama
+ between two warrior gods, punctuating the action with sound effect (which
+ he is given to in most conversation).  if they can calm romero down long
+ enough to get some work done, id hopes to start working on quake in
+ september and a release date of christmas '95."
+
+-----------------------------------------------------------------------------
+
+from the august '94 copy of pc format:
+
+quake to hit in '95
+
+id software's doom 2 is released on on 10 october, but details are already
+beginning to emerge about quake, its successor which is scheduled for
+release in the latter half of '95.
+
+quake features a thor-like character who, armed with a massive hammer,
+likes nothing better than to bludgeon his victims to death.
+
+id is hoping to include some real physics in the game, so that characters
+will twist and tumble through the air when they fall from a great height,
+or be knocked flat on their back from a heavy blow. in-game sprites will
+also be depicted in 3d, unlike the flat two-dimensional characters that
+inhabit the doom games.
+
+there will almost definitely be a multi-player link-up, as well as a vr
+tie-in with a major manufacturer. the last point is probably the most
+exciting, as many of the vr exhibitors at ces used doom to show off their
+respective helmets' abilities. by producing a game with a specific headset
+in mind, id software could finally kick-start the vr market in a b-i-g
+way. prices of vr-headsets are already in freefall - five manufacturers
+were showing off cheap sub-$200 helmets at the show - so a game designed
+to work with them would be an instant hit and could even be part of a
+bundling deal.
+
+-----------------------------------------------------------------------------
+
+from the october issue of pc gamer:
+
+pc gamer:   "you've been reasonably quiet about the new project, quake, so
+             far. there must be something more you can tell us about it.?"
+
+jay wilbur: "we're getting it together at the moment, it's in concept stage.
+             i'm reluctant to build up expectations, but i will say that it
+             will be a quantum leap over doom. currently the idea is to have
+             more realistic gameplay. in doom, for example, the characters 
+             are all bitmaps and they're set in their ways. when you shoot a
+             character, he reacts in a programmed manner. maybe he throws
+             his arms out and leans his head back. and every time you shoot
+             him, no matter where you shoot him, he does the same thing.
+             it's like a dance. in qauke, we have polygon characters like
+             those seen in virtua fighters. we may texture map them so they
+             have a more realistic look, maybe not - that's in discussion
+             right now. but the idea is that if you shoot one of these
+             characters in the upper left quadrant, for example, his left
+             shoulder will be blasted back, he'll react more naturally.
+             we'll add the ability to look and move up and down. if you're
+             pushed off a ledge, physics comes into play. in doom, you
+             just kind of drop down, but in quake, if you fall of an edge
+             and your top heavy, you'll tumble. and your view will tumble
+             with you. of course it'll be very fast, but the whole world 
+             will react accordingly."
+
+pc gamer:   "it all sounds very complex. the trick is, i suppose, to add all
+             this stuff while still keeping the game simple and intuitive"
+
+jay:        "absolutely. it has to be an intuitive game to play, so the 
+             player can achieve instant success. with doom, all you need
+             are the four arrow keys, the fire button and the open door
+             key. other than that you don't need anything. you can achieve
+             instant success. you walk in, find somebody, press fire a 
+             couple of times - and your successful. in quake, there'll be 
+             more complex controls to deal with; you'll be able to take,
+             for example, an axe in your hand and slash it around, but the
+             control will be intuitive, like using the mouse."
+
+-----------------------------------------------------------------------------
+
+from the november issue of multimedia magazine:
+
+[...]
+
+   yet even as doom ii is hitting the street, the people at id 
+software (developers of the game) are already looking toward the future.  
+john romero, a lead designer and programmer at id, says the team is hard 
+at work on id's next generation game, quake.  like doom, quake will be a 
+first-person, action-oriented, multiplayer shoot-'em-up -- but it will 
+take every element, from graphics to sound to game play, to an entirely 
+new level.
+
+   "the technology in quake will be much better than in doom," 
+romero says, "the graphics will use 3-d rendered models, unlike the 2-d 
+images in doom.  so if you walk around a pillar, you'll see it in full 
+360 degrees, as opposed to only eight different rotations in doom.  
+you'll also be able to move in six different directions, and they'll be 
+much better animation.  we're also adding cool cinematic sequences that 
+take place while you're playing the game.  basically, doom will feel 
+stiff compared to quake."
+
+   beyond enhanced visuals, quake will use additional techniques to 
+make the world appear more lifelike to the player.  "we want quake to be 
+as realistic as possible, so there's no music in the background." says 
+romero.  what you'll hear are "environmental sounds -- of owls and 
+crickets and monsters -- that are triggered by where you walk and look.  
+for instance, you're going along and you hear something.  you turn toward 
+a cave and the sound, now ominous, grows louder.  then, as you walk 
+toward the cave, the sound gets even louder, and a pair of red eyes 
+appear -- next thing, a monster's coming right at you, and you better get 
+the fuck out of there.  just looking around makes it happen.
+
+   another major innovation accompanying the game's release will be 
+the free distribution of a server utility, which will allow the creation 
+of "remote, quake-based entertainment networks," according to romero.  
+dozens of players will be able to enter a game simultaneously, even if 
+they're playing on different machines.  (quake will likely be released on 
+every computer and video game platform except those made by nintendo -- a 
+result of id's righteous indignation over the censorship of its first 
+hit, wolfenstein 3-d, when it was portthen everyone gets 
+into the market.  and they may have good technology, but they don't 
+understand design.  they just don't know what it takes to make a a cool 
+game," he says.  "in the meantime, we've already moved on to the next 
+thing.  so we're not worried at all.  like our other releases, quake will 
+be the first of its kind.  nothing else will ever be close."
+
+   prepare to be shaken and stirred.
+
+-----------------------------------------------------------------------------
+
+from the doom 2 strategy guide, an interview between ed dille and
+john romero:
+
+ed: "what is your development process?"
+
+jr: "quake will require a totally new editor.  that's going
+     to take a long time to do.  with quake, there isn't even a
+     premise yet.  there's just kind of a feel for the thing.
+     there isn't any story.... well, there is kind of a vague
+     story, but there isn't anything solid because halfway
+     through the development of the game we'll probably have to
+     throw it out and redo it.  because we'll have learned so
+     much about the technology and the way the engine works and
+     what's cool that what we did before will suck.  so we'll do
+     a lot of development for the game, then probably throw it
+     out about halfway through.  that way, when a game comes out,
+     it's great.  that's how we learn and make cool games."
+
+ed: "how is id improving its game design as time goes on?"
+
+jr: "with quake, we're going to move the [3d] design along
+     further.  the 3d engine has gotten to the point where it's
+     going to be almost as much fun to experience the environment
+     as it is to actually play the game.  you should be walking
+     around in quake just in awe, looking around and going, "this
+     is awesome!"
+        and there won't be background music.  in every game
+     we've done there has always been background music and sound
+     effects, right?  the soundtrack is always there while you're
+     playing.  there will be no soundtrack.  we're going to make
+     you feel like you're in a real world.  there will be bugs
+     and birds flying around.  you'll be looking around, going,
+     "this is great!  hey, i wonder what's over there?"  so you
+     start walking over toward some forest.  there will be a lot
+     of cinematic things in the game.  of course, we'll never
+     stop the game just for a cinematic.  we never do that.  what
+     we will do [is something] like this: say you're walking into
+     a forest, which looks just awesome, and all of the sounds
+     are different, and it's dark, and to the right you see this
+     dark cave or something.  as soon as you look at that cave,
+     something is going to happen.  you'll hear some kind of low,
+     evil kind of sound, and something will trigger, even just
+     from your looking at this area.  maybe some red eyes will
+     start glowing in there and maybe a growl or something.  so
+     you can take off or you can charge in there, whatever you
+     want to do.
+        of course, you'll still be able to pulverize stuff.
+     that's just something to do and it's a lot of fun.  i mean,
+     when you play deathmatch, it's just great blowing people
+     away.  it is just totally fun.  and we think that's still
+     important.  you get lots of feedback from it.  it's a fun
+     thing that you can't do in real life unless you want to go
+     to jail, and it's a guy thing.  so you're still gonna kill
+     things in quake, but not like in doom ii.  in doom ii, you
+     mow things down by the dozen.  in quake you'll fight, say,
+     three monsters at the max.  probably you'll fight three
+     guys, but it's going to be like a virtual fighter.  there
+     will be more skill involved in the fighting.  you won't be
+     holding the gun in front of you.  in the games you've played
+     before, you're still kind of distanced from the death.
+     you're pointing the shotgun at something, you're pulling the
+     trigger, and it shoots and the thing is dead.  all you had
+     to do was press the button. - you move the mouse and press
+     the button - and it's as easy as that.  in quake, you'll
+     really have to kill things.  you won't just press the
+     trigger and hit it, you'll have to really beat the living
+     shit out of the thing until it's dead.  so you'll have this
+     huge hammer and you'll pound it into blood paste on the
+     floor, and you're going to have to take awhile, too.  you're
+     going to have to work on it.  you won't just have this arrow
+     point-and-click kind of thing.
+        ...quake will be the ultimate.  you are not going to
+     believe quake.  quake is going to be an industry when it
+     comes out."
+
+ed: "[grunt of disbelief]"
+
+jr: "it will!  we're going to encourage people to start
+     businesses based on quake.  we'll upload the server software
+     for quake onto the net, which means that anyone can take the
+     quake game and create a whole new game off it, a totally
+     different game off the server software.  like a location
+     based center.  we're going to allow people to go location
+     based quake as much as they want.  no fees.  we upload the
+     server software and if you want to start a location-based
+     quake center, do it.  the only way we make money is that you
+     have to buy the client.  so let's say someone wants to start
+     a location-based quake center and they think this sgi is an
+     awesome powerhouse server that can supply 10 nodes with no
+     problem.  so they buy this awesome sgi machine, they
+     recompile quake on the machine because we've supplied a full
+     the source code, and then the pcs are hooked into the sgi
+     for the playing of the game.  the client - the code that
+     runs on the pcs - the guy has to buy from us.  so we just
+     sold 10 copies of the game to this guy; that's it.  we sold
+     10 copies of the game and we're happy.  and the guy got
+     himself a business where people come in and pay him to let
+     them play quake.  it's gonna be great!  we're going to let
+     people create new games.
+        the game industry will really have kind of a tough time
+     with it, because we're going to give away the ultimate game
+     engine for free and let people create whatever they want. 
+     there won't be any licensing-the-technology thing.  it will
+     just be "buy the client from us."  there's gonna be kind of
+     a mini-shakedown-type thing about who's going to take the
+     quake technology and create games and who isn't.  i mean,
+     why waste you own development effort when the coolest 3d
+     engine is out there?  and we'll develop another one and do
+     the same thing.
+        so we'll supply you with the industry while everyone
+     else is using it for cool stuff.  and [the users] can
+     rewrite the rules of the game - no problem - because they
+     have the server software to create any game they want based
+     off it.  and they have this incredible 3d universe where
+     they can create any kind of game they want and they don't
+     have to pay for it, except for the client, which interprets
+     all the information being sent and does the actual 3d
+     rendering.  so quake will be huge when it comes out."
+
+ed: "how do you feel about the creeping up of the hardware
+     standards for games?"
+
+jr: "we think that when people get the game, most of them
+     should have a fun time.  the people who won't have a fun
+     time are people who we consider are going into the dark
+     ages; they should consider upgrading.  you need to look at
+     the benchmark systems that people have - what does everyone
+     have?  most of them have 486s.  so even quake, when it comes
+     out in the fall of next year, is going to be built for a
+     486; it isn't going to be built for a pentium."
+
+-----------------------------------------------------------------------------
+
+ from the january '95 issue of computer gaming world:
+
+   the programmers at id have chosen pure ansi c to code their next project
+entitled quake. they work with pcs set up with the nextstep operating system
+(from the folks who gave us the now defunct next computer). "nextstep is
+basically the best development environment in the world," says john romero,
+who is in charge of all tools programming, as well as game design and areas 
+of game programming in quake. "quake won't even run under dos for many months
+to come. it is totally nextstep based."
+
+-----------------------------------------------------------------------------
+
+   a quake announcement dating back to 1990 (!) from a commander keen .zip:
+
+                     coming soon from id software
+
+as our follow-up to the commander keen trilogy, id software is working on
+"the fight for justice": a completely new approach to fantasy gaming.  you
+start not as a weakling with no food--you start as quake, the
+strongest, most dangerous person on the continent.  you start off with a
+hammer of thunderbolts, a ring of regeneration, and a trans-dimensional
+artifact.  here the fun begins.  you fight for justice, a secret
+organization devoted to vanquishing evil from the land!  this is
+role-playing excitement.
+
+and you don't chunk around the screen. "the fight for justice" contains
+fully animated scrolling backgrounds.  all the people you meet have their
+own lives, personalities, and objectives. a 256-color vga version will be
+available (smooth scrolling 256-color screens--fancy that)!
+
+and the depth of play will be intense. no more "whack whack here's some
+gold."  there will be interesting puzzles and decisions won't be
+"yes/no" but complex correlations of people and events.
+
+"the fight for justice" will be the finest pc game yet.
+
+-----------------------------------------------------------------------------
+
+  a press release from the hardware manucaturer crystal river engineering
+on their new line of 3d sound cards also mentions quake:
+
+ "crystal river is working closely with many innovators in the developer and 
+  hardware manufacturing communities.  dave taylor, co-author of doom at id
+  software, helped define the audioreality game api with crystal river to 
+  the specific needs of game and audio developers.  dave warns, "prepare to
+  be flattened by the unearthly power of true 3d audio in our next game -- 
+  'quake!'". "
+
+-----------------------------------------------------------------------------
+
+from the may '95 issue of electronic entertainment:
+
+doom maker id software has reportedly created a multiplayer internet 
+protocol that will form the basis for multiplayre action in quake, the much 
+anticipated successor to doom 2.  the company has reportedly proposed that
+the protocol be used by other game makers as a standard way to create
+multiplayer games on the internet.
+
+-----------------------------------------------------------------------------
+
+an interview between jay wilbur and flux magazine:
+
+flux:   what if anything can you tell us about quake?
+
+wilbur: well, anything i tell you today could be a complete lie tomorrow,  
+        because things are changing so rapidly.  in all of our games, we
+        take what we learn from the past and we amplify the bitchin' stuff.
+        let's take wolfenstien to doom. in wolf, we had that smooth
+        scrolling 3-d world and saw that it worked.  so we enhanced the 3-d
+        world and cut our teeth on the multiplayer option.  now, what we'll
+        do with quake is to continue to make it realistic and enhance that
+        3-d world, making it true 3d in doom, the environement is actually
+        2-d.  you neve have a room on top of a room in a level.  but quake 
+        will be true 3d, and with the tools we have in-house, you can
+        architect anything-and i do mean anything.
+
+        probably one of the most exciting part is that it will have a 
+        client/server-based technology.  doom allowed four players,
+        peer to peer on a participants in the game will only be limited
+        by the number of clients your server can handle.  if your network
+       computer can handle 20 people at a time then 20 people can play at
+        one time.
+
+flux:   a number of games only run on high-end machines. how does this
+        trend affect quake?  will most people be able to run it?
+
+wilbur: the target machine is 486/66 and by the time the game is out that 
+        should be the median market.  we will likely have the game set up
+        so it takes advantage of extra hardware that you might have under
+        the hood-if you have a pentium, if you have some kind of graphics
+        accelerator.  just like having a sound card, it will make the game
+        more exciting and give more features.  but we take a machine and
+        make it our target, and before we release a game, we make damn sure 
+        that it runs correctly on the target.
+
+flux:   what can you tell us about the general plotline of quake?
+
+wilbur: nothing. it's yet to be developed.  let's say fantasy/medival maybe,
+        and leave it at that.  during the developement the last thing we
+        apply is the story.  it's the least important part of the game.
+        we have to develope the great technology first.  imagine doom with
+        a different set of graphics terrorists, for example- you can still
+        make the game work.  but in order to give you that nightmarish
+        feeling, we decided to go with demons or aliens. when it was
+        finished, the story of demons from hell coming through to our plane
+        of existence had been fully flushed.  so who knows where quake will
+        go?
+
+flux:    will quake be shareware?
+
+wilbur:  yes it will still be shareware first, retail second.
+
+flux:    any kind of projected release date?
+
+wilbur:  no, the official release date is "when it's finished."  and we
+         never miss that date, by the way. [laughs] our job is to make
+         sure you, the user, have fun.
+
+flux:    but still, quake will be geared toward people who love doom-those
+         who love a bloody, violent firefight, right?
+
+wilbur:  oh, yes. according to some of he developers, quake will make doom
+         look like a walk in the park.
+
+-----------------------------------------------------------------------------
+
+from the online version of computer gaming world magazine:
+(http://www.zdnet.com/~gaming/features/9508/topten.html)
+
+"everyone is anxious to see whether quake will offer the same seismic bang
+ for the buck as its predecessor, doom. if graphics are any indication, the
+ gothic setting may well envelope (sic) gamers in a gaming environment that
+ is even richer than doom's. we're definitely impressed with the art and
+ lighting effects we've seen, but unfortunately id hasn't released screen
+ shots yet."
+
+-----------------------------------------------------------------------------
+
+from the august '95 issue of the german magazine 'pc games' (translation 
+provided by olivery meyer):
+
+[note the german magazine isn't allowed to mention the game 'doom' directly]
+
+is it possible, to excel the most successful computer game of the last
+decade? dave taylor from id software thinks, that their newest
+product, quake, is much much better than both its predecessors. why
+this is true, our us-correspondent markus krichel tries to find out in
+an interview with dave taylor.
+
+pc games:  how does it feel to be the absolute shooting star under the
+           software companies?
+
+dave taylor: actually, we thought very high of us, before. the success
+             was just the logical consequence of our work in the 3d
+             sector, there is no point in cinematic scenes, only the fun
+             playing a game counts for us. the gamers spoke and said we
+             are right.
+
+pc games:    how does the development on quake look like, today?
+
+dave taylor: two years ago, when i saw xxxx in development for the
+             first time, i was overwhelmed. since then, id software
+             expanded a lot and quake has the same effect on the new
+             employees. for the old stuff of the company quake means a
+             resurrection of that old excitement and moral.
+
+pc games:    please compare play ability, graphics, speed and so on of
+             xxxx and quake for us.
+
+dave taylor: xxxx really was a '2.5d-program', i. e. it was a 2d
+             environment with a 3d view. quake on the other hand uses
+             complete 3d. also its texture mapping engine is designed to
+             make use of the new acceleration cards and is even in normal
+             mode quite fast. network-power is the major gain compared to
+             xxxx. since we are still working on it, i don't want to say
+             anything about it, except that there is nothing comparable at
+             the moment.
+
+pc games:    until now id gave their worldwide fans the possibility to
+             become creative themselves, to design their own levels,
+             create monsters, etc. do you have the same plans with quake?
+
+dave taylor: and even more, we expanded that aspect in a wide way. this
+             time a free c-compiler. we call djgpp, comes with the
+             program. it works like this: on the cd we publish along with
+             a game a whole bunch of source code. this way the user is able
+             to reprogram the game by using the compiler. we give the player
+             the chance to work as a game programmer.
+
+pc games:    will quake be a dos- or a windows game?
+
+dave taylor: we program under linux. so we can easily switch to any
+             platform. there will be a dos-version for sure, a windows 95
+             version is very likely to come. windows 95 seems to become more
+             and more a real games-platform. good for us!
+
+pc games:    and what kind of creatures will you send after the poor player
+             this time?
+
+dave taylor: how they will look like exactly should remain a surprise. 
+             that they will look better is guaranteed. in stead of using
+             scaled sprites we use real 3d models in quake.
+
+pc games:    in germany your games came on the index of the bps, because of
+             the violence, at once... [oliver: this means, that such
+             software is a danger to younger people. you may not advertise
+             such a program in public, nor may you sell it to a person under
+             18.]
+
+dave taylor: ... and we thank them for it. we couldn't wish us any
+             better pr.
+
+pc games:    is your games design influenced by such indexing? do you
+             say: "in the next game we have to cut down on violence a bit?"
+
+dave taylor: you must be joking. where will it end, if we let us influence
+             by censorship? for gods sake, who do those people think they
+             are, to give the players orders.
+
+pc games:    so you expect quake on the index?
+
+dave taylor: absolutely! our selling figures in germany couldn't be better.
+             in no way, we'll think about such things when designing
+             quake. quake will probably be a few steps harder.
+
+pc games:    which release date is planned?
+
+dave taylor: thats hard to say. this year for sure.
+
+pc games:    thank you!
+
+-----------------------------------------------------------------------------
+
+from spin magazine, sept. '95:
+
+meanwhile, back in the kingdom of doom, the id team is hard at work on
+quake, the kick-ass sequel they're hoping to ship for x-mas 95.
+while still pretty tight-lipped about details, id confirms the game
+is another first-person action game ("quake is the name of the main
+character, not a seismic event).  the programmers are jazzed that if a
+bad guy is lurking around a corner and there's a light source behind
+him, youll see his shadow falling in front of you and be ready to blast
+him when he leaps out.  the real key to quake, though, is major multi-player
+network action.  doom and its siblings are limited to four players at a
+time.  when connected to a powerful network server, conceivably thousands
+of quake players will be able to inhabit the same world simultaneously
+and blow each other's cyber-brain's out!!
+
+-----------------------------------------------------------------------------
+
+-> john carmack speaks on 3d accelerators from rendition inc at
+-> http://www.rendition.com/isvid.html
+ 
+->    we at id have been fans of the vérité architecture since we first
+->    saw the spec, several months back. now that we have some
+->    experience with the chip, we're even more pleased with it; in
+->    fact, it's our clear favorite among 3d accelerators. our quick,
+->    unsophisticated port of quake to vérité is already running at
+->    respectable framerates, and looks very good indeed. the hardware
+->    and microcode has proven to be solid, and performance will get
+->    dramatically better when we start pushing the architecture.
+    
+->    even better, from our perspective, is the fully programmable,
+->    overlappable nature of vérité, due to dma support and the 
+->    availability of a powerful risc processor. together, these allow
+->    for excellent load-balance capabilities, and further allow us to
+->    tailor the accelerator's operations to our needs. we expect that
+->    once quake is fully ported to vérité, quake will often run twice
+->    as fast on vérité as on a more traditional accelerator, and that
+->    vérité will be the premier platform for Quake.
+    
+->    _john carmack_
+->   chief technical officer
+->   id software
+   
+-----------------------------------------------------------------------------
+
+-> an unnamed source (hullo, mr. unnamed source) had the chance to see
+-> _quake_ with a few other journalists at the european computer trade
+-> show in london in september '95:
+ 
+-> 1) jay had quake running on a dell P75 with 8mbs ram and a 1mb local bus 
+-> video card. it was running in low-res at about 15fps. he didn't engage 
+-> the already-implemented hi-res mode because "he didn't want to push the 
+-> video card too much".
+ 
+-> 2) the version we saw had been knocked up by id a couple of days before 
+-> the visit. It was a single, small level with a central arena surrounded 
+-> by balconies, accessable by two spiral staircases. It had 'monsters' 
+-> (about twelve sort of zombie knights) and although there were no player 
+-> graphics, there was a weapon implemented (a kind of steel bowling ball 
+-> which exploded on impact). 
+ 
+-> 3) the purple sky was implemented and looked very cool. It looked all 
+-> mushy and was constantly churning.
+ 
+-> 4) jay explained that the BSP they were using to render the levels was 
+-> very advanced and processor-intensive. he said it took their dec alpha 
+-> half-an-hour to process a small, simple level. before the trip one of the 
+-> programmers had knocked up a scaled down version of the bsp which took 10 
+-> minutes on p133 with loads of ram. but it took shortcuts, and these 
+-> shortcuts were present on the map as 'grey areas' where no textures had 
+-> been aligned. other than that, the level was fully textured and 
+-> light-sourced (roof, floor, walls etc), and had some very cool looking 
+-> stained glass windows and candelbras.
+ 
+-> 5) bizarrely, this version of quake seemed to support every vesa mode 
+-> imaginable. jay stepped through from 320x200 to 320x240, to 265x180, and 
+-> other weird values i can't remember. maybe this will be a replacement for 
+-> doom's low detail mode?
+ 
+-> 6) the zombie knights looked very strange. they didn't seemed to be 
+-> polygon based at all. Although they did react with the scenery. You could 
+-> shoot them off the balaconies and they died when they hit the ground. 
+-> this was an early version, I guess.
+ 
+-> 7) perhaps most tellingly, jay said the control system revolved around a 
+-> three button mouse, with looking up and down on the third button. using 
+-> just the mouse, he zipped around the level, looked up, and strafed very 
+-> naturally. he also said you could program each mouse button as you 
+-> wished, so if you wanted one button to flick you 180, it wouldn't be a 
+-> problem.
+
+-----------------------------------------------------------------------------
+
+->    a finnish computer magazine (pellit) interviewed sandy petersen in
+-> september:
+ 
+-> if you try to ask sandy about the story in quake or the main idea, he
+-> just grins and shakes his head, like if you had asked about the meaning
+-> of life.
+ 
+-> "at first, we design a game. after that we add some kind of a story
+-> behind that game. quake's designing started, when we realized we wanted
+-> to make a game that, when compared to doom, would be something like doom
+-> was compared to wolfenstein. a game that would be an improvement over
+-> doom as big as doom was an improvement over wolfenstein.
+ 
+-> "quake is more visual, and is meant for close combat. the main weapon
+-> is a hammer, and there will be lots of close combat, something that's
+-> new in our games. nobody really used berserk or chainsaw in doom that
+-> much.
+ 
+-> "yes, quake will have long range combat also. there are spells and
+-> you _can_ throw the hammer. or you can smash the hammer to the ground,
+-> so that a crack will start snaking towards the enemy, and upon hitting
+-> them will cause a big disaster. and you can throw lightning bolts with
+-> the hammer too. or set the enemy on fire. and if you have enough energy,
+-> you can hit the floor with the hammer, so that the whole level will
+-> tremble in an earthquake and everyone will stumble.
+ 
+-> "and, uh... you can do all kinds of cool things with the hammer. in
+-> doom, you shot a guy from a distance, they screamed "aargh" and froze
+-> to their places. in quake, you go and hit the enemy with the hammer, so
+-> that he stumbles to the ground. then when he tries to rise up, you hit
+-> him  again and he stumbles again, rolls a little distance, jumps up and
+-> starts to run away. he limps, bleeds, and you can follow him by the
+-> trail of blood drops on the floor. now that's violence!
+ 
+-> "quake's violence isn't only blood and guts flying around everywhere.
+-> the player even acts very brutally, and what could be better? :) of
+-> course, all of this can be just a big lie. it may be that none of these
+-> abilities i mentioned here will be in quake. you see, it still won't be
+-> ready and shipping for at least a few months."
+ 
+->     according to that, monsters could even have brains.
+ 
+-> "actually, that blood trail thing is meant only for deathmatch. of
+-> course, monsters will act differently than in doom. they will act
+-> more smartly and can flee to healing pools of something. but they
+-> won't make ambushes together or do anything that intelligent."
+ 
+->     many of you might have been waiting for quake to be something more
+-> of a role-playing game. but apparently this is a very frequently asked
+-> question, because sandy looks up to the ceiling and sighs desperately.
+ 
+-> "you have to remember, that id has done good violent action games.
+-> we do like roleplaying games and computer rpgs. they are quite okay.
+-> but they really aren't in id's style. we think that we serve players
+-> much better when we make action games, because that's where we are
+-> at our best. so we leave the other games to others, who may be better
+-> than us in making those.
+-> 
+-> "role entertainment is making a roleplaying game with doom's engine.
+-> we think that quake will be an engine for many crpgs, but id isn't
+-> going to make them. and that's it. quake is not meant to be a rpg, we
+-> don't want it to be a rpg. we want action!"
+ 
+->     oh great. no roleplaying game and all those fun shooting weapons
+-> are away too. what can quake have that makes it better than doom and
+-> all of its clones then? hasn't the one year of design time done anything
+-> good?
+ 
+-> "quake is really 3d, and all of the game's objects are real objects.
+-> for example, a door sliding into a wall can't slide into a wall if
+-> there isn't empty space allowing that. all of the objects can move into
+-> every direction. not just up and down as in doom. doors can break (and
+-> can be broken) free from their hinges, as in real life.
+ 
+-> "all the monsters in quake are 3d models, using usually about 100-200
+-> polygons. we have succeeded in developing a special texture system, with
+-> which we can make a cube look like a sphere. monsters are fully texture-
+-> mapped and look very real. only movements will look slightly sprite-like
+-> because they use frames, but they won't be nearly as jerky as in doom.
+ 
+-> "if you kick a monster down from a cliff, it won't just fall down. it
+-> will spin round and round and flail with its arms. and you can cut an
+-> enemy's neck and take its head to sacrifice it to the gods of darkness,
+-> or wherever you might need the head. at this time, the head is a separate
+-> model so the enemies can look up and down and to different directions.
+-> and if you hit a monster to the head or upper part of the body, it may
+-> stumble backwards. and if you hit it to the legs, it may stumble forward.
+-> or if you see a guy standing on the edge of a tall cliff, you can run
+-> and kick him. he will fall down from the cliff, and get a big headache.
+ 
+-> "quake also has a realistic lighting system. now we have light sources
+-> that cast real shadows. you can get a little idea of this by looking at
+-> our screenshots, but it looks much better in action!
+ 
+-> "quake will look much better than doom. we had a little group of
+-> magazine writers looking at quake in action, and the usual comment
+-> was "holy shit! this is much better than doom!". and it is!
+ 
+-> "you can also use svga resolution in quake. it is meant for pentiums,
+-> but we think that a normal quake player will have a pentium. after a
+-> year we will have sold a reasonable amount of quake, and then everyone
+-> will have a pentium.
+ 
+-> "this doesn't mean that quake would need a pentium, though. if we take
+-> a level from doom and convert it to quake, it will run with exactly the
+-> same speed as in doom, or even faster. but quake will be more complex.
+-> when playing in vga, 486/66 is enough, but of course, having some extra
+-> memory will help.
+ 
+-> "many companies are already writing agreements to run quake servers, and
+-> there will be many servers only for quake. the idea behind all of this
+-> is that you can phone from anywhere to any of these megaservers and start
+-> to play. those servers could run 60 guys on different levels at the same
+-> time. you can run from one level to another while some guys are chasing
+-> you, and you go and try to get a magical hammer from a secret compartment
+-> you discovered earlier, but there are already four guys guarding the
+-> place so you run away to another levelandtherearesomeotherguysandyousayto
+-> themthatpleasehelpmetokillthoseidiotswhoarecomingafterme......."
+ 
+->     (sandy's speech accelerates into an unbelievable stream of words
+-> right after one another...)
+ 
+-> "now you can play deathmatch and cooperative at the same time. you can
+-> be in a gang with other dm:ers who try to defeat an enemy gang of
+-> players who are after one of your friend gangs. and that will be fun!
+ 
+-> "we aren't yet sure how you can identify players from each other, but
+-> you can assign different colors to your head and your body.
+ 
+-> "in quake, you can easily change the rules. for example, it will be
+-> much easier to make a crpg version of quake than of doom. just make a
+-> level, add some objects and monsters who talk and stuff. it will be more
+-> difficult to make levels to quake than to doom, but players will make
+-> their own levels, and we will sell them the information about how to
+-> make them.
+ 
+-> "we have no idea what will come after quake. we haven't had the time to
+-> think that far. but it will probably be a 3d action game."
+
+
+
+ -----------------------------------------
+[2 - irc, mail and usernet posting quotes:]
+ -----------------------------------------
+
+
+from the doom-editing mailing list (doom-editing@nvg.unit.no)
+on fri, 5 aug 94 11:38:19:
+
+quake will be totally externally programmable.  a planar surface (as opposed 
+to line triggers, switches, etc.) will have an activation tag.  anything with
+a matching tag will contain the action that should be performed on itself.
+thus, walking on a certain surface with an activation tag will make the
+program search the world for matching tags.  a match will make the program
+check the object for the type of action to be done.  this allows one action
+to affect many actions, i.e., walking into a large room can close the door 
+behind you, turn the lights off, raise 5 staircases and release 10 monster
+holding pens.
+
+-----------------------------------------------------------------------------
+
+from the doom-editing mailing list (doom-editing@nvg.unit.no)
+on  fri, 5 aug 94 17:25:53:
+
+quake will be extremely modular -- doom was just the tip-of-the-iceberg  
+experiment.  we will be more cooperative than you can imagine -- how does  
+uploading the quake server code sound?  that way, anyone could recompile
+quake for any super server system.
+
+quake is in true 3-d.  not faked doom 2-d/ 3-d.
+
+-----------------------------------------------------------------------------
+
+from the doom-editing mailing list (doom-editing@nvg.unit.no)
+on fri, 5 aug 94 15:56:23 (on sector tagged actions):
+
+total freedom.  nothing will be hard coded into the executable.  more than  
+likely, the action will be a text descriptor that will match a function name
+or somesuch.
+
+-----------------------------------------------------------------------------
+
+from the doom-editing mailing list (doom-editing@nvg.unit.no)
+on fri, 5 aug 94 16:02:48 (on scanning for sector tags)
+
+for speed, of course we'll be using index lookups.  i'm trying to describe 
+the overall idea, not the actual implementation.  and depending on our 
+long-range goals with quake, we may not even use indexes if we want the 
+gameworld to be continuously modifyable -- esp. for real-time multi-player
+connections where a "god" person is building a new structure in the world 
+where 100 people are playing at the same time as the level design in the 
+level they're playing.
+
+-----------------------------------------------------------------------------
+
+from the doom-editing mailing list (doom-editing@nvg.unit.no)
+on fri, 5 aug 94 16:02:48:
+
+(much programming structure and ideas deleted)
+
+don't worry.  quake will be done right.
+
+-----------------------------------------------------------------------------
+
+from ddt@idsoftare.com on sun aug  7 21:53 cdt 1994:
+(credits to scott bessler (scott@grayfox.svs.com))
+
+: ... i have a question about quake, you have been quoted
+: as saying it'll support 100 players.
+
+not me, man.  that sounds like something romero would say.  the
+truth is that we have no clue how many players it will support
+until we're done writing it.
+
+the game will be well-geared to pay-for services where you have a nice
+server like a medium-end workstation.  it will allow more users and
+still offer smooth play.
+
+the required line speed will depend on a lot of factors.  we'll
+have no idea how fast it will need to be until we've coded it.
+
+-----------------------------------------------------------------------------
+
+from the doom-editing mailing list (doom-editing@nvg.unit.no)
+on tue, 9 aug 94 10:09:21
+
+quake has gravity.  down is down.
+
+-----------------------------------------------------------------------------
+
+from the doom-editing mailing list (doom-editing@nvg.unit.no)
+on mon, 8 aug 94 10:59:20
+
+in quake, we're aiming for a total d&d fantasy adventure and, yes, there will  
+be dragons!  (we hope.  remember, we could be lying. :)
+
+that's how quake will be programmed!  not one single bit of information will
+be hard-coded -- everything's external!  we will supply a language compiler
+for the c-type language that we'll use for quake's external code modules.
+
+id software will never again get any code programmed by an outside source (in  
+doom, the only external id code was the sound code.)  we will program our own  
+sound code, but are planning to use the vesa sound spec.
+
+quake will be client/server only -- even a single-player quake session will,
+inreality, be a client/server setup with the client process and server process
+residing in the same system.  we will make the setup as painless as possible.
+
+quake's shareware exe will only work with the shareware version, unless you  
+register (the client), in which case you will be able to play the registered  
+version and all the wads available.
+
+probably an oversight.  quake will use none of doom's code.  except for the  
+memory zone allocation.  the wad utilities will be revised.
+
+quake will run well on a pentium, but a 486 is required.  it's just a notch up
+from doom's requirements386 required, 486 recommended.
+
+hopefully, the initial shareware release will handle real dynamic maps.  id's  
+quakenet will definitely have this ability.  we're hoping to start another  
+small company that is a pure 24-hour quakefest! (hey -- we want a piece of
+the action, too!:)  it might be a couple dozen players modem-linked into a  
+lightning-speed server, but we're really targeting quake to be the first home  
+cable game -- brought to you through your set-top box and played on your huge  
+tv screen!
+
+quake's level editor is true 3-d. we've just started quakeed.
+
+quakeed is using a real-time 3-d bsp generator.  it will be optimized.  bsps  
+are awesome tools -- they can be used in many different types of applications.
+quake will probably use a few different types of bsp trees.  the guy that  
+invented bsps visited us and taught carmack even more shit.
+
+quake will not have 1 sprite in it -- all objects will be hi-res 3-d models.   
+texture-mapped polygons, but hi-res so they're not bad-looking.  much better  
+than alone in the dark's.
+
+i didn't mention this before, but sound is a major integral part of the quake  
+design and, yes, you will be able to wear a headphone/microphone unit (which we
+will also sell -- made by koss) and speak to each other (over a lan only) --  
+but not as a headset comm.  you will be "speaking into" the game world, so the
+closer you are to someone, the louder your voice is.  and the monsters have  
+ears, too!
+
+-----------------------------------------------------------------------------
+
+from johnr@idsoftware.com on thu 11, aug 94 12:25:59
+
+the quake-by-cable will definatly won't be in the first release -- it's a
+couple years away at the least :)
+
+-----------------------------------------------------------------------------
+
+from jay wilbur on irc wed aug 24 21:35:32 mesz 1994:
+
+'quake is working. carmack is testing the concepts.'
+'a quake faq...already? ... bitchin!' (on quaketalk ;)
+
+-----------------------------------------------------------------------------
+
+from american mcgee on irc september 3rd, 1994:
+
+'yes. this is something that will go into it first thing' (on slippery floor)
+'for everyone else it will be very hard. for us it should not be to hard.
+ we will be running it on very fast hp geckos.' (on making a quake level)
+'it should not be much larger than doom.' (the size of quake on your hd)
+'it will be more of an action game' (as opposed to an rgp/mud)
+
+'we are still working on that idea. i think the only thing you will gain
+ is a killed/kills thing.' (on players gaining experience)
+'ideal would be pentium' (on the ideal system for quake)
+'the interactive-ness of the people who will be playing.' (on the most major
+ golly-gee-wizz-bang feature of quake)
+'the resolution will be much better.'
+'yes, headsets will be a big thing in quake. lan = headset.'
+'hammers for sure. i don't know what else.' (on weapons)
+'this is one of the main features of quake.' (on 3rd party quake addons)
+'there will be some sort of demo out soon enough.'
+'there will be some sort of quake start-up package for those of you who want
+ to buy a quake server.'
+'there will be gravity.'
+
+-----------------------------------------------------------------------------
+
+from john romero's posting to aol, 1 dec 1994 01:46:36:
+
+okay, people.  it seems that everyone is speculating on whether quake is
+going to be a slow, rpg-style light-action game.
+
+wrong!
+
+what does id do best and dominate at?  can you say "action"?  i knew you
+could.  quake will be constant, hectic action throughout -- possibly
+moreso than doom.  i will be concentrating on making quake the most
+disquieting and upsetting game on the planet.  very, very evil.  doom's
+"evil" was really non-existent.  quake must be evil -- but correctly done
+evil that doesn't become tiring and sophomore-ish.  it must be honestly
+and truly disturbing.
+
+what's cooking with quake at this minute?
+
+well, we have our sgi (indigo2) running alias, which is the modeller we
+are using to create everything with, except the maps.  quakeed is in its
+we have multi-player working right now with lots of connections.  players
+are able to hop in and connect to the quakeserver at any time while a game
+is going.  you can also hop out at will and rejoin later.  yes, it is
+working right now.
+ 
+oh yeah, our alias to idmodel converter is finished and we have actual
+alias models in quake's 3d engine.  oh yeah, the 3d engine is up and
+running right now, although it's unoptimized and the texture mapping
+isn't being done properly yet.
+
+-----------------------------------------------------------------------------
+
+   american mcgee and i exchanged a series of emails in may '95 when i
+still hoped to bring a real quake faq out soon. here some excerpts:
+
+: - is id open to suggestions about q? do you guys read alt.games.quake?
+
+not really, but we do read them.
+
+: - what plattforms is q being developped on? nextstep, sgi and linux,
+:   right? (btw, are those next cubes or pc's runing intel nextstep?)
+
+we are doing most of the coding under next, and dave works under linux.
+we run next on hp 712/80's with 64mb of ram.
+
+: - is public/outside beta testing ever planned?
+
+never again.
+
+: - a while back i heard of plans of id to tailor quake to certain hardware
+:   extensions or even make quake specific hardware, such as network cards,
+:   video cards and headphone sets. any news on that?
+
+we are not going to do this.
+
+:    and now for the toughie engine/game feature questions:
+:
+: are you planing to add/working on:
+:
+:    - water to wade through
+
+maybe
+
+:    - slippery ice
+
+don't think so. i would have to say no.
+
+:    - wind and other weather affects
+
+yes.
+
+:    - vertical slopes
+
+done.
+
+:    - day/night
+
+maybe.
+
+:    - 'sectors above sectors' (i.e. a cave under an accessable plain)
+
+done.
+
+:    - characters tumbling/falling on their backs
+
+leaning over yes, falling no.
+
+:    - players affected by wounds
+
+yes.
+
+:    - play 'experience' and other attributes, that will be kept from
+:      one game to the other.
+
+maybe.
+
+:    - polygon mapped items/characters
+
+done.
+
+:    - shops/inns
+
+maybe... you would be able to put this in yourself.
+
+:    - npc interaction (npc = non player character)
+
+maybe.
+
+:    - godlike players that can change the environment during an active
+:      game
+
+done.
+
+: -someone mentioned you were marvelling about the new lighting (lighting?)
+:  affects id just added to quake on irc. can you describe this?
+
+the lighting is awesome. it works just like true lighting with shadows,
+diminishing etc...
+
+: -how are the levels for quake developing currently? how big are they, how
+:  complex, how many do you have?
+
+they are coming along very fast, although there are none that you would
+call finished.
+
+: -will you be able to play crossplattform netquake?
+
+yes. definitely.
+
+: -are any enemies for quake done yet? what can you tell me about the
+:  monster ai you're working on.
+
+there are very few models done right now... because until just a few
+days ago there was no way to see them in the game... now they look very
+good. there is not much to be said about the ai... it will be better
+than doom's.
+
+: -how much research did you put into muds, mucks, mushes etc to find
+:  ideas and concepts for quake (if any). do you see quake as a (albeit
+:  less complex) 'graphical mud'?
+
+a lot. yes, i *want* it to be a "graphical mud".
+
+:    can you mention some of the new features of new hardware that quake
+: might support then? 3d sound? polygon accelarators? anything?
+
+well, we will be supporting hmds, some of the accelerator cards, and 3d
+sound.  really, anything that you would like to see supported can be put 
+in... we may not be the ones who put it in, but it is possible.
+
+:    can you elaborate a little about the 'programming language' within
+: quake? you mentioned once it was forth based? is it precompiled or parsed
+: at run time?
+
+it is not forth based. it is parsed at run time. there is not much else i 
+can say about it right now, except that everything in the world (doors,
+monsters, fountains, etc...) will have it's own piece of code to make it
+run.
+
+:    and finally, weapons. i hear you are moving away from the previous
+: plan of only having a hammer as a weapon. will quake have the full range
+: of fantasy themed weapons or at least the possibility to write them
+: ourselves?
+
+we are not sure about which weapons will make it in yet... regardless you
+should be able to add your own pretty easily.
+
+-----------------------------------------------------------------------------
+
+from dave taylor's posting to comp.os.msdos.djgpp, 8 jun 1995 14:12:25:
+
+hello, i'm one of the authors of doom, and for a while we've been
+developing our next game quake using djgpp v1.  our plans are to
+release the game as a series of .o files and source code so that
+programmers can write their own modules and plug them in during the
+setup program which actually performs the final link.  we will be
+including djgpp on our distribution cdrom to make this easier for
+people.  note that we won't be releasing all the source code, just
+enough so that people can write their own low-level modules to support
+new devices.
+
+-----------------------------------------------------------------------------
+
+from 2 mails between american mcgee and lithium@silicon.net, 20 jun 1995:
+
+: like in wolf3d you had people walking around...being directed by those
+: arrows.  this was pretty cool. it would be neat if in quake there were
+: monsters sleeping, eating, patrolling, building weapons or whatever,
+: activating switches to crush you....
+: this would make them seem more believable!
+
+this is something we are planning on doing.
+
+: will quake be able to be run on game connection(sirdoom) and apci do you
+: suppose?
+
+you will not need a service like that in order to play multiplayer
+quake games.
+
+-----------------------------------------------------------------------------
+
+according to peter taylor <staylorm@cc.curtin.edu.au> on jul 18th, 1995,
+micheal abrash says he's currently working on "speeding up the drawing
+of sky". whatever that means ;)
+
+-----------------------------------------------------------------------------
+
+john romero appeared on irc several times in the month of june '95 on the
+#dwango and #doom channels. here a summary of what he said:
+
+'quake should be out by christmas. we hope.'
+'looking up/down is automatic and is also available w/keys'
+'quake will run the same speed as doom on same system.'
+'but you'll need 8mb ram.'
+'yes, nin is doing sfx'
+'looking up/down with the mouse does not work well.'
+'we don't use opengl in quake, we use span-blitting.'
+'no music in quake.'
+'quake screen res: whatever you can handle.'
+'we are supporting video coprocessors, but not thru opengl!'
+'music: maybe little blits of music, but not a soundtrack per map'
+'i'm not sure if we're using the 3d-ddi.'
+'# of players: whatever the server can handle/has connections.'
+'os's - dos and win95 first. then all other systems.'
+'netplay: all possible types of connections.'
+'win95 will run same speed.'
+'probably os/2, but not immediately.'
+'weapons: so far, a hammer.'
+'...and a hellgate cube'
+'keyboard input: prolly as many keys as heretic'
+'we will not miss the music, i guarantee it.'
+'deathmatch = 14.4 no prob.'
+'player = two models, body and head. head will tear off.'
+'you will be able to customize all keys used in quake, even debugkeys.'
+'we do not want music - you are going to be in a total environment.'
+'imagine a dark swamp at night. what would that sound like?  :)'
+'we will have 3d sound.'
+'sound is 16-bit.'
+'22khz'
+'vr headsets will be supported.'
+'all sound cards with digital output will be supported.'
+'quake = lots of magic!'
+'there's no comparison between quake and heretic (or anything else).'
+'h2 will come sooner.'
+'plot? ha ha ha ha ha ha ha ha!'
+'quake makes doom look like a sad little cartoon.'
+'you'll thank me much more for quake.'
+'screen shots: in about a couple months.'
+'quake's net code is the next generation. you'll see.'
+'we won't be uploading screenshots until we get some models in
+ the game...which will be pretty soon now.'
+'we have sprites, brushmodels and alias models in the engine
+    right now, but no real models done yet.'
+'quake's engine is so damn fast right now. we're about to get
+    another 50% speedup pretty soon.'
+'we're having to clip speed to 70fps.'
+'we will be supporting lots of vesa modes as well as 3 standard
+    vga modex modes.'
+'our source graphics are 256 color, but with lighting we are
+    supporting 24-bit.'
+'quake controls will be just like doom controls with some extra
+    keys that are not mandatory to use.'
+'look - doom was the first multiplayer game, 4-player was great
+    back then.  everyone else just improved on it, as we expect them to do.'
+'yes, monsters will be cool. better than doom. they'll have
+    leaders and followers.'
+'we're playing with a few different ways of doing realtime
+    shadowing.'
+'our main objective is to keep the speed up, so if the shadowing
+    is a little cheesy, it was because of speed.'
+'well, gonna take off now. gotta do some stuff on my huge
+    swamp wizard's castle.'
+
+-----------------------------------------------------------------------------
+
+   an abbridged log from a stay of dave taylor ('iddt') on #doom,
+late jul 95:
+
+<_avatar_>  ddt: like hows that animated sky coming along?
+<iddt>      avatar, um, animated.  looks really neat, though.  the engine
+            is still kinda raw.
+<netshadow> iddt: are there any major engine improvements over doom, and
+            what kind of modularity will there?  i.e. a .wad style drop-in
+            additions? (ie doom level, (better?))
+<iddt>      netshadow, no wads necessary.  you can make your sound files
+            .wav or .aiff, your quake programs are text files, the entity
+            lists are text, the maps are text, the gfx are .lbm...
+<_avatar_>  iddt: how bout models? coming along (i ask cause we've been
+            told we'll see screen shots when models are in there)
+<iddt>      avatar, the models are in an alias format.
+<rukh>      iddt: will quake use multiple levels or one really huge one.
+<iddt>      rukh, multiple levels.
+<|nurgle|>  iddt- one thing i have been dying to know is if wither there
+            will be more than one weapon :)
+<iddt>      nurgle, me too.  not sure yet.  i think there will be.  there's
+            this rather lame idea about a hammer i'm quietly trying to
+            destroy.
+<_avatar_>  iddt: okok.. but the models haven't been put in yet?
+<iddt>      avatar, there are only a couple models in.  a bat, a sorta
+            biped baddy, a human.  they don't do anything clever.  just
+            sorta sit there.  no rush right now.  plenty of architecture
+            to go.
+<calabraun> iddt: okay.. lets see.. are the text files for quake levels in
+            an ascii map format, or lines of code which translate to a map?
+<iddt>      cala, here's some lines from a map file...
+<iddt>      4 wall14_5 0 0 0 0 0 0
+<iddt>      (0,912,176,144) (0,928,176,144) (16,928,176,144) (16,912,176,144)
+<iddt>      4 wall14_5 0 0 0 0 0 0
+<iddt>      (192,928,144,0) (192,1040,144,0) (208,1040,144,0) (208,928,144,0)
+<iddt>      it's like coordinates specifying a brush and a texture and some
+            other stuff.
+<dnormlguy> ddt: are you using any human input devices for character
+            movements, like suits with sensors, or is it more by hand??
+<iddt>      dnorml, i want to support the virtual i/o i-glasses, but
+            honestly the best control will be a mouse and keyboard.
+<iddt>      cala, my point is that someone will be able to quickly write a
+            graphical editor because the file format is so simple.
+<hankle>    iddt: so what kind of theme is this levitating toward?
+<iddt>      hankle, dunno.  fantasy of some sort.
+<meredith>  ddt: can you explain a little more how the monster ai code 
+            will interface with the main exe?  function calls?
+<iddt>      mere, it's an interpreted language.  want to see some?
+<iddt>      here's some code that generates thunder..
+<iddt>      thunder ()
+<iddt>      {
+<iddt>         local rnd;
+<iddt>         rnd = random() * 40 + 10;
+<iddt>         sound (self,0,thund);
+<iddt>         self->nextthink = time + rnd; 
+<iddt>         self->think = thunder;
+<iddt>      }
+<|nurgle|>  rnd = random() * 40 + 10;   <---- is that the duration?
+<iddt>      nurgle, that's the time between this thunder and the next one
+<_avatar_>  iddt: k, and as nurgle once mentioned, won't you have to
+            download all sorts of stuff whenever you connect to a server to
+            play in that world of sorts? (assuming it'll be like a bid mud)
+<iddt>      avatar, yes it'll cache whatever it doesn't have based on what
+            appears to be new or different, so if you frequent the server
+            often, you should only be hit with the cache the first time.
+<|nurgle|>  ddt- okl.. so if you szy,  created a new weapon, it wouldn't be
+            active on a server that didn't have it?
+<iddt>      nurgle, the server is god.  if it has the weapon in it, the
+            weapon is in it.  the clients have no say in the matter.
+<meredith>  carmack has also said that ai's are overrated as a game element
+<iddt>      avatar, the sad truth is that interesting ai gets expensive so
+            fast that the cycles are almost always better spent doing
+            something else.
+<_avatar_>  iddt: textures, good, but what about completely customizing the
+            way you look? wouldn't it be great to go into the game and have
+            people recognize you on sight!
+<iddt>      avatar, we're prolly going to let the players have completely
+            different skin textures.
+<|nurgle|>  ddt- how about riding animals  liie horses or somthing, also it
+            would be rad to be able to give yourself an appearance
+<iddt>      nurgle, we're pretty sure that's what we want to do
+<netshadow> iddt: what would be the most common connection medium for a
+            quake server (if there would be one) .. i remember hearing
+            something (i think romero said something about cable boxes?!?)
+            .. but would there be server/clients on the net? or dwango-ish??
+<iddt>      netshadow, it'd be modems of course.  prolly a large terminal
+            server.
+<hankle>    iddt: under windows, it will support winsock, correct?
+<iddt>      hank, prolly, but we'll need to get someone knowledgable about
+            winsock to code it.  we've never touched the stuff.
+<_avatar_>  iddt: and as people've asked, will quake have any music code
+            whatsoever?
+<iddt>      avatar, a big maybe.
+<netshadow> iddt: speaking of which, did the nin deal have anything to do
+            with the 'secret' nin in e4m1?
+<iddt>      net, not really.  american, carmack, and i are just huge nin
+            fans and so we started going to his concerts and found out trent
+            was a huge doom fan.  sort of a mutual thing.
+<|nurgle|>  ddt- will you be ablke to record a game wihtout everyone else 
+            having to?
+<iddt>      nurg, if you're running the server
+<|nurgle|>  i'd say mkae trent make some sfx for lots of weapons :)
+<iddt>      nurgle, he's concentrating on environmental and demonic sounds
+            right now.
+<|nurgle|>  ddt- demonic? so quake will have an evil kinda setting? one that
+            will  make every christian in the world foamm at the mouth?
+<iddt>      nurg, that's the goal
+<meredith>  ddt: people will be able to write their own input device drivers
+            for quake, right?  how exactly will that work?
+<iddt>      mere, yep.  the setup program is actually a disguise for the
+            final linking step.  the game as delivered is still .o files.
+            you link it with the right modules before running it.
+<meredith>  ddt: any chance of having monster ai's as .o files to be linked
+            instead of intpreted code?  it'd be a lot more mem/clock
+            efficient
+<iddt>      mere, i'm of the same opinion but couldn't convince carmack of
+            that. he has a good point.  w/interpreted code, you can reload
+            it hot without restarting the game.
+<meredith>  ddt: is network 'talk' still in?
+<iddt>      mere, it's not in yet, but i'm glad you reminded me.  should get
+            to that.
+<_badcrc_>  iddt: i request that you guys don't give out any cheats...maybe 
+            even disable them ;)
+<iddt>      bad, there will be cheats, but why does that bother you?
+<hankle>    iddt: as long as they're not in multipolayer.
+<iddt>      hankle, won't be
+<kane>      iddt: in deathmatch, when the characters change weapons will it
+            show this?
+<iddt>      kane, hm. we're thinking about it.
+<paradox2>  iddt: what kind of dramatic bsp enhancments are we going to see
+            in quake?
+<iddt>      para, i'm not terribly familiar with the modelling internals.
+            it still uses a bsp, but it's 3d now, and there is a seperate
+            visibility list structure in every subvolume for faster
+            clipping to the view volume than doom.
+<dv8]>      i heard the ligthing system is badass in quake...is it state
+            of the art or is someone else usin it already?
+<iddt>      dv8, definitely state of the art
+<iddt>      it'll run fine on a 28.8k.  we're rather determined about that.
+<_avatar_>  iddt: fine at 28800 in 2 player or more than 2 player?
+<iddt>      avat, the game will be architected to drop information to the
+            client bandwidth, so theoretically any # of players, but the
+            reality is that it'll start dropping too much useful
+            information.  once again, we'll have to just check it out.
+<|nurgle|>  ddt- but seperate players can be  on seperate levels?
+<iddt>      nurg, yes
+<paradox2>  iddt: one rumor about quake i cant belive yet - but, they said 
+            it will work like www, you log on to a sever and download all 
+            the seperate special graphics for that server, as well as the
+            special gfx for each player?
+<iddt>      para, yeah
+<hankle>    iddt: in a month? [re: screenshots -jschuur]
+<iddt>      hank, i don't know honestly.  screen shots are a sort of
+            mystical thing.  we've been talking about doing it for the past
+            couple weeks, so i wouldn't be surprised if it happened w/in a
+            month.
+<_badcrc_>  ddt: how much disk space will quake use do you think?
+<iddt>      bad, 5.73mb.  no idea, dude.  it'll be more than doom, though.
+<dv8]>      iddt, is there going to be weather in quake, like snow and rain?
+<iddt>      dv8, no dude
+<waffles>   ddt:  i still want swinging doors
+<iddt>      waff, we got em
+<_avatar_>  iddt! what is the hellgate cube!?!??!?!?!
+<iddt>      avatar, it's this cube that spins over your head and sucks
+            souls and acts as sort of a friend sometimes and other times
+            changes loyalty.  it's just a concept right now. 
+<_avatar_>  iddt: how much control over yer guy'll you have in quake? the
+            usual + what?
+<iddt>      avatar the ususal plus yer head. 
+<iddt>      mouse will be just about required.
+<_avatar_>  iddt: hahaha.. no climbing or jumping?
+<iddt>      avatar, jumping prolly
+<|nurgle|>  ddt- will you be releasing a special quake controller?
+<iddt>      nurgle, a company that split off from logitech will
+<ceebee>    iddt: i realize you don't like the virtua fighter stuff but...
+            will quake contain complex combat stuff along those type lines?
+<iddt>      cee, no way.
+
+-----------------------------------------------------------------------------
+
+derek strutman had the oportunity to talk to some of the id guys at a
+book siging late aug '95. here his report:
+
+i asked him if it would need a pentium, he says it plays awesome on a
+dx2. i asked about how many people could fit in a "world" at one time,
+and he said
+
+  "about 64 people can fit in a world on a p90.  the way it will work is
+   if you try to exit to a world that is full, something will happen (we
+   don't know what, yet.)  you cannot advance until the world (which is
+   another server) has an open slot...maybe you hang around and keep
+   beating people up, maybe you keep pounding the door until you can get
+   in."
+
+he asked me if i had gotten the screenshots...i mentioned that everyone
+cracked the zip to steve and he kinda laughed.  it was for a magazine,
+and they were supposed to get "exclusive" shots...now they have to make
+more.
+
+quake betas will be the client only... so to test it, you will only be
+able to connect to the id server.  since this is around 64 people or so,
+lots of people will be trying to get in!  :)
+
+i asked about the sounds...he says it will be ambient sounds, like a
+movie...little evil sounds in the background, etc.  he said trent has
+already sent them a few.
+
+he also mentioned that porting will take place very quickly... and on
+net play, he says it will be more responsive the closer you are to the
+server.  (lag fellas...our old friend come back to haunt us)  most all
+processing is done on the server.  the client is essentially a shell,
+just doing video and etc.  the game's lighting and stuff is pre-calced.
+
+-----------------------------------------------------------------------------
+
+dave taylor (ddt) visited irc's #doom channel the day quake screenshots
+were first released on aug 5th, 1995. here an abbridged logfile:
+
+<pete_>     ddt: does quake support user sound banks for the  awe-32? cause
+            the awe-32 sucks without sound banks
+<ddt>       pete, oh i thought you meant the on-board ram.  no, not going 
+            to do midi music.
+<pete_>     ddt: awe-32 user sound banks - does quake support them?
+<ddt>       pete, not yet.  plan to, not for music tho
+<[[baron]]> ddt: will quake work with an 8-bit sbpro by any chance? :p
+<ddt>       baron, yes
+<obscurity> ddt: at a rough guess, how far through coding quake are you
+            guys (50% ? 75% ? etc)
+<ddt>       obscur, way far.  75% is a good estimate, but the tough stuff 
+            is finished.
+<ev|genius> ddt: does quake have real physics? ie standing on a floor makes 
+            you slip downwards, at an icreasin rate?
+<ddt>       evl, physics as real as convenient.  :)
+<ev|genius> ddt: will quake gravity be confiogurable?
+<ev|genius> ddt: ie we can make mnars or earth or the moon
+<ddt>       evl, prolly
+<_avatar_>  ddt: rockin.. q6.gif is my windows background (am i right in
+            thinking i'm not alone in that?:)
+<ddt>       avatar, the dragon's done. :)
+<_avatar_>  ddt: you've got some people here that say it's a wyvern :)
+<ddt>       avatar, it's a dragon without legs because it's a waste of
+            polies.
+<ev|genius> ddt: will quake have any of dooms annoying limits like visplanes 
+            etc that make design tough to make detailed objects?
+<ddt>       evl, works differently.  takes longer to make levels, but they
+            do more.
+<ev|genius> so quake'll be able to recreate anthing?
+<ev|genius> ddt: can we recreate the eartyh in detail exactly in quake?
+<ddt>       evl, i think you'll majorly dig its flexibility.
+<obscurity> ddt: how big will quake be (level wise) compared to, say, doom ?
+<ddt>       obscurity, about the same size.  don't want to require everyone
+            to have 32mb ram.  :)  you need to keep a level in memory.
+<_avatar_>  ddt: how're you doing the animation? strictly on the sgi or 
+            with a monkey or humans?
+<ddt>       avatar, strictly in alias by hand.
+<_avatar_>  ddt: ouch.. that's not that great..
+<_avatar_>  ddt: rob has been telling me horror stories about alias'
+            animation program..
+<ddt>       avatar, it's not too fun
+<pete_>     ddt: use vesa page flipping :)
+<ddt>       pete, using it
+<_avatar_>  ddt: whataya think will be in the next pix we see
+<ddt>       avatar, probably more characters and action scenes.
+<_avatar_>  ddt: ...and weapons?
+<ddt>       avatar, and weapons.
+<_avatar_>  ddt: weapons, plural?! ::::))))
+<ev|genius> ddt: so hwo is the automnap going to be handled?
+<ddt>       evl, good question.  no plan to have an automap right now.
+<pete_>     ddt: if you ever do put an automap in , make it like dark forces
+            so you can see the map and the player view at the same time
+<ddt>       pete, good idea
+<ddt>       obscur, it's kinda hard in 3d.  did you see descents?
+<||baron||> ddt: will quake have limitations to the shape of the objects' 
+            geometry or not?
+<ddt>       baron, no limits, except that brush objects must be convex.
+            character objects don't need to be.
+<ev|genius> ddt: can we configyre the keyboard setup as we want
+<ddt>       evl, yes and portably.  much better system for that, has macros
+            too
+<ddt>       fire, no automap is a good way.
+<_avatar_>  ddt: how bout an object you get that you can throw up in the
+            air and you see from it's view for a few seconds?
+<_avatar_>  ddt: sorta like a momentary bird's eye view that would let 
+            you see opponents too.. it could be an actual item
+<ddt>       avatar, wow- cool idea!
+<ddt>       avatar, oughtta make it the severed heads of monsters.. :)
+<_avatar_>  ddt: yup, that's the advantage of having the head able to be
+            severed from the body :)
+<ddt>       avatar, we're definitely gonna go heavy into mutilation.
+<pete_>     ddt: what about if enemies could nick your items if they came
+            close enough to you..
+<ddt>       pete, kinda not fun when you get pinched in games, turns out.
+<||baron||> ddt: what are brush objects?
+<ddt>       baron, will explain later
+<ev|genius> ddt: will quake have lmps will ful vcr control?
+<ddt>       evl, prolly not
+<_avatar_>  ddt: how manipulatable will the monsters be?
+<ddt>       avatar, totally customizable
+<ruined>    ddt: if quake will be able to be played over internet, would 
+            it be like confirmed kill, you telnet it, or like kali, ppp
+            connection?
+<ddt>       ruined, direct connection (not telnet)
+<jco>       ddt: will the ememies be controlled by a .o file?
+<ddt>       jco, no it's a c-like interpreted language
+<jco>       ddt: ya, but will the monsters' ai be completely externaly 
+            programmable?
+<ddt>       jco, y e s
+<_avatar_>  ddt: any idea how customizable your appearance will be?
+<ddt>       avatar, hm, not yet
+<waffles>   ddt:  how are the up and down controls handled?  auto like rott?
+<ddt>       waff, auto or manual.
+<_avatar_>  ddt: ok, so you'll have a 24 bit mode then too?
+<ddt>       avatar, yes
+<jco>       ddt: the screen shots were 128 colours.  won't the game be at
+            least 256?
+<ddt>       jco, it's already 256.  it's just that there weren't more than
+            128 colors in those particular scenes.
+<ronh>      ddt: one sugestion for doom flamethower, enemies aflame and
+            dying!!!
+<ddt>       ronh, already in strife and a cool origin game called crusader
+            (almost done).  we'll prolly do it in quake, but flamnes don't
+            look too hot in the engine.
+<pete_>     ddt: how about morphing into other creatures? good for
+            deathmatch, you can hide in a pack of monsters or somink..
+<ddt>       pete, not to program.
+<_avatar_>  ddt: and have ya started on real3d support yet? i wanna know 
+            what that'll be like.. the card sounds great..
+<ddt>       avatar, not yet, but it'll likely be in there.
+<waffles>   after seeing these screen shots tho i really dont know about 
+            the name quake.  it doens't fit at all.  i mean..thor in a
+            castle?! uhm...hmmm
+<waffles>   even if it isn't thor actually
+<ddt>       waff, i agree with you 100%, convince the others here.
+<_avatar_>  ddt: will we have to use a preset 256 color palette to make 
+            textures such?
+<ddt>       avatar, yes, unless you replace all the textures or remap 
+            their colors.
+<firehawk>  ddt: the lightning sounds cool, but will it light stuff on fire
+            like trees and other objects? 
+<ddt>       fire, prolly not i'm guessing
+<_avatar_>  ddt: dang, well if it'll be shaded in 24bit in the game i guess
+            it isn't that huge a problem.
+<zaph95>    ddt: abrash is god for fast anim, eh?
+<ddt>       zaph, no one is as good as carmack, but he is outstanding.
+<kelsey>    ddt will it have daggers and axes??
+<ddt>       kelsey, prolly so
+<zaph95>    ddt: is carmack self taught?  any formal training, or just the
+            inborn desire?
+<ddt>       zaph, self taught and unbelievable.
+<_eliteman> ddt: how will quake handle video display, do you need at least
+            1 or 2 megz video ram?
+<ddt>       elite, you only need 64k technically, but i recommend more.
+            more than 1mb certainly won't do you any good.
+<pslam>     ddt: only 64k? no vga page flip?
+<ddt>       pslam, if you've got the memory, it'll page flip
+<naveed>    ddt: is romero self taught?
+<ddt>       naveed, yep
+<naveed>    ddt: what about you?
+<ddt>       naveed, mostly.  took some classes in school, tho
+<_eliteman> ddt:  ok, kewl, also what did you say was the minimum system
+            requirements i heard that it will run decent on the same
+            system as doom except you need 8 megs of ram, is this true?
+<ddt>       elite, the min system requirements are upped a bit. somewhere
+            between 486/66 and p60.
+<ddt>       and 8mb minimum.
+<_avatar_>  ddt: what sort of detail adjustments will you be able to make?
+            like how in doom you could change the screen size and detail
+            level..
+<ddt>       avatar, screen size for sure.  prolly not much else.
+<obscurity> ddt: any advantage for over 8meg ?
+<ddt>       obscur, definitely
+<dnormlguy> ddt; with the flame thrower, will the monsters get set aflame,
+            it would be cool if when they did..if there was water near,
+            they would run to the water for to put out the flames
+<ddt>       dnorm, prolly not.  poly flames don't look good.
+<dnormlguy> ddt: you can put some sprites in there you know
+<dnormlguy> please put in fire, sprites are fine with me
+<ddt>       dnorm, yeah, but trust me.
+<ddt>       avatar, it's a question of aesthetics.  if it looks like shit, 
+            we don't do it.
+<ddt>       waff, yeah, 100% poly except for little things like torches 
+            that don't look good in polies (little triangle flames blow)
+<_avatar_>  iddt: true.. but fire can look good as a well animated sprite.
+            plus it doesn't have to be done from different angles..
+<ddt>       avatar, don't beat this one to death.  if it looks good we'll
+            do it, but it prolly won't.
+<ddt>       pslam, i doubt it.  we'll release the source code, and if you
+            want to write it, go ahead.
+<pslam>     ddt: to what extent do you mean -release source code-? all of
+            it?
+<ddt>       pslam, all the low-level dos code and device-specific stuff.
+<_avatar_>  ddt: okok.. so have you guys decided to have multiple weapons 
+            yet?
+<ddt>       avatar, still up in the air
+<ddt>       avatar, ya know.  lightning, fireballs, magic missiles, the
+            works.
+<hygelic>   any spells?
+<ddt>       hyg, spells in teh form of magic weapons for control reasons
+<hugh_jass> ddt: we beg you guys to put in an axe/sword for another weapon
+<ev|genius> ddt: doom had the ebst weapon mix.....we need that same type
+            mix in quake
+<_avatar_>  ddt: what sorta spells?
+<_avatar_>  ddt: rockin, rockin.. you could do tons of cool stuff with that
+<obscurity> ddt:what's the 1 aspect of quake that's had you people most
+            excited ?
+<ddt>       obscur, to me, the command-line interface built-in.  no menus.
+<_avatar_>  ddt: didn't catch your anser on this yet.. how's the real3d
+            support coming along?
+<ddt>       avatar, we're not doing it ourselves.  but it'll get done.
+<_avatar_>  ddt: rockin.. and the spells?
+<ddt>       avatar, magic weapons.
+
+-----------------------------------------------------------------------------
+
+-> ddt spoke a bit about the plattforms _quake_ will be available for
+-> on irc...:
+
+-> <ddt> bmetz, the linux version of quake is written and ready.
+-> <bmetz> ddt : So id is just going to start releasing ports whenever they're
+->         ready to go, not in any order?
+-> <ddt> bmetz, no we'll do linux and nextstep first because they're non markets
+->       and we can afford to easily send out ports without getting lots of "i
+->       have an irq conflict" crap which doesn't help
+
+-----------------------------------------------------------------------------
+
+-> ...and john romero had a few words to say on quakec:
+
+-> QuakeC is a subset of C. It's not a full implementation because a
+-> game doesn't need that much.  But QuakeC IS object-oriented, in
+-> a different kind of way...
+
+-----------------------------------------------------------------------------
+
+-> american mcgee had a small update on the weapons he has been
+-> developing:
+
+-> :    speaking of weapons. it sounds like you guys have finally 
+-> : decided to include more weapons to the game then?
+
+-> yeah. i have been spending a lot of time trying to figure out what
+-> kind of weapons to put it. i have already created two cool ones
+-> and i am working on two more. i just need to make sure that
+-> these weapons do not suffer from the same problem as the heretic
+-> weapons (no real feedback from the weapon since you are not
+-> sure what the weapon really is:). right now i have this spike
+-> shooter thing that is really cool and this power-up item
+-> that spawns little balls o' death around you that attack people
+-> when they come into view. it is pretty cool too... but not actually
+-> something you use since they act by themselves.
+
+-----------------------------------------------------------------------------
+
+-> john romero posted some minor facts to the quake-servers mailing list
+-> about.. well.. quake servers:
+
+-> 1. you will be able to have multiple quake servers connected over a
+->    lan, but they won't be able to have one world simulated on 2
+->    servers. you can have multiple worlds on one server, but not one
+->    split across several.
+
+-> 2. we will be implementing a spectator camera that will enable you
+->    to be non-corporeal and float at will within the world, watching
+->    everything. we will also (in a future patch, prolly) enable you
+->    to change your view to be one of the monsters on the level.
+
+-----------------------------------------------------------------------------
+
+-> 'murray' (from australia i believe) sent me an excellent summary of
+-> an irc visit of 4 of id's people:
+
+-> <romero2> = john romero
+-> <ddt> = dave taylor
+-> <id_shawn> = shawn green
+-> <tokay> = american mcgee
+
+-> [ hardware / platforms ]
+
+-> <askanison> romero: will a pentium opperate as an ok server machine for quake?
+->             _quake_
+-> <romero2>   a pentium will be cool for the server.
+-> <romero2>   quake should be close to doom speed. faster when netplaying.
+
+-> <riot>      romero: have you tested out ony 3-d accell cards?
+-> <romero2>   we have the rendition board working in 640x480 at 20fps.
+
+-> <hankle>    romero: How many fps in 640x480 on standard card, such as the
+->             stealth 64? (p100 or so)
+-> <romero2>   stealth64 (640x480) is around 8fps.
+-> <romero2>   not real fast.
+ 
+-> <funkyboss> ddt : what will a dX4/100 with 16mb and an ati mach64 do with
+->             quake? anything better than 320x200x24bit?
+-> <ddt>       funky, yeah you can do 8bit 512x384 which looks really good,
+->             better than 320x200x24.
+-> <ddt>       hank, can't compare it to doom very easily.  only one resolution 
+->             remember. and it's a very very different engine. it's running 
+->             15-35 fps on our machines, largely pentiums.
+ 
+-> <inigo>     is there a point to runnng quake on a 486DX2/66, 16mb ram, 
+->             hercules (2nd fastest) dynamite video?
+-> <ddt>       inigo, you bet.  the 16mb helps a ton
+-> <ddt>       inigo, the memory is the thing.
+
+-> <tormentum> ah, another useless question:  is quake for linux going to have
+->             8-bit sound support this time, or do we unprivileged 8-bit sound
+->             card kids have to wait for a hack?
+-> <ddt>       torm, already does.  very flexible this time, much better, way
+->             more efficient.
+ 
+-> <[raptor]>  how well is quake gonna run on my 2 computer workgroup here, like
+->             1 pentium and 1 486 dx/2 66?
+-> <ddt>       raptor, it'll run great.  you'll be a walking erection.
+ 
+-> <taki>      id-guys: have you tested out creatives 3-d blaster yet?
+-> <ddt>       taki, the "eagle"?  michael has been playing with it.
+-> <taki>      ddt: cool... what he think of it?
+-> <ddt>       taki, didn't ask.  he's enamoured of rendition's 3d board with 
+->             its own risc chip. looks like the first board we're gonna support.
+ 
+-> <funkyboss> ddt : what 3d accelerator standards will quake support? 3ddi?
+-> <ddt>       funky, its own.  we'll release the source code and let the
+->             board manufacturer write their own module for it.
+ 
+-> <yossman>   so far, does it look like there will be a DOS and Win95 client
+->             for Quake?
+-> <ddt>       yoss, starting to look that way. the net code for win95 is just 
+->             too elegant to ignore.
+ 
+-> [ abrash ]
+ 
+-> <romero2>   not just optimizing, but implementing new technologies.
+ 
+-> [ nin ]
+ 
+-> <myyrh>     ddt:was trent renzor drooling  when he met you  guys?
+-> <ddt>       myyr, there was massive mutual drool.
+-> <romero2>   yes, all of nin hung out at id. we went out to dinner and 
+->             drinking and shit.
+ 
+-> [ weapons ]
+ 
+-> <[nurgle]>  ddt- what's the hammer situation, my man?
+-> <ddt>       nurg, it's still there. dave glowers. bug romero.  :)
+-> <[nurgle]>  riff- I'd rather kill someone with a axe. ior best case a
+->             shotgun
+-> <ddt>       nurg, american is adding some cool projectile weapons. got
+->             guided fireballs in and he's going to add a spike storm thing i
+->             suggested tomorrow. can't wait.  :)
+ 
+-> <muzzle>    tokay: ddt tells us about a "spike shower"... what's that?
+-> <tokay>     muzzle: just a cool weapon I put into quake last night.
+-> <tokay>     muzzle: something he asked for that I created in about 20 mins.
+-> <muzzle>    tokay: that's cool... added via .qc code?
+-> <tokay>     muzzle: everything is.
+-> <calabraun> tokay: what kinda weapon?
+-> <tokay>     cala: uh, it is just this spike shooting thing... but it looks
+->             really good.
+-> <calabraun> tokay: so if there were two monsters right on top each other,
+->             which monster would this spike go for? ;)
+-> <tokay>     cala: some would go for one guy and some would go for the other.
+-> <tokay>     cala: it shoots out four spikes.
+ 
+-> <ddt>       this guided fireball american just did is way cool. looks like
+->             those phot on torpedoes in star trek 2.  yummy.
+-> <ddt>       or no, like that guided one in star trek 6, right?
+-> <ddt>       but no, it's not gonna come out of a bazooka or anything.
+-> <muzzle>    ddt: is the fireball also a "light source"?
+-> <ddt>       muzz, no
+-> <[nurgle]>  ddt so if you shoot it down a long hallway it won't illuminate as
+->             it goes along?
+-> <ddt>       nurg, no. see descent for that effect. soak it up, then quit and
+->             play quake.
+ 
+-> [ game architecture ]
+ 
+-> <romero2>   the shadows are precalced in the bsp generator.
+-> <romero2>   no realtime ones ... yet!
+ 
+-> <muzzle>    ddt: what are you personally working on for quake?
+-> <ddt>       muzz, sound engine mainly.
+-> <muzzle>    ddt: are there sound echoes / tricks in quake?
+-> <ddt>       muzz, not many.  pretty straightforward sound engine.
+ 
+-> <muzzle>    ddt: can light sources move?
+-> <ddt>       muzz, no
+ 
+-> <_Yogre_>   ddt: will quake have a "heads up" map display?
+-> <ddt>       yog, no map
+ 
+-> <Avatar>    ddt: will quake have separate floor and wall textures or will
+->             everything like that be treated the same?
+-> <ddt>       avatar, there are no floors and walls in quake. how would you
+->             describe a flying buttress?  you put down 6-sided "brushes" like
+->             lego blocks and specify a texture on each side.
+ 
+-> <bloom>     ddt:  are you guys using jurasic park tech to get the movement
+->             right? they built models and then moved the arms and legs and 
+->             recorded the motion that way...
+-> <ddt>       bloom, no. they're seperate model frames, hand-animated
+-> 
+-> <muzzle>    tokay: do clients send more than controller state to the server?
+-> <tokay>     muzzle: They don't send controller states at all.
+-> <muzzle>    tokay: ah.  so some sort of object updates?
+-> <tokay>     muzzle: they only send their intended velocity.
+ 
+-> [ editors / customizability ]
+ 
+-> <romero2>   the server is totally modifiable.
+-> <wintr>     romero: could i turn quake into a 3d mud with enough work, 
+->             creativity, and programming talent? (for example could I
+->             program a npc??)
+-> <romero2>   yes, you could turn quake into a mud.
+ 
+-> <archvile>  ddt: will quake have the editor built in too?
+-> <ddt>       arch, no, but the data format is really easy to read and write
+->             code for
+-> <ddt>       avatar, shawn is working on a windows editor, but even if it isn't
+->             released with the game, editors will pop up literally within the 
+->             first week.  mark my words...
+-> <ddt>       shawn may release windows version.  not sure yet tho
+-> <id_shawn>  prolly with source.
+-> <id_shawn>  i'm sure someone will figure it out.....
+ 
+-> <avatar>    ddt: so quakeed is a true 3d editor, it just happened to be
+->             photo'd from a direct over head perspective??
+-> <ddt>       avatar, it's true 3d, but you look at the level from overhead
+->             and specify z information from the side.
+ 
+-> <muzzle>    ddt: is abuse monster ai similar to quake?
+-> <ddt>       muzz, not at all.
+-> <muzzle>    ddt: abuse ai = parameters, quake ai = .qc code????
+-> <ddt>       muzz, abuse ai = lisp, quake ai = .qc
+ 
+-> [ misc ]
+ 
+-> <muzzle>    ddt: If you could name a movie that is most like quake, what
+->             would it be?
+-> <ddt>       muzz, er.  wish i could.  no idea.
+ 
+-> <muzzle>    ddt: what do you like most about quake?
+-> <ddt>       muzz, the dragon
+-> <muzzle>    ddt: dragon looks v. cool. does it flap wings, etc?
+-> <ddt>       muzz, yppr.  :):):)
+ 
+-> <avatar>    everybody thinks the dragon in q6 and such is pasted
+-> <ddt>       avatar, it's real, very.  my fav character so far
+ 
+-> <mal>       ddt: i wanna visit id , can i =)
+-> <ddt>       mal, sorry.  no visitors
+ 
+-> <muzzle>    ddt: so what's after quake?
+-> <ddt>       muzz, no idea
+ 
+-> <mal>       ddt out of curiousity what parts of the games does romero code
+-> <ddt>       mal, he doesn't really. does levels and quake c.
+ 
+-> <avatar_>   ddt: and will all players look the same too?
+-> <ddt>       avatar, we'll find some way to differentiate them
+
+-----------------------------------------------------------------------------
+
+-> another log back from august woth romero (yes he does have and use a
+-> netcome account), supplied to me by _avatar_ from irc.
+
+-> <_Avatar_>  romero: So what's new?
+-> <Romero>    well, we have a really cool badass knight with a sword
+->             that runs at you and slices ya.
+-> <Romero>    looks real cool.
+-> <_Avatar_>  ever read alt games quake?
+-> <Romero>    yes, i read it.
+-> <Romero>    we have some new monsters that are rather disturbing.
+->             new weirdness.
+-> <Romero>    we have a cool new sinusoidal noise map for slime textures
+-> <Romero>    no more texture animation to animate slime - it's an
+->             algorithm now.
+-> <_Avatar_>  how're the weapons coming along?
+-> <_Avatar_>  Most people seem to be worried about being stuck at hand to hand 
+->             hammer combat..
+-> <Romero>    you'll definitely be holding a hammer in one hand and attack 
+->             artifacts in the other.
+-> <_Avatar_>  and how will the great DOOM control system be improved upon?
+->             Is it possible?
+-> <Romero>    combat in Quake isn't as fast as in DOOM, we've slowed
+->             the player down a little to make combat a little more strategic.
+-> <_Avatar_>  slowed the player down..
+-> <_Avatar_>  no strafe run?
+-> <Romero>    yes, strafe-run.
+-> <_Avatar_>  you can?
+-> <Romero>    but not with the goofy 45 angle bug
+-> <_Avatar_>  how then?
+-> <Romero>    running will NOT be as fast as in DOOM. you'll see when you play
+->             it.
+-> <_Avatar_>  although the 3x wall run will have to go
+-> <Romero>    all running bugs are gone
+-> <_Avatar_>  haha.. so running into certain walls won't jam you all the hell
+->             up?
+-> <_Avatar_>  whereas others you slide along
+-> <_Avatar_>  don't ya HATE getting stuck on walls?
+-> <Romero>    this is a totally new engine
+-> <_Avatar_>  romero: Will control be improved upon?
+-> <Romero>    control in quake is awesome.
+-> <_Avatar_>  and will combat really be more hand to hand?
+-> <Romero>    you will want to fight someone hand-to-hand because you can
+->             pummel them off cliffs. Depending on your orientation to your
+->             target, you will hit them differently.
+-> <_Avatar_>  good
+-> <_Avatar_>  what about logitech's controller?
+-> <Romero>    the Wingman Warrior is good for DOOM, but useless for Quake.
+-> <_Avatar_>  would you be better off using that or the mouse?
+-> <Romero>    the mouse is the definitive quake controller.
+-> <_Avatar_>  ew.. so we'll never get beyond the mouse? Not that that's a
+->             bad thing..
+-> <Romero>    when you use the mouse, you'll totally agree. it's awesome
+->             control.
+-> <Romero>    it's so good, that VR helmets really suck compared to it.
+-> <_Avatar_>  I know a vr helmet would suck
+-> <_Avatar_>  I was arguing with some poor guy that thought it'd be cool to
+->             be realistic like with VR.. do a 360 and strangle yerself!!
+-> <_Avatar_>  Romero: How bout lookin up and down?
+-> <_Avatar_>  Has that been decided on yet?
+-> <Romero>    the mouse controls everything.
+-> <_Avatar_>  even circle strafing and running back and forth??
+-> <Romero>    it's funny to go back & play Heretic & Dark Forces with look
+->             up/down.
+-> <Romero>    totally horrendous compared with quake's control
+-> <_Avatar_>  I can't stand using the buttons to do it..
+-> <_Avatar_>  but it's awesome how in Heretic you can find new
+->             uses for the weapons by bouncing them off the ground..
+-> <Romero>    i predict that jumping over your opponent will be more
+->             popular than circle-strafe
+-> <_Avatar_>  Anything new from the world of Quake then?
+-> <_Avatar_>  how bout BBS play? Will quake support it better than DOOM?
+-> <_Avatar_>  In DOOM, 4 people on a bbs = slow
+-> <Romero>    Quake's networking code is the Next Generation Standard for
+->             games. you'll see.
+-> <Romero>    Hey - Sony PSX DOOM totally rocks.
+-> <Avatar>    in what way?
+-> <Avatar>    frame rate etc?
+-> <Avatar>    so ya think it'll be DOOM all over again?
+-> <Romero>    PSX DOOM has all new music & sfx. the music feels like a movie, 
+->             there's colored lights...lots of stuff.
+-> <Romero>    the title track sounds like Terminator 2 and Hellraiser mixed
+->             together.
+-> <Avatar>    Will that sorta thing also be taken to a new level in quake?
+-> <Romero>    you will be able to play CaptureTheFlag with lots of people
+->             on your team
+-> <Avatar>    Capture the flag! Ra! 
+-> <Avatar>    I've always been for that idea
+-> <Avatar>    but how is weapons and shit handled?
+-> <Romero>    we don't have weapons in yet.
+-> <Avatar>    but assumadly ya don't have capture the flag yet either
+-> <Avatar>    so conceptually..
+-> <Romero>    the gameplay stuff is barely getting in right now.
+-> <Romero>    we've been working on architecture and the engine all year.
+-> <Avatar>    I'd assume ya wouldn't start off with all yer guns blazing
+-> <Avatar>    ya shootin for January still?
+-> <Romero>    shooting for Dec 10th
+-> <Romero>    we have deathmatch in
+-> <[NuRgLe]>  So romero.. is that a Wyvren or a dragon in q6.gif?
+-> <Romero>    a dragon
+-> <[NuRgLe]>  romero- a hatchling then?
+-> <Romero>    it was drawn smaller than it really is. it's currently 30ft long
+-> <MeRliN}>   romero, what is a good system for running Quake on?
+-> <Romero>    the fastest system you can get is the best system to run it on
+-> <_Darkside> Romeor how will quake run with win95?
+-> <Avatar>    still win95 = dos speed?
+-> <Romero>    yep
+-> <[NuRgLe]>  Will linux have any advantages over dos or win95 as a qauke
+->             platform?
+-> <Romero>    shouldn't be any advantages
+-> <Romero>    all quake's creatures look so damn cool.
+-> <Romero>    no - you will have a hammer in one hand.
+-> <Avatar>    and yer nards..
+-> <Romero>    the other will be your attack artifacts.
+-> <Romero>    you will see someone running at you with a colored globe in his
+->             hand...
+-> <Romero>    if you're in the water, better hope he doesn't drop a
+->             lightning globe in...
+-> <Romero>    you will be able to keep smashing dead things.
+-> <Avatar>    romero: Artifacts... please elaborate..
+-> <Avatar>    and will everybody's Norse God be identical?
+-> <Avatar>    in appearance and ability?
+-> <Romero>    you will be able to change your SKIN in quake.
+-> <Avatar>    romero: Yer skin, but nothing else? Your abilities
+->             will always be equal?
+-> <Avatar>    dark: I'm asking in a sideways fashion.. will there
+->             not be character classes?
+-> <Romero>    no - you will have a LEVEL, like in AD&D.
+-> <Romero>    no - experience might only be had by killing humans in
+->             deathmatch.
+-> <[NuRgLe]>  romero- you don't think that the idea of only 1 weapon is
+->             somewhat limiting?
+-> <Romero>    no - attack artifacts provide infinite expansion
+-> <Romero>    there will be a DOOM->Quake converter out DAYS after Quake is
+->             released.
+-> <Romero>    you can do ANYTHING in Quake. you want a new artifact?
+->             create one & program it in. no problem!
+-> <[NuRgLe]>  romero- why a hsammer and not an axe or sword?
+-> <Romero>    a hammer is a blunt, brutal instrument. just like quake.
+-> <Avatar>    Romero: will weapons in your hand also be polys? NO
+->             sprites but for status bar?
+-> <Romero>    yes, polys.
+-> <Romero>    no status bar.
+-> <Romero>    yes - you will run through a mysterious door and be
+->             connected to some server somewhere and you'll see such 
+->             things on that server that never existed in quake before.
+->             and they will exist ONLY on that server, unless the 
+->             server owner uploads the code to the net, or someone just
+->             reverse-engineers it (which is easy.)
+-> <Avatar>    romero: What if you grab something in one server and
+->             take it to the other? Is it like the holodeck, it'll
+->             dissappear?
+-> <Romero>    yes. it will disappear if the new server doesn't have
+->             that object.
+-> <Avatar>    That's hilarious.. ya run into the other server and
+->             suddenly yer nekked
+-> <Ratio>     Romero: You know what I like about QUAKE? Not enough hype.
+-> <Romero>    where's the hype? i speak the truth here.
+-> <Avatar>    romero: How bout this: Will Quake be much fun in one player?
+-> <Romero>    quake will be MUCH more fun single-player.
+-> <Romero>    486 DX66 is minimum
+
+
+
+ -------------------
+[3 - people's .plan:]
+ -------------------
+
+
+from johnr@idsoftware.com's .plan:
+
+the next game is going to blow doom all to hell.  doom totally sucks
+in comparison to our next game, quakethe fight for justice!  quake
+is going to be a bigger step over doom than doom was over wolf3d
+(ya know -- doom = pong). we won't start developing quake until fall'94...
+
+-----------------------------------------------------------------------------
+
+from help@idsoftware.com's .plan, on july 25th 6:14pm:
+
+this will not be out until sometime next summer.
+john carmack is currently designing the engine.
+multi-player should go something like this:
+someone owns a fast server somewhere. you dial in and join the
+game in progress. ten or more people at a time can be in the world.
+you will not need a pentium to play quake. everyone knows you don't
+need one for doom either... but it doesn't hurt anything.
+
+-----------------------------------------------------------------------------
+
+from help@idsoftware.com's .plan:
+
+status of quake---updated: tue, aug 9th 11:38am
+
+john now has a simple (slow) engine running. it uses converted
+doom maps and runs them with flats for textures. it looks really
+cool.
+
+-----------------------------------------------------------------------------
+
+from help@idsoftware.com's .plan, on september 2nd:
+
+ok, imagine this. you have a health thing and you don't need it.
+you meet someone in the game who has a nice weapon but is really
+low on health. you guys decide to exchange items. you don't really
+trust this guy so you bring along a friend and tell him to hide out
+somewhere with a bead on the other guy's head. you meet somewhere
+in the middle of a field and face off. you drop your health, he drops
+his weapon and you both strafe over the object of your desire. you
+start to back away (not turning your back on him) and suddenly decide
+you're going to whack this guy before he gets a chance to use that
+health. you move towards him and draw back with your hammer. he notices
+this and starts to duck, but it's too late. you smash him in the head
+and watch him fly down to the ground, landing on his side. you smash
+his still body a few more times and cause him to explode! now you and
+your friend pick up all of the items your dead friend left on the
+ground. as you are walking off you pick up his severed head and put
+it in a bag. that will come in useful later... when you need something
+to sacrifice to a demon.
+
+-----------------------------------------------------------------------------
+
+from help@idsoftware's .plan, on sat, oct 29th 4:21pm:
+
+john has a faster engine working now. groundwork for network play
+has been finished. looking _very_ cool. for those of you who still
+have a wife, kids, a job, and a life after doom, this game is for _you_.
+you doom junkies will have a new fix...
+
+-----------------------------------------------------------------------------
+
+from john romero's aol profile:
+
+quote:     quake will rule the cosmos.  doom will then crumble.
+
+-----------------------------------------------------------------------------
+
+from help@idsoftware's .plan, on sat, dec 2nd 2:20pm:
+
+this will not be out until sometime next winter.
+ok, ok... you guys wanted more.
+as of today the following things are working/semi-working:
+network play
+basic engine
+object modeling
+map editor
+
+network play:
+server/client code is functioning great. set up a quake server on
+a next, linux, or sgi box. once the server is running you
+get on another machine (next, linux, sgi) and log into the server.
+a play window opens and you can see the other players, move around,
+quit out, get back in, etc... there is no deathmatch yet, but this
+will be the first part of the game to be working... monsters etc, will
+be added in later.
+
+basic engine:
+this is running pretty fast. in network mode it slows down somewhat,
+but this will be reversed soon. (network will be faster than single
+player.) right now we are using a part of doom map 1 1 to test the
+engine.
+
+object modeling:
+kevin created a model of a person that only consists of about 200
+polygons. this model looks surprisingly good... we had thought we
+would need more polygons per model to create the amount of detail
+we want. so far this is the only "thing" in the game. he does not
+animate, but it is still cool to watch him be "born". at the moment
+he is textured with the art from the cyberdemon.
+
+map editor:
+john also has a map editor in the works. at this point it looks
+somewhat like 3d studio, with a camera view and a top down view
+of the thing you are working on. you can add and subtract blocks
+of "material" from the view. these are the building blocks of the
+world... no, you will not be limited to blocks in the finished game.
+
+all of this will come together very soon to create one of the most
+awesome network/3d games in the world... if not the most awesome
+(ok, who are we kidding? it will be the most awesome hehe.)
+
+-----------------------------------------------------------------------------
+
+from help@idsoftware's .plan, on tue, jan 24th 8:48pm:
+
+we will not be adding anything new to this for a while.
+there are many cool new things going into the game right now, but
+we do not want to give it all away just yet. we have been creating
+small test levels for the past few weeks, and these are looking
+awesome. the general game idea has started to solidify, but please
+do not write asking what it is.
+i will add some new stuff here when there is *alot* more to add.
+
+
+-----------------------------------------------------------------------------
+
+from john romero's alt.games.quake posting, 30 dec 1994 00:07:05
+
+latest quake info:
+
+* quakeed is working and it totally rocks!  this is the easiest 3-d editor
+  i've ever experienced.  we're just getting a taste of the incredible
+  architecture we'll be able to create.
+
+* sound code is great -- no interrupts necessary.  this is a good thing.
+
+* sound effects : thomas dolby is very interested in doing them.
+
+* id staff addition: we're about to hire a major, major programmer.  look
+  for an announcement after he comes on board.  you coders out there will be
+  very surprised!
+
+* some people were hoping we'd sink big bucks into the character graphics.
+  we've dumped $20k+ into alias, we have an indigo2 system with another on
+  the way. we just bought a $40k hp system and a $20k hp system for
+  development.  the models look very cool.  there will be no sprites in
+  quake (except for status bar stuff -- maybe); everything is a 3-d model.
+
+* the project is proceeding faster than we were expecting it would.  network
+  code will be up within a month!
+ 
+* deathmatch is highest on our priority list.
+
+-----------------------------------------------------------------------------
+
+from john romero's .plan, 28 mar, 1995 22:46:
+
+latest news:
+
+we're working on quake!  that's right!  most of the textures for the
+first episode are finished - kevin and adrian have been clicking wildly
+for a while.  now they are about ready to fire up the indigo2's and
+start modeling!
+
+michael abrash, our programminggod (tm), is here and pumping away on
+some really complex bsp/beamtree code for quake's refresh!  carmack
+and abrash just found a way (on pentiums only) to interleave the refresh
+code so all our divs are free!!!!  even though quake's architecture is
+more complex than doom's, quake's refresh will be faster than doom's.
+no shit.
+
+-----------------------------------------------------------------------------
+
+from mike abrash's .plan, 11 jun, 1995 10:55:
+
+busy working on quake.  it's going to be cooler even than i expected.
+check back in a few months...
+
+-----------------------------------------------------------------------------
+
+from american mcgee's, idtypical, enthusiastic .plan, 11 jun, 1995 
+
+ok, when you saw wolf you spooged on your own knees right?
+then doom came out and you spooged all over yourself again,
+only this time more. "wow!" you thought, "i didn't know i
+could spooge _that_ much!"
+just wait till quake, you'll be mopping spooge for days. 
+
+-----------------------------------------------------------------------------
+
+help@id's plan was updated on jun 6th, 1995 to include a brief status
+report on quake:
+
+this will not be out until sometime in the winter of '95.
+**that's _this_coming_christmas_ for those of you who don't
+**understand what i mean. like that chris guy. man, what a 'tard.
+
+[aparently 'chris' pointed out that it was already winter in australia]
+
+network play:
+[...]
+this is still the same. there have been no changes.
+
+basic engine:
+[...]
+this is running faster everyday. we are using other maps to test on
+now and things are looking very awesome.
+
+object modeling:
+[...]
+we have a couple of different monster and person models now.
+the all look very good.
+
+map editor:
+the map editor is completely finished. we have been working with
+it for a while now, creating new levels.
+
+-----------------------------------------------------------------------------
+
+id's .plan wad updated on fri, aug 28th 1995:
+
+things that work:
+network play, mouse control
+sprite engine, sound, entity programming
+polygon engine, map editor
+
+things we are working on:
+speed, speed, monsters, speed, maps
+sound effects w/help from trent:)
+and a lot more.
+
+network play:
+server/client code is functioning great. set up a quake server on
+a dos, next, linux, or sgi etc... box. once the server is running you
+get on another machine (dos, next, linux, sgi, etc) and log into the
+server. a play window opens and you can see the other players, move
+around, quit out, get back in, etc... deathmatch is working a little
+now and we can run around and shoot each other with fireballs.
+
+engine:
+this is running very fast. we have completed some really great
+looking levels that we are running around in. the lighting is
+too good to believe. there are doors/plats/switches/etc... in
+the game now.
+
+object modeling:
+kevin is working on creating the monsters/players and michael
+is making the draw really fast. these are looking great. sprites
+suck compared to proper models.
+
+map editor:
+the map editor is completely finished. we have been working with
+it for a while now, creating new levels.
+
+-----------------------------------------------------------------------------
+
+-> it seems as if quaketalk has found a mentioning in the
+-> help@idsoftware.com .plan. here a recent addition:
+ 
+-> Status of QUAKE---Updated: Tue, Aug 29 at 11:47pm
+ 
+-> Please do not send us mail about Quake. It just slows us down.
+-> Thanks.
+ 
+-> Well, we just got sprite 'models' animating with frame changes and rotational
+-> changes totally moved over to the client. The server is runnin' really well 
+-> now!  There's a really cool Pain Barrier (and Health Field) that just looks
+-> great with animating and rotating sprites. Um, and yes, there are sprites in
+-> the game - for very good reason: there's not an amazing level of detail to
+-> be had in a total polygon environment.  Sprites are faster to render and 
+-> besides, they make great torch holders!  They also look cool for magical
+-> effects!
+ 
+-> Programming the entities in the game is one of the most amazing and
+-> rewarding parts of Quake development.  You program in Quake-C (.qc) and the
+-> instant you save your file, you tell Quake to reload and parse it. It
+-> takes about 1 second.  Then, you get to see your changes implemented right
+-> then - and that's while you're programming in a C-like language! No compiler
+-> in the middle; instant execution.  Too cool for words.
+ 
+-> There. I just wanted to add something new for QuakeTalk. :)
+
+-----------------------------------------------------------------------------
+
+-> the .plan was updated later that month again to include more info
+-> about the new quake c language and monsters:
+ 
+-> carmack just finished changing over the structure/compiler for
+-> the quake interpreted language. it needed to be optimized. We
+-> spent some time changing our old code over, and now things
+-> are working great again.
+-> we have two functioning monsters in right now. One is the
+-> knight that you saw in the screen shots and the other is an
+-> ogre that just got finished. the knight chases you around and
+-> slashes at you with his sword and the ogre has a huge axe and
+-> a missile attack. both of these monsters look extremely cool.
+-> the artists are currently working on new monsters and on
+-> some nice demonic textures for the game. we are starting to
+-> get some of the really disturbing art in now... makes doom
+-> look like a place to take children instead of the zoo:)
+ 
+-> some misc. things we have been working on: some changes to
+-> lighting, network code, getting the game running on some
+-> accelerator boards, getting new monsters in, working on environmental
+-> hazards, levels, etc... etc...
+
+-----------------------------------------------------------------------------
+
+->    asside from the main help@id .plan, a few people at id have
+-> updated their own to include interesting _quake_ facts. here
+-> john romero's...:
+
+-> latest _quake_ news:
+
+-> just for the record (8/4/95):
+-> * quake is a total action game, not an rpg.
+-> * the external programming language is a c variant.
+-> * looking around is now done properly with the mouse; keyboard-only
+-> 	is, of course, supported with auto look up/down and, soon,
+-> 	auto-aiming (keyboard only). you can set/unset any of these options.
+-> * the new style of mouse movement will set the standard for all future
+-> 	action games; it's that amazing.
+-> * all options are totally changeable, while you play the game. you
+-> 	want to increase your normal walking speed threshold to the running
+-> 	speed threshold, no problem. (this means that you won't have to hold
+-> 	down a 'run' key, it will always be running! the run key can be used
+-> 	to slow you down if you want.) this works with any controller used
+-> 	with quake.	everything can be changed in real time.
+
+-----------------------------------------------------------------------------
+
+->    ...and american mcgee's:
+
+-> we have completed quite a few small maps and
+-> several larger maps. creating quake maps is a lot more
+-> detailed than making doom maps. since you have so many
+-> options now you spend a lot of time trying to figure out
+-> which of your cool ideas to use... instead of having to
+-> throw them away because the engine cannot handle what
+-> you want to do. creating floors above floors is very cool
+-> and creates some really beautiful scenes. the lighting
+-> is a lot of fun... but if you are not careful you can
+-> spend way too much time just moving lights around to
+-> see what things look like:)
+-> i am also working on the doors/plats/buttons/triggers
+-> and weapon code. creating doors and other simple objects
+-> is the game is a breeze. you simply create the model
+-> that you want to represent the object... write some
+-> code for when it is "touched" and "used" and then throw
+-> it into the map. object like weapons are much the same.
+-> You just think of the type of weapon you want to have,
+-> figure out how to make it work, code it in, and then
+-> throw it into the map.
+-> btw: The maps we are working on are going to be very
+-> cool for dm. quake maps will be small to medium in size
+-> because we have found that maps this size are more fun
+-> to play in single and multiplayer. there will be some
+-> larger maps... but in general we are trying to keep
+-> the sizes down.
+
+
+
+ --------------------
+[4 - quake on the net]
+ --------------------
+
+   the followign section covers other quake files available from
+the internet.
+
+
+ -----------------
+[4.1 - screenshots]
+ -----------------
+
+   finally, on august 5th, 1995, a series of much awaited early
+screenshots were released by id software. they can be obtained from
+id's ftp site at
+
+      ftp://ftp.idsoftware.com/idstuff/quake/quakepix.zip
+
+   or viewed on their web site at
+
+      http://www.idsoftware.com/qss.html
+
+   these screenshots show the architecture of the levels that can be
+built with the new engine (levels over levels and vertical sloped are
+seen e.g.) as well as certain lightinng effects (shadows e.g.) but
+the only monster to be seen is a dragon flying through the air out
+of the distance. likewise, no status bar is visable either, merely a
+red '100' at the bottom of the screen (probably the players health).
+
+   i was truely amazed by the screenshots and anyone who wasn't should
+consider that we are not seing the actual game in motion, but merely
+still images. i'm sure quake will be more than 'just another doom' as
+skeptists have been saying.
+
+->   after a while, even more screenshots related to _auek_ were released.
+-> an example of john romero's level edit, quaked, can be found at
+
+->   ftp://ftp.idsoftware.com/idstuff/quake/qe_dev.gif
+
+->   it's running under nextstep and there seem to be no plans to release 
+-> this particular editor. shawn green however is rumored to be working on
+-> a ms windows version of a quake editor.
+
+->   id showed an example of 2 completed polygon monsters in action in 4
+-> new screenshots at
+
+->   ftp://ftp.idsoftware.com/idstuff/quake/qpix.gif
+
+->   american mcgee commented on these in the help@idsoftware.com .plan:
+
+->   "we have two functioning monsters in right now. one is the
+->    knight that you saw in the screen shots and the other is an
+->    ogre that just got finished. the knight chases you around and
+->    slashes at you with his sword and the ogre has a huge axe and
+->    a missile attack. both of these monsters look extremely cool."
+
+
+ -------------------------------
+[4.2 - demos, previews and betas]
+ -------------------------------
+
+   as i've said before, quake is still far from being finished. and you
+can take my word on this, there are no betas available, no matter what
+your /<-rad friends said they found on their 31337 ftp/fsp sites. let me
+relay a quote of ddt on irc late november '94:
+
+"<dtaylor> lot, wish we had a quake beta."
+
+   'nuff said, come back in half a year ;)
+
+   here a cute little _faked_ id posting to alt.games.doom on the
+subject of illegal quake alpha/beta testers:
+
+   'it seems you guys have gotten ahold of alpha versions of both out vr
+quake and neural quake and i have to say i am not happy.  it is not the fact
+that you are using stolen software that bothers me, it is the fact that you 
+are putting your lives at risk.  just last week a beta-tester lost 33.3%
+use of his brain testing quake ii on the intel/rs686 for win '98.june.
+if you guy really want some quake action i suggest you stick
+quake, winquake, and powerquake.  for all you asking where to get it, it is
+ftp-able from 127.0.0.1 in the /pub/id/quake/incoming directory.  
+
+   have fun and see you on the quakeservers!!!'
+
+   for that matter, the new .plan at help@idsoftware.com is quite
+obvious as far as far as betas go. it literally yells at us (caps
+removed to preserve sanity ;):
+
+'there is no beta version of this out *anywhere*
+there is nothing for anyone to test right now either
+we are still very much in development'
+
+   jay wilbur himself points out id's current beta testing policy very
+nicely (reprinted with permission of keith cohen):
+
+"sorry, we will not be using any outside testers.  after the problems we had
+ with doom we decided to keep all the testing in-house."
+
+   jay has very clear ideas about the release date of quake. read his .sig:
+
+"the official release date of all id's products:
+ _as soon as it is finished_!"
+
+   even though help@idsoftware.com's .plan has a slightly different version:
+
+this will not be out until sometime in the winter of '95.
+**that's this coming christmas for those of you who don't
+**understand what i mean. like that chris guy. man, what a 'tard.
+
+
+ -----------------------
+[4.3 - quake www sites ]
+ -----------------------
+
+   a (still) small list of web sites that cover quake right now.
+should you know more, let me know.
+
+->    - the quake section at doomgate:
+->      http://doomgate.cs.buffalo.edu/games/quake/
+
+->    - the id software quake screenshots page:
+->      http://www.idsoftware.com/qss.html
+
+->    - hank leukarts quake section:
+->      http://www.portal.com/~hleukart/rumorsquake.html
+
+->    - josh micheals html quaketalk:
+->      http://www.prairienet.org/joshm/qtalk/
+
+->    - jason vanfickell's unofficial quake homepage:
+->      http://www.hal-pc.org/~jasonv/quake/
+
+->    - colin card's quakepage:
+->      http://www.islandnet.com/~ccaird/doom/quake.html
+
+->    - john orazem's quake page:
+->      http://www.io.org/~jco/quake/
+
+->    - gary hillard's quake screenshots page:
+->      http://www.trader.com/quake.htm
+
+->    - ttm & associates - 3rd party quake programming:
+->      http://info.pitt.edu/~brianm/quake/
+
+
+
+ -----------------------
+[5 - unconfirmed rumors:]
+ -----------------------
+
+   in a mail on june 10th, 1995, american mcgee from id software talks
+about the possibility of nine inch nails making the music for quake:
+
+"if trent reznor does music for quake it will work something like this:
+ on the part of the cd we do not use for game data we will record music.
+ if trent does the music then you will listen to trent making cool music
+ while playing the game. i think that if we have him do the music, people
+ who don't even want to play the game (yeah, right... like there are people
+ like that) will buy the cd just to hear trent make noise. i know i would."
+
+   he goes on to warn people who take quaketalk too seriously:
+
+"btw: all of you quakefaq guys are being totally lied to! nothing in here
+ is anywhere near true. this is like that whole "2 weeks!" thing. we are
+ just playing with your heads and making you worship satan. hehe
+ ok, ok... maybe some of this is true... but satan doesn't like us to tell
+ the truth, so don't tell him. hehe."
+
+
+ ----------
+[6 - outro:]
+ ----------
+
+   no outro yet. maybe next time ;) i know, i know. i keep saying that.
+heck, what do you want to see in an outro?
+
+
+ --------------
+[6.1 - credits:]
+ --------------
+
+   quaketalk couldn't be possible without contributions from a bunch
+of people. many thanks to all of them. my apologies if you submitted
+something and aren't mentioned here. sometimes i received the same
+logfile from several people and forgot to mention you.
+
+me <joost.schuur@student.uni-tuebingen.de> (lotlhwi@irc)
+   for doing most of the work ;)
+william lachance <ad904@freenet.carleton.ca>
+   for the pc format article
+rick hammerstone <rickh@gcctech.com>
+   for getting me a copy of the original quake faq
+scott bessler <scott@grayfox.svs.com> (jackyl@irc)
+   for an excerpt from his mail with ddt
+toby nichols <toby_nichols/t/gb/3com%3com@3mail.3com.com>
+   for the october pc gamer article
+alex lee <alee@access.digex.net> (sirace@irc)
+   for the november multimedia magazine article
+art s. <arts8@aol.com>
+   for john romero's profile from aol
+jordan feinman <jordanf@globalone.net>
+   for john romero's first posting to alt.games.quake
+dan cerman <decerman@ouray.cudenver.edu>
+   for filling my mailbox with all kinds of neat quake stuff ;)
+david laprad <psc10003@mtsu.edu>
+   for the dille/romero interview from the d2 strategy guide
+scott starks <starks@cs.ucdavis.edu>
+   for the second romero posting from alt.games.quake
+ed belisle <ed_belisle@mcimail.com>
+   for the cgw '95 sniplet. 
+american mcgee <american@idsoftware.com>
+   for numerous mails. (it's probably best not to ask him about quake right
+   now though ;)
+keith cohen <conquest@mercury.interpath.net>
+   for jay's comments on id's beta testing policy
+john wakelin <johnw@datametrics.com>
+   the first of numerous people to send me ddt's djgpp posting
+stuart west <west_stuart@jpmorgan.com>
+   for the crystal waters engineering press release
+murray chapman <muzzle@cs.uq.oz.au>
+   for johnr's updated .plan
+<lithium@silicon net>
+   for two excerpt's from his mails with american mcgee
+bernd kreimeier <bernd.kreimeier@nero.uni-bonn.de>
+   for the may electronic entertainment quote
+<jreda@interlink.net>
+   for the flux magazine interview
+dave kirtley
+   for the computer gaming hyperlink
+oliver meyer <omeyer@i3.informatik.rwth-aachen.de>
+   for the german pc games article
+mackey mccandlish <avatar@widomaker.com>
+   for the romero irc logs (he was one of several people to supply me
+   with them) and for a more recent ddt log.
+blain newport <blain.newport@789.gigo.com>
+   for proof reading qt
+peter taylor <staylorm@cc.curtin.edu.au>
+   for the qug 28th help@id .plan update
+joseph paul jenkins <jjenkins@whale.st.usm.edu>
+   for the sept '95 spin magazine article
+derek stutsman <dereks@metronet.com>
+   for the report on his meeting with shawn and romero
+
+
+ ----------------------
+[6.2 - version history:]
+ ----------------------
+
+1.00  (08/09/94)    - first edition. i simply cut and pasted all the quake
+                      quotes from romero and the .plan's in a file and
+                      spiffed it up a bit.
+
+1.01  (08/16/94)    - added credits to ddt's email about quake and changed 
+                      the intro.
+
+1.10  (08/22/94)    - added the magazine article section and the version
+                      history.
+
+1.11  (08/24/94)    - jayw's brief quake comment on irc added. 
+
+1.20  (08/31/94)    - pc format article added. credits section.
+
+1.50  (09/02/94)    - quake stuff from help@id's .plan added.
+
+1.55  (09/03/94)    - mcgee's comments on quake on irc.
+
+1.55a (09/12/94)    - i'm no longer looking for the original quake faq, thanks
+                      to all those who sent me a copy.
+
+1.70  (10/14/94)    - october pc gamer article added. comments on a true quake
+                      faq. slight reorganizations.
+
+2.00  (10/23/94)    - multimedia article added. table of contents.
+
+2.05  (11/04/94)    - new help@id's .plan info, different email adr. of mine,
+                      typos added.
+
+2.10  (11/09/94)    - newest quaketalk now available by mail. new intro.
+
+2.30  (12/03/94)    - id's more detailed quake status info from their .plan,
+                      screenshots, previews, demos, beta section.
+                      yet another (minute) change in my email adress)
+
+2.40  (12/04/94)    - john romero's first posting to alt.games.quake
+
+2.60  (12/12/94)    - romero/dille interview from the d2 strategy guide
+
+2.80  (01/05/95)    - a further romero posting to alt.games.quake,
+                      a section on 'unconfirmed rumors'
+
+2.90h (02/01/95)    - first official html version. cgw jan '95 sniplet, new
+                      finger service, minor quake update from id.
+
+2.91  (02/02/95)    - i forgot to include the 'cgw sniplet' in 2.90h
+
+3.00  (02/13/95)    - disclaimer, 'what's new?' section, romero alpha 
+                      tester warning, vintage quake announcement.
+
+3.20  (06/11/95)    - nin music for quake?, jay's beta testing policy
+                      and .sig, djgpp and quake, progress on the real
+                      quake faq, qt availability, mcgee's random comments,
+                      3d sound for quake, various .plans
+
+3.50  (07/26/95)    - update on quake's status from help@id's .plan,
+                      small excerps from several mails with mcgee,
+                      electronic entertainment quote on quake's network
+                      protocol, an interview between jay wilbur and
+                      flux magazine, computer gaming's web site on quake,
+                      abrash and the 'speed of the sky', german 'pc games'
+                      magazine interview with dave taylor, romero talks
+                      on #doom and #dwango, lots of terrible spelling
+                      errors removed and new ones added. ddt irc log.
+
+363  (08/10/95)     - new version numbering scheme, new html version,
+                      new email address, aug 28th help@id .plan update,
+                      derek's small talk with id, spin magazine article,
+                      yet another ddt #doom log, screenshots out!
+                      quake web sites.
+
+-> 400  (10/21/95)     - more _quake_ screenshots, help@id .plan
+->                       updated several times, ddt on _quake_ ports,
+->                       romero on an object orientated quakec, romero
+->                       and mcgee's new .plans, mcgee on _quake_
+->                       weapons, romero on quake servers, 3d
+->                       accelerator cards from rendition inc, sandy
+->                       petersen pellit interview, irc logs with ddt,
+->                       shawng, romero and mcgee, another romero log,
+->                       the quake minifaq, more quake web sites
+
+      _  ___  ___  
+=====| |/ _ \/ __|===========================================================
+     | | (_) \__ \   jschuur@globalnewe.com                      lotlhwI on IRC
+    _/ |\___/|___/   http://home.pages.de/~jschuur/           go away
+===|__/================================================nuqDaq 'oH puchpa''e'=
+

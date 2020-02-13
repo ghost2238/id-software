@@ -17,6 +17,7 @@ A collection of information about id software and their games.
 ## John Carmack's plan files
 - [Markdown](https://github.com/oliverbenns/john-carmack-plan/tree/master/archive)
 - [Ascii](https://github.com/fabiensanglard/carmack/tree/master/plan_files)
+- [PDFs](https://fabiensanglard.net/fd_proxy/doom3/pdfs/)
 
 ## Source code
 {SOURCE_TABLE}
@@ -34,4 +35,4 @@ A collection of information about id software and their games.
 # Thanks
 - id software for creating so many legendary games in such a short time.
 - [John Carmack archive](https://web.archive.org/web/20120204165241/http://www.team5150.com/~andrew/carmack/) for providing a lot of the content (.plan files, interviews, slashdot archive) and dates.
-- [rebelCoder](https://www.youtube.com/user/JurisL85/videos) for archiving/finding and uploading a huge amount of videos to youtube.
+- [rebelCoder](https://www.youtube.com/channel/UCADWCr992i6-yjQnPNGr3Cg) for archiving/finding and uploading a huge amount of videos to youtube.

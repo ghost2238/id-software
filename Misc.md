@@ -4,8 +4,8 @@
 | Video | Date |
 | --- | --- | 
 | [id Software - Answering machine - June 1992](https://www.youtube.com/watch?v=ib0ASwFrdCw) | 1992-06-??
-| [John Romero, Tom Hall, Monkeystone Games](https://www.youtube.com/watch?v=Gkqp8Cxo9r0) | 2003?
-| [John Romero & Tom Hall - GDC 2011 (Doom Post Mortem)](https://www.youtube.com/watch?v=2q_aRu6Jvu8) | 2011-03
+| [John Romero, Tom Hall, Monkeystone Games](https://www.youtube.com/watch?v=oCc_xUrCG0w) | 2003?
+| [John Romero & Tom Hall - GDC 2011 (Doom Post Mortem)](https://www.youtube.com/watch?v=NnkCujnYNSo) | 2011-03
 
 
 ## Tim Willits
@@ -15,7 +15,7 @@
 | [id Software - Doom 3 Team Development Story, Part 1/3](https://www.youtube.com/watch?v=X8xvTJ6msqY) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
 | [id Software - Doom 3 Team Development Story, Part 2/3](https://www.youtube.com/watch?v=jH4DVCNWmMU) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
 | [id Software - Doom 3 Team Development Story, Part 3/3](https://www.youtube.com/watch?v=bMw24I_D9cY) | 2004 [[1]](https://archive.org/details/DOOM_3_G4_History_of_Doom)
-| [Tim Willits on id, John Carmack and game/level design](https://www.youtube.com/watch?v=WHAlkDdro6s) | 2007-10-29 [[1]](https://www.youtube.com/watch?v=R8teXxWXn_M)
+| [Tim Willits on id, John Carmack and game/level design](https://www.youtube.com/watch?v=R8teXxWXn_M) | 2007-10-29 [[1]](https://www.youtube.com/watch?v=R8teXxWXn_M)
 | [1UP's Cross Country Tour: id Software Office Tour](https://www.youtube.com/watch?v=n-SwU2iJ_1k) | 2010-09-06
 | [Rage Tim Willits interview (uncut)](https://www.youtube.com/watch?v=-OIc6a_7hsA) | 2012-10-18
 
